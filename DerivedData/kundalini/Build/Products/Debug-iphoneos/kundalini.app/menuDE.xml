@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <menuitem>		
+        <id></id>
+        <title>Kriya</title>
+        <Set>
+            <id></id>
+            <title>Yogapas aus dem Sonne</title>
+            <info>Kør opvarmning før du starter \nDette yogapas, kaldes ”Surya Kriya” oversat solens yogapas. Solen forbindes med www.cai.com kraft, energi og varme og det siges af, hvis man laver dette yogapas bliver man energisk, kraftfuld og enthusiastisk. \nYogapasset stimulerer fordøjelsen, holder vægten nede og styrker dit immunforsvar. \nDet gør sindet klart, \nanalyserende og fokuseret.
+            </info>
+            <keywords>
+                <key>energi</key>
+                <link>opvarm</link>
+                <key>dit</key>
+                <link>nogetandet</link>
+                <key>opvarmning</key>
+                <link>themind</link>
+            </keywords>
+            <thumbnailimage>Solens YogapasAlle øvelser0.jpg</thumbnailimage>
+            <practice>
+                <id></id>
+                <title>Alle øvelser</title>
+                <info></info>
+                <thumbnailimage>Solens YogapasAlle øvelser0.jpg</thumbnailimage>
+                <url>Movie</url>
+                <moviestart>0</moviestart>
+                <moviestop>728</moviestop>
+                <sound></sound>
+                <snapshot>14</snapshot>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Dybe vejrtrækninger</title>
+                <info>Sid i let skrædderstilling. Dæk venstre næsebor til med tommelfingren to venstre hånd. De andre fingre peger opad.\nLæg den anden hånd på knæet og pres tommelfinger mod pegefinger (gyan mudra).\nÅndedræt: Lange dybe vejrtrækninger gennem højre næsebor.\nTid: 3 – 5 minutter\nÅndedrætsøvelsen giver dig et klart og fokuseret sind. Den virker  opkvikkende og kan hjælpe med at øge koncentrationsevnen. Tip: Døjer du  med at gå ”sukkerkold” om eftermiddagen, så er denne øvelse lige noget. Find et roligt sted og tag 26 lange dybe vejrtrækninger gennem højre næsebor.
+                </info>
+                <thumbnailimage>Solens YogapasDybe vejrtrækninger gennem højre næsebor1.jpg</thumbnailimage>			
+                <url>Movie</url>
+                <moviestart>0</moviestart>
+                <moviestop>25</moviestop>
+                <sound></sound>
+                <recommendedtime>5 min. øvelse</recommendedtime>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Sat Kriya</title>
+                <info>Sid i klippestilling. Fold fingrene sammen, stræk pegefingeren op og pres håndfladerne mod hinanden.\nStræk armene op over hovedet, så de er helt lige og næsten omslutter ørene.\n\nBrug mantraet Sat Nam: Sig Sat og træk maven/navlen ind, sig Nam og slap af.\n\nTid: 1 - 3 minutter.\nEfter afslutning ånd ind, hold vejret inde og spænd rodlåsen. Forestil dig at du hiver energi gennem rygsøjlen op til toppen af hovedet.\n\nHvil en kort tid (ca. 1 minut )efterfølgende.\n\nØvelsen kan laves alene og er en af de mest kraftfulde øvelser i Kundaliniyoga. Den stimulerer kundalinienergien og øger energiflowet i kroppen. Sat Kriya giver dig stærke mavemuskler, stimulerer fordøjelsen, masserer de indre orgaer og styrker hjerte og nervesystemet.\n\nI følge den yogiske tradition balancerer Sat Kriya de 3 nederste chakraer.
+                </info>
+                <thumbnailimage>Solens YogapasSat Kriya2.jpg</thumbnailimage>
+                <url>Movie</url>
+                <moviestart>50</moviestart>
+                <moviestop>60</moviestop>
+                <sound></sound>
+                <recommendedtime>10 min. øvelse</recommendedtime>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Rygflex-Camel ride </title>
+                <info>Sid i skrædderstilling og læg hænderne på skinnebenene. Ånd ind og pres nedre den af ryggen og brystet frem. Ånd ud og rund ryggen tilbage. Hold hovedet lige under hele øvelsen.\n\nÅndedræt og tid : Kraftfulde vejrtrækninger gennem næsen i takt med bevægelsen. Gentag 108 gange.\n\nØvelsen gør ryggen mere fleksibel. Den arbejder med nederste del af rygsøjlen og påvirker bevægeligheden.
+                </info>
+                <thumbnailimage>Solens YogapasRygflex-Camel ride 3.jpg</thumbnailimage>
+                <url>Movie</url>
+                <moviestart>30</moviestart>
+                <moviestop>70</moviestop>
+                <sound></sound>
+                <recommendedtime>10 min. øvelse</recommendedtime>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Frøen</title>
+                <info>Sæt dig på hug og pres hælene mod hinanden. Placer armene mellem benene og hold fingerspidserne i gulvet.\nStræk ryggen lige og hold hovedet oppe.\n\nÅnd ind og stræk benene og kig ind mod navlen.\n\nÅnd ud og kom tilbage til udgangsposition.\nTid: 26 gange.\n\nDenne øvelse sætter gang i kredsløbet, styrker lårmusklerne og løsner spændinger i bryst.
+                </info>
+                <thumbnailimage>Solens YogapasFrøen4.jpg</thumbnailimage>
+                <url>Movie</url>
+                <moviestart>407</moviestart>
+                <moviestop>427</moviestop>
+                <sound></sound>
+                <recommendedtime>20 min. øvelse</recommendedtime>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Hoveddrejning</title>
+                <info>Sid i let meditationsstillinger eller klippestilling og læg hænderne på lårene.\n\nÅnd ind og drej hovedet til venstre\nÅnd ud og drej hovedet til højre\n\nBrug mantraet Sat Nam: Sig Sat når du ånder ind og Nam når du ånder ud.\n\nTid: 2 - 3 minutter.\n\nDenne øvelse øger energiflowet til halschakraet. Øger blodcirkulationen til hovedet og stimulerer skjoldbruskkirtlen.
+                </info>
+                <thumbnailimage>Solens YogapasHoveddrejning5.jpg</thumbnailimage>
+                <url>Movie</url>
+                <moviestart>380</moviestart>
+                <moviestop>400</moviestop>
+                <sound></sound>           
+                <moviestop>110</moviestop>
+                <sound></sound>
+                <recommendedtime>10 min. øvelse</recommendedtime>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Savasana</title>
+                <info>Lang dyb afslapning\n10 minutter
+                </info>
+                <thumbnailimage>Solens YogapasSavasana7.jpg</thumbnailimage>
+                <url>Movie</url>
+                <moviestart>34</moviestart>
+                <moviestop>56</moviestop>
+                <sound></sound>
+            </practice>
+
+        </Set>
+        <Set>
+            <id></id>
+            <title>Anti-Stress</title>
+            <info></info>
+            <keywords>
+                <key></key>
+                <link></link>
+            </keywords>
+            <thumbnailimage>Anti-Stress Hesten0</thumbnailimage>
+            <practice>
+                <id></id>
+                <title>Hesten</title>
+                <info>Vrinsk som hest og stå på fire ben</info>
+                <thumbnailimage>Christian Nulenergi YogapasHesten0.jpg</thumbnailimage>                        
+                <url>Movie1</url>
+                <moviestart>12</moviestart>
+                <moviestop>30</moviestop>
+                <sound></sound>                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Skildpadden</title>
+                <info>Vrinsk som skildpadde og stå på fire ben</info>
+                <thumbnailimage>Christian Nulenergi YogapasSkildpadden1.jpg</thumbnailimage>
+                <url>Movie1</url>
+                <moviestart>25</moviestart>
+                <moviestop>30</moviestop>
+                <sound></sound>
+            </practice>
+        </Set>
+        <Set>
+            <id></id>
+            <title>Væk kroppen, sjælen og sindet</title>
+            <info></info>
+            <thumbnailimage>Væk kroppen stræk stilling0.png</thumbnailimage>
+            <practice>
+                <id></id>
+                <title>Stræk stilling</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>                        
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Hoved mod knæene</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Egobekæmperen</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Fremad stræk ben</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Fremad stræk mellem ben</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Rygflex</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Rygflex i klippestilling</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Ryg-twist</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Albueløft</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Armløft i venuslås</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Skulderløft - afvekslende</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Skulderløft</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Hoveddrejning</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Frøen</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+            </practice>
+            <practice>
+                <id></id>
+                <title>Afspænding</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+            </practice>
+        </Set>
+        <Set>
+            <id></id>
+            <title>Opløftende energi</title>
+            <info></info>
+            <thumbnailimage>Opløftende energi Egobekæmperen0.png</thumbnailimage>
+            <practice>
+                <id></id>
+                <title>Egobekæmperen</title>
+                <info></info>
+                <thumbnailimage>Opløftende energi Egobekæmperen0.png</thumbnailimage>
+                <url>7_set-Yoga</url>
+                <moviestart>1</moviestart>
+                <moviestop>13</moviestop>
+                <sound></sound>
+                <snapshot></snapshot>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Rygflex</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url>7_set-Yoga</url>
+                <moviestart>14</moviestart>
+                <moviestop>20</moviestop>
+                <sound></sound>
+                <snapshot></snapshot>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Rygdrejning</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Fremadstræk</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Fremadstræk et ben af gangen</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Fremadstræk med benene udstrakte</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Kobraen</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Skulderløft</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Nakkerul</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Sat Kriya</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Afspænding</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+        </Set>
+        <Set>
+            <id></id>
+            <title>Recharge</title>
+            <info></info>
+            <thumbnailimage>Recharge0.png</thumbnailimage>
+            <practice>
+                <id></id>
+                <title>Kat/Ko med ildånding</title>
+                <info></info>
+                <thumbnailimage>Recharge Kat/Ko med ildånding0.png</thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Træk som om du trækker et reb</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Bow Pose</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Stående og siddende</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Sidddende med armene oppe over hovedet</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+            <practice>
+                <id></id>
+                <title>Afslapning med mave med hovedet til side</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+        </Set>
+    </menuitem>
+    <menuitem>     
+        <id></id>
+        <title>Meditation</title>
+        <practice>
+            <id></id>
+            <title>Sat Kriya</title>
+            <info></info>
+            <thumbnailimage></thumbnailimage>            
+            <url></url>
+            <moviestart></moviestart>
+            <moviestop></moviestop>
+            <sound></sound>
+            
+            
+        </practice>
+        <practice>
+            <id></id>
+            <title>Mod angst og depression</title>
+            <info></info>
+            <thumbnailimage></thumbnailimage>            
+            <url></url>
+            <moviestart></moviestart>
+            <moviestop></moviestop>
+            <sound></sound>                        
+        </practice>
+        <practice>
+            <id></id>
+            <title>For mental klarhed</title>
+            <info></info>
+            <thumbnailimage></thumbnailimage>
+            <url></url>
+            <moviestart></moviestart>
+            <moviestop></moviestop>
+            <sound></sound>
+        </practice>
+        <practice>
+            <id></id>
+            <title>For stærke nerver</title>
+            <info></info>
+            <thumbnailimage></thumbnailimage>
+            <url></url>
+            <moviestart></moviestart>
+            <moviestop></moviestop>
+            <sound></sound>
+        </practice>
+        <practice>
+            <id></id>
+            <title>For et roligt hjerte</title>
+            <info></info>
+            <thumbnailimage></thumbnailimage>
+            <url></url>
+            <moviestart></moviestart>
+            <moviestop></moviestop>
+            <sound></sound>
+        </practice>
+        <practice>
+            <id></id>
+            <title>For kraftfuld energi</title>
+            <info></info>
+            <thumbnailimage></thumbnailimage>
+            <url></url>
+            <moviestart></moviestart>
+            <moviestop></moviestop>
+            <sound></sound>
+        </practice>
+                    
+    </menuitem>
+    <menuitem>     
+        <id></id>
+        <title>Warmup</title>
+        <practice>
+            <id></id>
+            <title>Sufikredse</title>
+            <info></info>
+            <thumbnailimage></thumbnailimage>            
+            <url></url>
+            <moviestart></moviestart>
+            <moviestop></moviestop>
+            <sound></sound>
+            
+            
+        </practice>
+        <practice>
+            <id></id>
+            <title>Rygflex</title>
+            <info></info>
+            <thumbnailimage></thumbnailimage>            
+            <url></url>
+            <moviestart></moviestart>
+            <moviestop></moviestop>
+            <sound></sound>                        
+        </practice>
+        <practice>
+            <id></id>
+            <title>Twist</title>
+            <info></info>
+            <thumbnailimage></thumbnailimage>
+            <url></url>
+            <moviestart></moviestart>
+            <moviestop></moviestop>
+            <sound></sound>
+        </practice>
+        <practice>
+            <id></id>
+            <title>Skulderløft</title>
+            <info></info>
+            <thumbnailimage></thumbnailimage>
+            <url></url>
+            <moviestart></moviestart>
+            <moviestop></moviestop>
+            <sound></sound>
+        </practice>
+        <practice>
+            <id></id>
+            <title>Fremafstræk</title>
+            <info></info>
+            <thumbnailimage></thumbnailimage>
+            <url></url>
+            <moviestart></moviestart>
+            <moviestop></moviestop>
+            <sound></sound>
+        </practice>
+        <practice>
+            <id></id>
+            <title>Kat/Ko</title>
+            <info></info>
+            <thumbnailimage></thumbnailimage>
+            <url></url>
+            <moviestart></moviestart>
+            <moviestop></moviestop>
+            <sound></sound>
+        </practice>
+        
+    </menuitem> 
+</menu>

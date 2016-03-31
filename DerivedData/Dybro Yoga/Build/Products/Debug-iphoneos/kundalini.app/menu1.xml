@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by cta (KMD A/S) -->
+<menu>
+	<menuitem>
+		<id/>
+		<title>Yoga</title>
+		<Set>
+			<id/>
+			<title>Warm up</title>
+			<info>”The age of a person is not measured in years – but in how flexible your spine is”  - Yogi Bhajan \n \nChoose one, two or all of the warm up exercises to give your body a gentle warm-up.\nYou can choose any of the exercises and use at any time of day. \n\nEnjoy! </info>
+			<thumbnailimage>20121205-Final_Opvarmning.jpg</thumbnailimage>
+			<practice>
+                <id></id>
+				<title>Warm up consists of 6 exercises</title>
+                <info/>
+				<thumbnailimage>20121205-Final_Opvarmning.jpg</thumbnailimage>
+				<url>Final_Opvarmning</url>
+				<moviestart/>
+				<moviestop/>
+				<sound/>
+				<snapshot/>
+			</practice>
+            <practice>
+                <id></id>
+                <title>Sufi Grind</title>
+                <info>(Excellent warm up exercise for your lower spine).\nSit in easy pose. \nHold your hands on your knees. Begin rotating/moving your spine in a big circle. Inhale as you circle forward, imagine painting a big circle with the tip of your nose around your body. Lift your heart up and press your shoulder blades together on the inhale.\n\nExhale and rotate back.\n\nStart from left to right and continue for 1 – 3 minutes. Change directions.\n\nThis exercise warms up your lower back and stimulates your digestion.</info>
+                <thumbnailimage>20121205-Final_Opvarmning.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>1</moviestart>
+                <moviestop>34</moviestop>
+                <sound/>
+                <recommendedtime>1 - 3 min. exercise</recommendedtime>
+            </practice>
+            <practice>
+                <id/>
+                <title>Easy Pose Spinal Flex</title>
+				<info>Grasp your shins with both hands. Inhale, stretch your spine forward. Exhale, let your spine flex backwards. Keep your head level during the movements. On each inhale mentally vibrate the mantra “Sat,” on the exhale, mentally vibrate “Nam.” On each exhale apply root lock.\n\nTime: 1 – 3 minutes\n\nTo end. Then inhale, hold briefly with the spine perfectly straight. Relax.\n\nThis exercise massages your spine and aids its flexibility. It gently massages your digestion.</info>
+                <thumbnailimage>20121205-Final_Opvarmning-2.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>38</moviestart>
+                <moviestop>58</moviestop>
+                <sound/>
+                <recommendedtime>1 - 3 min. exercise</recommendedtime>
+            </practice>
+            <practice>
+                <id/>
+                <title>Spinal Flex</title>
+                <info>Sit in easy pose, grasp your shins with both hands. Inhale and flex the spine forward. Exhale and flex the spine back, keeping your shoulders relaxed and your head straight.\n\nTime: 1-3 minutes. Then inhale. Exhale and relax.\n\nThis exercise stimulates and stretches the lower back and mid- spine.</info>
+                <thumbnailimage>20121205-Final_Opvarmning-3.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>61</moviestart>
+                <moviestop>83</moviestop>
+                <sound/>
+                <recommendedtime>1 - 3 min. exercise</recommendedtime>
+            </practice>
+            <practice>
+                <id/>
+                <title>Forward Stretch</title>
+                <info>Stretch both legs straight out in front. Grab the big toe of each foot by locking the index finger around the toe and pressing the thumb against the toenail - if you cannot reach the toes, grab your ankles.\n\nInhale and stretch your spine straight, pulling back on the toes and keeping the knees straight.\n\nExhale and bend forward, folding down over your legs with your heart leading.\n\nContinue with deep, powerful breathing for 1-3 minutes. Inhale up and hold the breath briefly. Stay up and exhale completely, holding the breath out briefly. Inhale and relax.\n\nThis exercise works on the lower and upper spine.</info>
+                <thumbnailimage>20121205-Final_Opvarmning-4.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>86</moviestart>
+                <moviestop>109</moviestop>
+                <sound/>
+                <recommendedtime>1 - 3 min. exercise</recommendedtime>
+            </practice>
+            <practice>
+                <id/>
+                <title>Forward bend with legs straight</title>
+                <info>(Stretch out your life!)\nSit with legs out to the sides. Lean forward and grab hold of our big toe, if possible.\n\nIf you cannot grab your big toe, just grab your ankle, shin or beneath your knee.\n\nInhale and stretch up. Exhale and bend your upper body from your hips over your left leg. Inhale come back to the middle and stretch your back again. Exhale and bend over your right leg.\n\nRemember to keep your heart open and bend from your hips. In Kundalini Yoga we often call the muscle running down the back of your legs – our life-nerves!\n\nTime: 1 – 3 minutes.\n\nThis stretches the back of your legs, your thighs and lower back.</info>
+                <thumbnailimage>20121205-Final_Opvarmning-5.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>113</moviestart>
+                <moviestop>135</moviestop>
+                <sound/>
+                <recommendedtime>1 - 3 min. exercise</recommendedtime>
+            </practice>
+            <practice>
+                <id/>
+                <title>Spinal Twist</title>
+                <info>(twist your sides and warm up your spine)\nSit in easy posy and place your hands on your shoulders, with your fingers pointing forward and your thumb back. Your arms are parallel to the earth.\n\nInhale and twist your upper body to the left. Exhale and twist to the right. Let your head follow the movement.\n\nTime: 1 – 3 minutes\n\nThis easy-to-do exercise stretches the muscles on your sides and warms up your spine. It also increases circulation in your chest and belly.</info>
+                <thumbnailimage>20121205-Final_Opvarmning-6.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>137</moviestart>
+                <moviestop>160</moviestop>
+                <sound/>
+                <recommendedtime>1 - 3 min. exercise</recommendedtime>
+            </practice>
+		</Set>
+		<Set>
+			<id/>
+			<title>Yoga for the Sun Energy</title>
+			<info>(Surya Kriya) - This set of yoga exercises is named after the energy of the sun. It brings in the energy of the sun to help you keep warm, energetic and enthusiastic. It also aids your digestion and helps you hold the weight down. Your mind will feel clear and focused afterwards.\n\nGrap your yoga mat and get ready to shine like the sun!</info>
+			<thumbnailimage>20121205-Final_surya_kriya.jpg</thumbnailimage>
+			<practice>
+				<id/>
+				<title>Surya kriya consists of 7 exercises</title>
+				<info/>
+				<thumbnailimage>20121205-Final_surya_kriya.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart/>
+				<moviestop/>
+				<sound/>
+				<snapshot/>
+			</practice>
+			<practice>
+				<id/>
+				<title>1. Easy Pose</title>
+				<info>Sit in Easy Pose with a straight spine. Rest your right hand on the right knee with your index finger and thumb touching. Block the left nostril with the thumb of the left hand. The other fingers point straight up. Begin **long, deep, powerful breaths in and out of the right nostril. Focus on the flow of breath. Continue for 3-5 minutes. Inhale and relax.\n\nThis exercise draws on the “sun” breath and gives you a clear, focused mind.\n\n**Practise your long deep breathing the following way:\n\n1). Practise this either sitting in easy pose, on a chair or lying down.\nPut your hand on your belly.\nBreathe deep into your belly, and feel your hand being moved away from your body.\nYour diaphragm is pressed down.\n\nPractise this way of breathing into your belly for 10 long deep breaths.\n\n2). Breathe deeply into your belly – then fill out the air into your ribbs. You might feel your sides extending  and your ribbs.\n\n3). Place a hand on your chest.\nBreathe into your belly, out into your ribs and finally all the way up to your collarbone.\nYou may feel your collarbone lifting a little.\n\nThe positive effects of long deep breathing are many. Here are a few:\n\n-	Gives energy and focus\n-	Relaxes and calms you\n-	Helps you control your feelings and thoughts\n-	Creates patience and stamina</info>
+				<thumbnailimage>20121205-Final_surya_kriya.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>1</moviestart>
+				<moviestop>27.2</moviestop>
+				<sound/>
+				<recommendedtime>3 - 5 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>2. Sat Kriya</title>
+				<info>Sat Kriya. Sit on the heels with the arms overhead and the palms together. Interlace the fingers except for the index fingers, which point straight up. Men cross the right thumb over the left thumb; women cross the left thumb over the right thumb.To do Sat Kriya rhythmically chanting “Sat Nam,” emphasize “Sat” as you pull the navel in. On “Nam,” release the lock, focus at the brow point. “Sat” means truth – “Nam” means identity.\nContinue for 3 minutes. Then inhale, suspend the breath, apply root lock* and imagine your energy radiating from the navel point and circulating throughout the body. Relax. Repeat the exercise for 3 minutes. \nThen inhale, apply root lock* and mentally draw the energy to the top of the fingertips. Relax.\n\nThis exercise releases energy stored at the navel point, strengthens your heart, rejuvenates you and gives your energy.\n\n*Root lock: To practice Root Lock, start by pulling up on the muscles in and around the anus, as if holding back a bowel movement. Then contract the area around the sex organs, as if holding back a urination. You might feel a slight lift of the public bone. Finally, contract the lower abdominal muscles and pull the naval back toward the spine. Contracting all these muscles simultaneously is a root lock.</info>
+				<thumbnailimage>20121205-Final_surya_kriya-2.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>28.24</moviestart>
+				<moviestop>50</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>3. Easy Pose Spinal Flex</title>
+				<info>Grasp your shins with both hands. Inhale, stretch your spine forward. Exhale, let your spine flex backwards. Keep your head level during the movements. On each inhale mentally vibrate the mantra “Sat,” on the exhale, mentally vibrate “Nam.” On each exhale apply root lock.\n\nTime: 1 – 3 minutes\n\nTo end. Then inhale, hold briefly with the spine perfectly straight. Relax.\n\nThis exercise massages your spine and aids its flexibility. It gently massages your digestion.</info>
+				<thumbnailimage>20121205-Final_surya_kriya-3.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>50.5</moviestart>
+				<moviestop>75</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>4. Frog Pose</title>
+				<info>Squat, the heels together and up off the ground. Fingers are on the ground between the knees. Lift the head up in this position. Inhale, raise the buttocks high, lower the forehead towards the knees and keep the heels off the ground. Exhale and come back to the original squatting position, face forward. Continue with deep breaths 26 times. Inhale up, then relax down onto the heels.\n\nThis great exercise has many benefits:\n\n-	It shapes, tones and strengthens the legs and lower body.  Especially the thighs muscles.\n\n-	It promotes your circulation and the flexibility of your hamstrings.</info>
+				<thumbnailimage>20121205-Final_surya_kriya-4.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>76</moviestart>
+				<moviestop>100.15</moviestop>
+				<sound/>
+				<recommendedtime>Repeat 26 times</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>5. Neck Turns</title>
+				<info>Sitting on your heels or in easy pose, place the hands on the thighs. With the spine very straight, inhale deeply and turn the head to the left. Mentally chant “Sat.” Exhale completely as you turn the head to the right. Mentally chant “Nam.”\n\nContinue inhaling and exhaling for 3 minutes.\n\nInhale with the head straight forward and relax.\n\nThis stimulates the circulation to the head and works on the thyroid and parathyroid glands.</info>
+				<thumbnailimage>20121205-Final_surya_kriya-5.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>104</moviestart>
+				<moviestop>126</moviestop>
+				<sound/>
+				<moviestop>110</moviestop>
+				<sound/>
+				<recommendedtime>2 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>6. Spinal Bend</title>
+				<info>Sit in Easy Pose. Put your hands on the shoulders with the fingers in front and the thumbs in the back. The upper arms and elbows are parallel to the ground. Inhale as you bend to the left, exhale and bend to the right. Continue this swaying motion with deep breaths for 3 minutes. Then inhale straight. Relax.\n\nThis exercise flexes the spine, distributes the energy over the whole body and balances the magnetic field.</info>
+				<thumbnailimage>20121205-Final_surya_kriya-6.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>128</moviestart>
+				<moviestop>151</moviestop>
+				<sound/>
+				<recommendedtime>3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>7. Meditate</title>
+				<info>Sit in a perfect meditative posture with the spine straight. Direct all attention through the Brow Point. Pull the Navel Point in — hold it — apply Mulbandh. Watch the flow of breath. On the inhale, listen to silent “Sat.” On the exhale, listen to silent, “Nam.” Continue 6 minutes or longer.\n\nThis will take you into a deep self-healing meditation.</info>
+				<thumbnailimage>20121205-Final_surya_kriya-7.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>152</moviestart>
+				<moviestop>173.24</moviestop>
+				<sound/>
+				<recommendedtime>6 min. meditation</recommendedtime>
+			</practice>
+		</Set>
+		<Set>
+			<id/>
+			<title>Anti-Stress</title>
+			<info>This short set of yoga exercises helps reduce stress. The exercises work on many of the areas in the body, that have a tendency to tense up – e.g. shoulders, neck, back and the pelvis</info>
+			<thumbnailimage>20121205-Final_Antistress.jpg</thumbnailimage>
+			<practice>
+				<id/>
+				<title>Anti-stress consists of 4 exercises</title>
+				<info/>
+				<keywords>
+					<key/>
+					<link/>
+					<key/>
+					<link/>
+				</keywords>
+				<thumbnailimage>20121205-Final_Antistress.jpg</thumbnailimage>
+				<url>Final_Antistress</url>
+				<moviestart>0</moviestart>
+				<moviestop>148</moviestop>
+				<sound/>
+			</practice>
+			<practice>
+				<id/>
+				<title>1. Easy pose with a straight back </title>
+				<info>Stretch up the arms in a 60 degree angle with the palms facing up and parallel to the floor.  \nStretch the arms all the way out. \n**Long deep breaths. \n\nTime: 1 – 3 minutes \n\nThe exercises strengthens the arms and opens up the chest. After a short time your breath will automatically become long and deep.\n\n**Practise your long deep breathing the following way:\n\n1). Practise this either sitting in easy pose, on a chair or lying down.\nPut your hand on your belly.\nBreathe deep into your belly, and feel your hand being moved away from your body.\nYour diaphragm is pressed down.\n\nPractise this way of breathing into your belly for 10 long deep breaths.\n\n2). Breathe deeply into your belly – then fill out the air into your ribbs. You might feel your sides extending  and your ribbs.\n\n3). Place a hand on your chest.\nBreathe into your belly, out into your ribs and finally all the way up to your collarbone.\nYou may feel your collarbone lifting a little.\n\nThe positive effects of long deep breathing are many. Here are a few:\n\n-	Gives energy and focus\n-	Relaxes and calms you\n-	Helps you control your feelings and thoughts\n-	Creates patience and stamina
+                </info>
+				<thumbnailimage>20121205-Final_Antistress.jpg</thumbnailimage>
+				<url>Final_Antistress</url>
+				<moviestart>1</moviestart>
+				<moviestop>38</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>2. Pelvic lifts</title>
+				<info>Lie on the back. \n\nBend the knees with the feet flat on the ground. Grab hold of your ankles. Inhale, engage the navel and lift the hips up. \nExhale down, lowering your back.</info>
+				<thumbnailimage>20121205-Final_Antistress-2.jpg</thumbnailimage>
+				<url>Final_Antistress</url>
+				<moviestart>41.54</moviestart>
+				<moviestop>65</moviestop>
+				<sound/>
+				<recommendedtime>12 – 26 times</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>3. Triangle Pose</title>
+				<info>Begin in a standing position. \nPlace the palms of the hands with the fingers spread wide on the ground. \nThe soles of the feet on the ground.  \nThe fees are approximately hip-width apart. \nCheckpoints: \n- Create a straight line between your wrists and your hips, and from your hips to your heels. \n\n- The chin is pulled in, elongating the neck. \n\n- Roll the armpits toward each other \n\n- Do not oversway the back.</info>
+				<thumbnailimage>20121205-Final_Antistress-3.jpg</thumbnailimage>
+				<url>Final_Antistress</url>
+				<moviestart>74.48</moviestart>
+				<moviestop>95.39</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>4. Neck Rolls</title>
+				<info>Sit with a straight but relaxed spine. Adjust the head so that you feel like it is sitting on top of the spine by slightly moving the head back and bringing the chin down slightly. Roll the neck slowly in one direction and then in the other. Let the weight of the head move the head around. Do this very methodically so that you go slowing through tight spots and work out areas of tension. \nAt least one minute in each direction. \n\nTo end: \nAfter this exercise, sit quietly and be with the sensations in your body and spine.
+                    \n\nBenefits: This exercise removes tension in the neck and stimulates the thyroid.</info>
+				<thumbnailimage>20121205-Final_Antistress-4.jpg</thumbnailimage>
+				<url>Final_Antistress</url>
+				<moviestart>109.30</moviestart>
+				<moviestop>148.36</moviestop>
+				<sound/>
+				<recommendedtime>12 times in each direction</recommendedtime>
+			</practice>
+		</Set>
+		<Set>
+			<id/>
+			<title>Kriya for Elevation</title>
+			<info>This easy set of exercises is excellent as a warm-up and a tune-up.\nIt systematically exercises your whole spine and leaves you feeling balanced, uplifted and full of energy.</info>
+			<thumbnailimage>20121205-Final_Elevation.jpg</thumbnailimage>
+			<practice>
+				<id/>
+				<title>Kriya for Elevation consists of 10 exercises</title>
+				<info/>
+				<thumbnailimage>20121205-Final_Elevation.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart/>
+				<moviestop/>
+				<sound/>
+			</practice>
+			<practice>
+				<id/>
+				<title>1. Ego Eradicator</title>
+				<info>Sit in easy pose. Extend your arms up to 60 degree angle, palms facing forward. Curl your fingertips into the pads of the palms and extend your thumbs. Angle the wrists so that the thumbs are pointing straight up and the other fingers are parallel to the ground.\nBegin **breath of fire or breathe long and deep.\n\nTime: 1-3 minutes.\n\nThen inhale deeply and hold the breath as you bring the thumbtips together above your head. Then exhale and apply root lock. Hold the breath out briefly. Then inhale and relax.\n\nThis exercise opens your lungs and brings the hemispheres of the brain to a state of alertness.\n\n**Breath of Fire is a commonly used breathing technique done in Kundalini Yoga. It is done by pumping the navel point in and out while breathing through the nose. The navel is pulled in on your exhale.\n\nTip: To start it is easier to focus on the exhale and start at a slow rhythm. Eventually your breath will have a consistent and equal breath.\n\nAnother tip is to put out your tongue and practise pulling your navel in on the exhale. Somewhat like a dog panting – put softly. Eventually close your mouth and breathe in and out through your nose.\n\nThere are many introduction videos on YouTube and the internet.\n\nThe positive effects of Breath of Fire are also many. Here a few.\n\n-	Strengthens the nervous system\n-	Oxygenates your blood, and helps the body detoxify\n-	Builds lung capacity and helps purify the respiratory system\n-	Generates heat and increases your energy level\n-	Gives focus and clarity\n\nCautions for Practicing Breath of Fire Kundalini Yoga Pranayama:\n•	If you feel dizzy when practicing Breath of Fire, you should stop and substitute normal breathing.\n•	If you are menstruating you should not practice Breath of Fire, use Long Deep Breathing instead.\n•	You should be careful practicing Breath of Fire if you have high blood pressure, heart disease or suffer from stroke or epilepsy.  Also, if you have acid or heat related gastric issues such as ulcers you should use caution.</info>
+				<thumbnailimage>20121205-Final_Elevation.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>1</moviestart>
+				<moviestop>17</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>2. Spinal Flex</title>
+				<info>Sit in easy pose, grasp your shins with both hands. Inhale and flex the spine forward. Exhale and flex the spine back, keeping your shoulders relaxed and your head straight.\n\nTime: 1-3 minutes. Then inhale. Exhale and relax.\n\nThis exercise stimulates and stretches the lower back and mid- spine.</info>
+				<thumbnailimage>20121205-Final_Elevation-2.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>19</moviestart>
+				<moviestop>39</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>3. Twist</title>
+				<info>In easy pose, place your hands on your shoulders, arms parallel to the ground. Your thumbs back and the fingers in front.\nInhale as you twist your torso and your head the left. Exhale as you twist to the right.\n\nTime 1-3 minutes, then inhale, facing straight forward. Exhale and relax.\n\nThis exercise stimulates and stretches the lower and mid-spine.</info>
+				<thumbnailimage>20121205-Final_Elevation-3.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>43</moviestart>
+				<moviestop>56</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>4. Leg stretch</title>
+				<info>Stretch both legs straight out in front. Grab the big toe of each foot by locking the index finger around the toe and pressing the thumb against the toenail - if you cannot reach the toes, grab your ankles.\n\nInhale and stretch your spine straight, pulling back on the toes and keeping the knees straight.\nExhale and bend forward, folding down over your legs with your heart leading.\nContinue with deep, powerful breathing for 1-3 minutes. Inhale up and hold the breath briefly. Stay up and exhale completely, holding the breath out briefly. Inhale and relax.\n\nThis exercise works on the lower and upper spine.</info>
+				<thumbnailimage>20121205-Final_Elevation-4.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>58</moviestart>
+				<moviestop>73</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>5. One-leg stretch</title>
+				<info>Sit on your right heel with the left leg extended forward. Grasp the big toe of the left foot with both hands, applying a pressure against the toenail – if you cannot reach – grab hold of your shin.\n\nBegin **breath of fire or long deep breathing.\n\nTime: 1-2 minutes.\n\nInhale. Exhale and stretch the head and torso forward and down. Hold the breath out briefly. Inhale and switch legs. Repeat the exercise using the opposite side.\n\nRelax.\n\nThis exercise helps elimination, stretches the sciatic nerve and brings circulation to the upper torso.\n\n**Breath of Fire is a commonly used breathing technique done in Kundalini Yoga. It is done by pumping the navel point in and out while breathing through the nose. The navel is pulled in on your exhale.\n\nTip: To start it is easier to focus on the exhale and start at a slow rhythm. Eventually your breath will have a consistent and equal breath.\n\nAnother tip is to put out your tongue and practise pulling your navel in on the exhale. Somewhat like a dog panting – put softly. Eventually close your mouth and breathe in and out through your nose.\n\nThere are many introduction videos on YouTube and the internet.\n\nThe positive effects of Breath of Fire are also many. Here a few.\n\n-	Strengthens the nervous system\n-	Oxygenates your blood, and helps the body detoxify\n-	Builds lung capacity and helps purify the respiratory system\n-	Generates heat and increases your energy level\n-	Gives focus and clarity\n\nCautions for Practicing Breath of Fire Kundalini Yoga Pranayama:\n•	If you feel dizzy when practicing Breath of Fire, you should stop and substitute normal breathing.\n•	If you are menstruating you should not practice Breath of Fire, use Long Deep Breathing instead.\n•	You should be careful practicing Breath of Fire if you have high blood pressure, heart disease or suffer from stroke or epilepsy.  Also, if you have acid or heat related gastric issues such as ulcers you should use caution.</info>
+				<thumbnailimage>20121205-Final_Elevation-5.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>75</moviestart>
+				<moviestop>93</moviestop>
+				<sound/>
+				<recommendedtime>1 - 2 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>6. Wide-leg stretch</title>
+				<info>Spread the legs wide, grasping your toes (again if possible – do your best).\nInhale and stretch the spine straight, pulling back on the toes.\nExhale and, bending at the waist, bring the head down to the left knee.\nInhale up in the center position and exhale down, bringing up the head to the right knee.\n\nTime: Continue with powerful breathing for 1-2 minutes.\nThen inhale up in the center position and exhale, bending straight forward from the waist. Continue this up and down motion for 1 minute, then inhale up, stretching the spine straight. Exhale, bringing your forehead towards the floor. Hold the breath out briefly as you stretch forward and down. Inhale and relax.\n\nThis exercise develops flexibility of the lower spine and sacrum and charges the magnetic field.</info>
+				<thumbnailimage>20121205-Final_Elevation-6.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>100</moviestart>
+				<moviestop>114</moviestop>
+				<sound/>
+				<recommendedtime>1 - 2 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>7. Cobra Pose</title>
+				<info>Lie on the stomach with your palms flat on the floor under your shoulders. The heels are together with the soles of the feet facing up. Inhale into cobra pose, arching the spine, vertebra by vertebra, from the neck to the base of the spine until the arms are straight with the elbows locked. Alternatively leave your underarms on the floor in what we call Sphinx pose.\nBegin **breath of fire or long ***deep breathing.\n\nTime: 1-3 minutes. Then inhale, arching the spine to the maximum. Exhale and hold the breath out briefly, apply the root lock. Inhale. Exhaling slowly, lower the arms and relax the spine, vertebra by vertebra, from the base of the spine to the top.\nRelax, lying on the stomach with the chin on the floor and the arms by the sides.\n\nThis exercise opens up the chest and reduces tension, stress and fatigue within the body. It strengthens and tones the back muscles and tissues along the vertebrae, therefore relieving any tension, aches and pains in the lower back.\n\n**Breath of Fire is a commonly used breathing technique done in Kundalini Yoga. It is done by pumping the navel point in and out while breathing through the nose. The navel is pulled in on your exhale.\n\nTip: To start it is easier to focus on the exhale and start at a slow rhythm. Eventually your breath will have a consistent and equal breath.\n\nAnother tip is to put out your tongue and practise pulling your navel in on the exhale. Somewhat like a dog panting – put softly. Eventually close your mouth and breathe in and out through your nose.\n\nThere are many introduction videos on YouTube and the internet.\n\nThe positive effects of Breath of Fire are also many. Here a few.\n\n-	Strengthens the nervous system\n-	Oxygenates your blood, and helps the body detoxify\n-	Builds lung capacity and helps purify the respiratory system\n-	Generates heat and increases your energy level\n-	Gives focus and clarity\n\nCautions for Practicing Breath of Fire Kundalini Yoga Pranayama:\n•	If you feel dizzy when practicing Breath of Fire, you should stop and substitute normal breathing.\n•	If you are menstruating you should not practice Breath of Fire, use Long Deep Breathing instead.\n•	You should be careful practicing Breath of Fire if you have high blood pressure, heart disease or suffer from stroke or epilepsy.  Also, if you have acid or heat related gastric issues such as ulcers you should use caution.\n\n***Practise your long deep breathing the following way:\n\n1). Practise this either sitting in easy pose, on a chair or lying down.\nPut your hand on your belly.\nBreathe deep into your belly, and feel your hand being moved away from your body.\nYour diaphragm is pressed down.\n\nPractise this way of breathing into your belly for 10 long deep breaths.\n\n2). Breathe deeply into your belly – then fill out the air into your ribbs. You might feel your sides extending  and your ribbs.\n\n3). Place a hand on your chest.\nBreathe into your belly, out into your ribs and finally all the way up to your collarbone.\nYou may feel your collarbone lifting a little.\n\nThe positive effects of long deep breathing are many. Here are a few:\n\n-	Gives energy and focus\n-	Relaxes and calms you\n-	Helps you control your feelings and thoughts\n-	Creates patience and stamina
+                </info>
+				<thumbnailimage>20121205-Final_Elevation-7.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>116</moviestart>
+				<moviestop>130</moviestop>
+				<sound/>
+				<recommendedtime>1 - 2 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>8. Shoulder shrugs</title>
+				<info>Sit in easy pose. Place your hands on your knees. Inhale and shrug the shoulders up toward the ears. Exhale and drop your shoulders down.\nTime: with powerful breathing for 1-2 minutes. Inhale. Exhale and relax.\n\nThis exercise loosens tension in the shoulders and strengthens the muscles in and around your neck.</info>
+				<thumbnailimage>20121205-Final_Elevation-8.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>133</moviestart>
+				<moviestop>151</moviestop>
+				<sound/>
+				<recommendedtime>1 - 2 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>9. Neck rolls</title>
+				<info>Sit in easy pose. Begin rolling your neck clockwise in a circular motion, bringing the right ear toward the right shoulder, the back of the head toward the back of the neck, the left ear toward the left shoulder and the chin toward the chest. The shoulders remain relaxed and motionless, and the neck should be allowed to gently stretch as the head circles around.\n\nTime: 1 - 2 minutes, then reverse the direction and continue for 1 - 2 minutes more. Bring the head to a central position and relax.</info>
+				<thumbnailimage>20121205-Final_Elevation-9.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>154</moviestart>
+				<moviestop>178</moviestop>
+				<sound/>
+				<recommendedtime>1 - 2 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>10. Sat kriya</title>
+				<info>We will use the mantra “Sat Nam” in this exercise and chant it out load. On Sat you pull your navel in and up and on Nam relax your navel.\n\n1)     Sit on your heels in Rock Pose.\n(Alternate: Rock Pose is the preferred posture but if you are unable to sit in Rock Pose, you may sit in Easy Pose or in a chair)\n\n2)     Stretch your arms above your head so that they are perfectly straight, no bend in the elbows, upper arms hugging your ears.\n\n3)     Interlace your fingers and extend your index fingers, pointing upward.\n\nNote:\n\nWomen left thumb crossed over right.\n\nMen: Men right thumb crossed over left.\n\n4)     Close the eyes and roll them up to the Brow Point.\n\n5)     Inhale slightly to begin.\n\nTime: Start with 3 minutes and build up to 31 minutes.\n\nTo end: Inhale deeply and hold the breath. Drawing in the navel, squeezing the muscles of the pelvic floor, and draw the diaphragm in. Exhale let all the air out. Again draw in your navel, squeeze the muscles of your pelvic floor and draw up your diaphragm, tuck in your chin.\n\nThis exercise is used as a treatment for depression, it works on the digestion, it builds your nervous system and reproduction system and strengths your heart.</info>
+				<thumbnailimage>20121205-Final_Elevation-10.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>181</moviestart>
+				<moviestop>208</moviestop>
+				<sound/>
+				<recommendedtime>3 - 7 min. exercise</recommendedtime>
+			</practice>
+		</Set>
+		<Set>
+			<id/>
+			<title>Detox and Destress</title>
+			<info>These simple and effective exercises deal with the effects of stress.\nA tune up for your adrenals and kidneys so that your body can process the effects of stress and it leaves your feeling relaxed and renewed.</info>
+			<thumbnailimage>20121205-Final_Destress detox.jpg</thumbnailimage>
+			<practice>
+				<id/>
+				<title>Detox and Destress consists of 12 exercises</title>
+				<info/>
+				<thumbnailimage>20121205-Final_Destress detox.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart/>
+				<moviestop/>
+				<sound/>
+			</practice>
+			<practice>
+				<id/>
+				<title>1. Lotus Mudra</title>
+				<info>Sit crossed-legged in ”easy pose”. Your hands are in ”lotus” mudra – the base of your hands together, little fingers and thumbs touching and the other fingers spread apart.\n\nInhale and stretch the arms out to the sides, parallel to the ground with the palms facing out. Exhale, bring the hands together hitting the base of your hands together.\n\nTo end: Inhale with palms together, hold your breath and relax. Allow yourself to sit and go within.\n\nTime: 1 – 3 minutes.</info>
+				<thumbnailimage>20121205-Final_Destress detox.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>1</moviestart>
+				<moviestop>29</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>2. Breath of Fire</title>
+				<info>Interlace the pinkies in front of your heart, curling the other finger into the pads, thumbs sticking out. Lower the hands to the front of your navel. Now pull the pinkies and do ”**Breath of Fire” through your mouth.\nTake short and sharp powerful breaths through the mouth, the navel coming out on the inhale and drawing back in towards your spine on the exhale.\n\nFeel a pull across your back.\n\nTime: 1 – 3 minutes.\n\nThis generates heat and works on one side of your adrenals.\n\n**Breath of Fire is a commonly used breathing technique done in Kundalini Yoga. It is done by pumping the navel point in and out while breathing through the nose. The navel is pulled in on your exhale.\n\nTip: To start it is easier to focus on the exhale and start at a slow rhythm. Eventually your breath will have a consistent and equal breath.\n\nAnother tip is to put out your tongue and practise pulling your navel in on the exhale. Somewhat like a dog panting – put softly. Eventually close your mouth and breathe in and out through your nose.\n\nThere are many introduction videos on YouTube and the internet.\n\nThe positive effects of Breath of Fire are also many. Here a few.\n\n-	Strengthens the nervous system\n-	Oxygenates your blood, and helps the body detoxify\n-	Builds lung capacity and helps purify the respiratory system\n-	Generates heat and increases your energy level\n-	Gives focus and clarity\n\nCautions for Practicing Breath of Fire Kundalini Yoga Pranayama:\n•	If you feel dizzy when practicing Breath of Fire, you should stop and substitute normal breathing.\n•	If you are menstruating you should not practice Breath of Fire, use Long Deep Breathing instead.\n•	You should be careful practicing Breath of Fire if you have high blood pressure, heart disease or suffer from stroke or epilepsy.  Also, if you have acid or heat related gastric issues such as ulcers you should use caution.</info>
+				<thumbnailimage>20121205-Final_Destress detox-2.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>32</moviestart>
+				<moviestop>63</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>3. Cannon Breath</title>
+				<info>Still in easy pose with your spine straight. Begin cannon breath, (pucker our mouth into a firm O shape and breathe through the mouth, keeping your inhalation and exhalation equal, as in **breath of fire) . To end inhale and concentrate on the spine.\n\nTime: 1-3 minutes.\n\nThis works on the other side on your adrenals.\n\n**Breath of Fire is a commonly used breathing technique done in Kundalini Yoga. It is done by pumping the navel point in and out while breathing through the nose. The navel is pulled in on your exhale.\n\nTip: To start it is easier to focus on the exhale and start at a slow rhythm. Eventually your breath will have a consistent and equal breath.\n\nAnother tip is to put out your tongue and practise pulling your navel in on the exhale. Somewhat like a dog panting – put softly. Eventually close your mouth and breathe in and out through your nose.\n\nThere are many introduction videos on YouTube and the internet.\n\nThe positive effects of Breath of Fire are also many. Here a few.\n\n-	Strengthens the nervous system\n-	Oxygenates your blood, and helps the body detoxify\n-	Builds lung capacity and helps purify the respiratory system\n-	Generates heat and increases your energy level\n-	Gives focus and clarity\n\nCautions for Practicing Breath of Fire Kundalini Yoga Pranayama:\n•	If you feel dizzy when practicing Breath of Fire, you should stop and substitute normal breathing.\n•	If you are menstruating you should not practice Breath of Fire, use Long Deep Breathing instead.\n•	You should be careful practicing Breath of Fire if you have high blood pressure, heart disease or suffer from stroke or epilepsy.  Also, if you have acid or heat related gastric issues such as ulcers you should use caution.</info>
+				<thumbnailimage>20121205-Final_Destress detox-3.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>66</moviestart>
+				<moviestop>89</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>4. Har!</title>
+				<info>Sitting in easy pose. Place your left hand on your back at the bottom of your ribs with the palm facing out. Have the right arm straight out, palm facing forward  up at 60 degrees.Keep your spine straight and stretch from your shoulder.\n\nWith your eyes open chant Har, Har, Har powerfully from your navel. Pul your navel in and up when you chant Har.\n\nThe word ”Har” means creative infinity.\n\nThe exercise puts pressure on your kidneys and aids detoxification.</info>
+				<thumbnailimage>20121205-Final_Destress detox-4.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>91</moviestart>
+				<moviestop>116</moviestop>
+				<sound>YES</sound>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>5. Body drops</title>
+				<info>Sit in easy pose  or with your legs straight out in front of your. Make fists of  your hands and push your fists into the ground lifting your buttocks off the ground.\n\nShould you feel any discomfort  using your fists, you can place your palms flat on the floor instead.\n\nInhale up and exhale down.\n\nTime: 1 – 3 minutes\n\nThis exercise also puts pressure on your kidneys and aids flushing out toxins. It energizes you and makes you stronger.</info>
+				<thumbnailimage>20121205-Final_Destress detox-5.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>118</moviestart>
+				<moviestop>134</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>6. Cleanse</title>
+				<info>In easy pose place your hands in from of  your navel. Your left hand facing your body, the right hand presses against your left wrist. Look down with long and powerful breathing.\n\nTime: 1 – 3 minutes.\n\nLet your breath go very deep. The deeper your breath the more you will cleanse.</info>
+				<thumbnailimage>20121205-Final_Destress detox-6.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>137</moviestart>
+				<moviestop>160</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>7. Front Stretch (spine straight)</title>
+				<info>Sit with your legs stretched out in front of you. Arms are parallel to the ground .Inhale stretch forward, exhale lean back.\n\nYour breath powerful and energy in your arms.\n\nTime: 1 – 3 minutes.\n\nChallenge yourself a little with this exercise. Keep your arms straight and give your digestive systems a massage, stretch your legs out and press out through your heels, giving your legs a nice long stretch.</info>
+				<thumbnailimage>20121205-Final_Destress detox-7.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>161</moviestart>
+				<moviestop>187</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>8. Pelvic lifts</title>
+				<info>Lie on your back, bend your knees and bring the soles of your feet towards your buttocks. Inhale , holding your ankles and lift your pelvis up. Exhale come down.Should holding your ankles challenge you, place your palms down besides your body, inhaling up and exhaling down.\n\nTime: 1 – 3 minutes.\n\nThis exercise tones your back, strengthens your sexualorgans and your kidneys.</info>
+				<thumbnailimage>20121205-Final_Destress detox-8.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>190</moviestart>
+				<moviestop>219</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>9. Modified cat-cow.</title>
+				<info>Come onto all fours. Placing your hands underneath your shoulders and your knees underneath your hips.Exhale as you bring your knee to your forehead, inhale as you stretch the leg out and up.\nCareful not to over stretch.\n\nSwitch legs.\n\nTime: 1 – 3 minutes.\n\nThis exercise stretches your back, tones up your core muscles and works on the co-ordination between your left and right brain hemisphere.</info>
+				<thumbnailimage>20121205-Final_Destress detox-9.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>221</moviestart>
+				<moviestop>258</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>10. Kidney tonifier</title>
+				<info>Sit on your heels and bring your forearms to the ground in front of your knees. Keep your palms together. Inhale as you stretch over the palms, and exhale back.Keep you chin up to create pressure on your lower back.\n\nTime: 1 – 3 minutes.\n\nThis will put pressure on your lower back and adrenals and kidneys.</info>
+				<thumbnailimage>20121205-Final_Destress detox-10.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>259</moviestart>
+				<moviestop>288</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>11. Back rolls</title>
+				<info>Bring the knees to your chest and breathe normally. Roll back and forth on your spine.\n\nTime: 1 – 3 minutes\nThis will give your spine a gentle massage.</info>
+				<thumbnailimage>20121205-Final_Destress detox-11.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>291</moviestart>
+				<moviestop>311</moviestop>
+				<sound/>
+                <recommendedtime>1 - 3 min. exercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>12. Totally relax</title>
+				<info>Drink a glass of water and lie on your back with your arms besides your body, palms facing towards the heavens.\nListen to some relaxing music or your own breath for a while and totally relax.</info>
+				<thumbnailimage>20121205-Final_Destress detox-12.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>312</moviestart>
+				<moviestop>336</moviestop>
+				<sound/>
+				<recommendedtime>11 - 15 min. relax</recommendedtime>
+			</practice>
+		</Set>
+	</menuitem>
+	<menuitem>
+		<id/>
+		<title>Meditation</title>
+		<practice>
+			<id/>
+			<title>Sat Kriya (All-in-one Yoga and Meditation)</title>
+			<info>If I could teach only one yoga exercise—one that had to last you for the rest of your life—it would have to be Sat Kriya. The word “Kriya” means “completed action” – this exercise is a complete action.\nThis exercise is used as a treatment for depression, it works on the digestion, it builds your nervous system and reproduction system and strengths your heart.\nWe will use the mantra “Sat Nam” in this exercise and chant it out load. On Sat you pull your navel in and up and on Nam relax your navel.\n\n1)     Sit on your heels in Rock Pose. \n(Alternate: Rock Pose is the preferred posture but if you are unable to sit in Rock Pose, you may sit in Easy Pose or in a chair)\n\n2)     Stretch your arms above your head so that they are perfectly straight, no bend in the elbows, upper arms hugging your ears.\n\n3)     Interlace your fingers and extend your index fingers, pointing upward.\n\nNote: Women left thumb crossed over right.\nMen: Men right thumb crossed over left.\n\n4)     Close the eyes and roll them up to the Brow Point.\n\n5)     Inhale slightly to begin.\n\nTime: Start with 3 minutes and build up to 31 minutes.\n\nTo end: Inhale deeply and hold the breath. Drawing in the navel, squeezing the muscles of the pelvic floor, and draw the diaphragm in. Exhale let all the air out. Again draw in your navel, squeeze the muscles of your pelvic floor and draw up your diaphragm, tuck in your chin.\n\nPlease rest for twice as long as you have practiced. </info>
+			<thumbnailimage>20121205-Final_Meditation_Satkriya.jpg</thumbnailimage>
+			<url>Final_Meditation_Satkriya</url>
+			<moviestart/>
+			<moviestop/>
+			<sound>TRUE</sound>
+		</practice>
+		<practice>
+			<id/>
+			<title>Mental Balance Meditation - Kirtan kriya</title>
+			<info>Sit straight in Easy Pose. \n\nEyes: Meditate at the Brow Point. \n\nMantra: Produce the five primal sounds (panj shabd):
+                S, T, N, M, A, in the original word form: \nSAA: Infinity, cosmos, beginning  \nTAA: Life, existence \nNAA: Death, change, transformation \nMAA: Rebirth \n\nEach repetition of the entire mantra takes 3 to 4 seconds. This is the cycle of Creation. From the Infinite comes life and individual existence. From life comes death or change. From death comes the rebirth of consciousnes to the joy of the Infinite through which compassion leads back to life. \n\nMudra: This mantra can be done in many different mudras. Most common is to begin in Gyan Mudra. The elbows are straight while chanting, and the mudra changes as each fingertip touches in turn the tip of the thumb with firm pressure. \n\nOn SAA, touch the first (Jupiter) finger \n\nOn TAA, touch the second (Saturn) finger \n\nOn NAA, touch the third (Sun) finger \n\nOn MAA, touch the fourth (Mercury) finger \n\nChant in three languages of consciousness: \nHuman: normal or loud voice (the world)  \nLovers: strong whisper (longing to belong)  \nDivine: mentally; silent (Infinity) \n\nTime: Begin the kriya in a normal voice for 5 minutes; then whisper for 5 minutes; then go deep into the sound, vibrating silently for 10 minutes. Then come back to a whisper for 5 minutes, then aloud for 5 minutes. The duration of the meditation may vary, as long as the proportion of loud, whisper, silent, whisper, loud is maintained. \n\nTo End: This sequence will take 30 minutes. Follow with one 1 minute of stretching the arms over your head and spreading the fingers wide, shaking them out, circulating the energy, inhaling and exhaling 3 times.  \n\nRelax.
+            </info>
+			<thumbnailimage>20121205-Final_Meditation_Kirtan_Kriya.jpg</thumbnailimage>
+			<url>Final_Meditation_Kirtan_Kriya</url>
+			<moviestart/>
+			<moviestop/>
+			<sound>TRUE</sound>
+		</practice>
+		<practice>
+			<id/>
+			<title>The cappuccino meditation for powerful energy</title>
+			<info>Sit in Easy Pose with a straight spine. Interlock all of your fingers except your Sun (ring) fingers, which are pressed together pointing upward. The right thumb locks down the left thumb. Place the mudra at diaphragm level, several inches out from the body, with the Sun fingers pointing out at a sixty-degree angle. Close your eyes.\nInhale deeply and chant "Ong" in long form, one recitation of Ong per exhalation (approximately 15 seconds, but in a group setting, each person chants in their own breath rhythm). The sound is created through the nose; although the mouth is held slightly open, no air comes through the mouth. The sound comes from the nose by way of the back of the upper palate. Your upper palate will vibrate, concentrate to do it correctly. 8 Minutes.</info>
+			<thumbnailimage>20121205-Final_Meditation_Powerful_Energi.jpg</thumbnailimage>
+			<url>Final_Meditation_Powerful_Energi</url>
+			<moviestart/>
+			<moviestop/>
+			<sound>TRUE</sound>
+		</practice>
+		<practice>
+			<id/>
+			<title>Inner peace and balance - For a calm heart</title>
+			<info>Sit in an Easy Pose. \n\nEYES: Either close the eyes or look straight ahead with the eyes 1/10th open. \n\nMUDRA: Place the left hand on the center of the chest at the Heart Center. The palm is flat against the chest, and the fingers are parallel to the ground, pointing to the right. Make Gyan Mudra with the right hand (touch the tip of the index (Jupiter) finger with the tip of the thumb). \nRaise the right hand up to the right side as if giving a pledge. The palm faces forward, the three fingers not in Gyan Mudra point up. The elbow is relaxed near the side with the forearm perpendicular to the ground. \n\nBreath: Concentrate on the flow of the breath. Regulate each bit of the breath consciously. Inhale slowly and deeply through both nostrils. Then suspend the breath in and raise the chest. Retain it as long as possible. Then exhale smoothly, gradually, and completely. When the breath is totally out, lock the breath out for as long as possible. \n\nTime: Continue this pattern of long, **deep breathing for 3-31 minutes. \n\nTo End: Inhale and exhale strongly 3 times.  \n\nRelax.\n\n**Practise your long deep breathing the following way:\n\n1). Practise this either sitting in easy pose, on a chair or lying down.\nPut your hand on your belly.\nBreathe deep into your belly, and feel your hand being moved away from your body.\nYour diaphragm is pressed down.\n\nPractise this way of breathing into your belly for 10 long deep breaths.\n\n2). Breathe deeply into your belly – then fill out the air into your ribbs. You might feel your sides extending  and your ribbs.\n\n3). Place a hand on your chest.\nBreathe into your belly, out into your ribs and finally all the way up to your collarbone.\nYou may feel your collarbone lifting a little.\n\nThe positive effects of long deep breathing are many. Here are a few:\n\n-	Gives energy and focus\n-	Relaxes and calms you\n-	Helps you control your feelings and thoughts\n-	Creates patience and stamina</info>
+			<thumbnailimage>20121205-Final_Meditation_Calm_Heart.jpg</thumbnailimage>
+			<url>Final_Meditation_Calm_Heart</url>
+			<moviestart/>
+			<moviestop/>
+			<sound/>
+		</practice>
+	</menuitem>
+	<menuitem>
+		<id/>
+		<title>Get started</title>
+        <practice>
+            <id>ShowTxtFirstRow</id>
+			<title>Get started</title>
+			<info>This app is designed both for you, who are new to yoga and the experienced yogi.\nWith this app you get 39 yoga exercises divided into 5 yoga sessions. Examples are anti-stress, Sun Kriya, and detox. Furthermore you get 4 meditations to choose from.\n\nThe poses are easy and convenient to do. - where and when it suits you, on a chair, at work or on your living room floor.\n\nAll yoga sets have been picked with special attention to balancing and revitalizing your body and nervous system. Select the exercises you need today\n\nStart with "Tune in" (located under Get Started)\n\n"Warm up" choose the ones you need today (located under Yoga)\n\nYoga: Select the sequence that appeals to you today (located under Yoga)\n\nEnd your yoga with "To end a Kundalini Yoga class" (located under Get Started)</info>
+            <thumbnailimage>20121205-Final_TuneIn.jpg</thumbnailimage>
+            <url>Final_TuneIn</url>
+            <moviestart/>
+            <moviestop/>
+            <sound>NO</sound>
+            <snapshot/>
+        </practice>
+        <practice>
+            <id/>
+			<title>Tune in</title>
+			<info>Just as we are able to select a channel on the TV or radio to tune into, in Kundalini Yoga we tune the mind into a particular frequency, using mantra as our remote control. \n\nEverything in the universe is made of energy, vibrating at various frequencies. \n\nWhether we are aware of it or not, we are constantly choosing the ‘programme’ of our mind according to what we vibrate, via the thoughts we think and the words we speak.  \n\nChanting mantras is not singing or speaking, it is vibrating. Mantras are combinations of syllables that allow us to connect with specific levels of intelligence or consciousness, affecting the patterns of the mind and chemistry of the brain.  \n\nOng Namo Guru Dev Namo (the Adi Mantra) I bow to the Creative Wisdom, I bow to the Divine Teacher within.? \n\nThis mantra is used for “tuning in” to the divine flow and self-knowledge within each of us as well as linking us to Yogi Bhajan and the Golden Chain of teachers. \n\nHow to tune in: \nSit with your spine straight, preferably cross-legged on the floor. Pull your chin back slightly. Place the palms of the hands together at the centre of the chest, fingers pointing upward, thumbs lightly pressing on the sternum. This pressure stimulates a nerve ending that goes up to the brain, and pressing the palms together helps to balance the hemispheres of the brain which is important for concentration. \nClose your eyes and keep your focus at the centre of your forehead. Take a few long deep breaths through the nose then begin the mantra ONG NAMO GURU DEV NAMO. \nUse the conch in the nasal cavity to chant the ONG as this stimulates the pituitary gland. If you can, chant the whole mantra on one breath. Alternatively you can take a quick sip of air through the mouth after ONG NAMO. Continue chanting ONG NAMO GURU DEV NAMO at least three times or as many times as you wish until you feel ‘connected.</info>
+            <thumbnailimage>20121205-Final_TuneIn.jpg</thumbnailimage>
+            <url>Final_TuneIn</url>
+            <moviestart/>
+            <moviestop/>
+            <sound>YES</sound>
+            <snapshot/>
+        </practice>
+        <practice>
+            <id/>
+			<title>To end a Kundalini Yoga class </title>
+			<info>Each Kundalini Yoga class ends by chanting  SAT NAM three times. The SAT is chanted seven times longer than the NAM.SAT means 'truth' and NAM means 'identity' - we end the class with the consciousness of being our true identity</info>
+            <thumbnailimage>20121205-Final_TuneOut.jpg</thumbnailimage>
+            <url>Final_TuneOut</url>
+            <moviestart/>
+            <moviestop/>
+            <sound>YES</sound>
+            <snapshot/>
+        </practice>
+	</menuitem>
+</menu>

@@ -1,0 +1,1610 @@
+Tkundalini
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Info.plist kundalini/kundalini-Info.plist
+cProcessPCH /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch.pth kundalini/kundalini-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaMenu.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaMenu.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/main.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/AppDelegate.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MainViewController.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MoviePlayerUserPrefs.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MoviePlayerUserPrefs.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaSet.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaPractice.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaPractice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MenuItem.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MenuItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/XmlElement.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/XmlElement.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SubMenu.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SubMenu.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SetViewController.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeViewController.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeDetailedViewController.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeDetailedViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeCell.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SetCell.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/GLTapLabel.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/GLTapLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/Keyword.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Keyword.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/AboutViewController.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../AboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeCellFirstRow.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeCellFirstRow.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MyPlayerManager.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MyPlayerManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/TuneinViewController.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../TuneinViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MyPageViewController.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MyPageViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/kundalini normal i386
+cGenerateDSYMFile /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app.dSYM /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/kundalini
+cCopyStringsFile /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/en.lproj/InfoPlist.strings kundalini/en.lproj/InfoPlist.strings
+cCpResource kundalini/Settings.bundle DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Settings.bundle
+cCpResource kundalini/menu1.xml DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/menu1.xml
+cCpResource kundalini/menu.xml DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/menu.xml
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.xib
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewController.xib
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeDetailedViewController.xib
+cCpResource kundalini/Movie.m4v DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Movie.m4v
+cCpResource "kundalini/Solens YogapasDybe vejrtrækninger gennem højre næsebor1.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasDybe vejrtrækninger gennem højre næsebor1.jpg"
+cCpResource "kundalini/Solens YogapasFrøen4.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasFrøen4.jpg"
+cCpResource "kundalini/Solens YogapasHoveddrejning5.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasHoveddrejning5.jpg"
+cCpResource "kundalini/Solens YogapasRygbøjning6.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasRygbøjning6.jpg"
+cCpResource "kundalini/Solens YogapasRygflex-Camel ride 3.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasRygflex-Camel ride 3.jpg"
+cCpResource "kundalini/Solens YogapasSat Kriya2.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasSat Kriya2.jpg"
+cCpResource "kundalini/Solens YogapasSavasana7.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasSavasana7.jpg"
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewCell.xib
+cCpResource kundalini/Movie1.m4v DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Movie1.m4v
+cCpResource "kundalini/Christian Nulenergi YogapasHesten0.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Christian Nulenergi YogapasHesten0.jpg"
+cCpResource "kundalini/Christian Nulenergi YogapasSkildpadden1.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Christian Nulenergi YogapasSkildpadden1.jpg"
+cCpResource "kundalini/Solens YogapasAlle øvelser0.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasAlle øvelser0.jpg"
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewCell.xib
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewControllerIpad.xib
+cCpResource kundalini/knap1.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/knap1.png
+cCpResource kundalini/dybro_yoga_logo.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/dybro_yoga_logo.png
+cCpResource kundalini/Home2.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Home2.png
+cCpResource kundalini/7_set-Yoga.m4v DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/7_set-Yoga.m4v
+cCpResource "kundalini/3_set udstræknig-Yoga.m4v" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/3_set udstræknig-Yoga.m4v"
+cCpResource "kundalini/Opløftende energi Egobekæmperen0.png" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Opløftende energi Egobekæmperen0.png"
+cCpResource kundalini/4_set-Yoga.m4v DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/4_set-Yoga.m4v
+cCpResource "kundalini/Anti-Stress Hesten0.png" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Anti-Stress Hesten0.png"
+cCpResource kundalini/5_set-Yoga.m4v DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/5_set-Yoga.m4v
+cCpResource "kundalini/Væk kroppen stræk stilling0.png" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Væk kroppen stræk stilling0.png"
+cCpResource kundalini/Recharge0.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Recharge0.png
+cCpResource kundalini/menuDK.xml DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/menuDK.xml
+cCpResource kundalini/menuDE.xml DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/menuDE.xml
+cCpResource kundalini/menuUK.xml DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/menuUK.xml
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../AboutViewController.xib
+cCpResource "kundalini/Player Play.png" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Player Play.png"
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewCellFirstRow.xib
+cCpResource Default-568h@2x.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Default-568h@2x.png
+cCpResource "kundalini/../../../../../Dropbox/Christian & Ulrik/01 A Hundred Blessings.m4a" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/01 A Hundred Blessings.m4a"
+cCpResource "kundalini/../../../../../Dropbox/Christian & Ulrik/01 Ong Namo.m4a" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/01 Ong Namo.m4a"
+cCpResource "kundalini/../../../../../Dropbox/Christian & Ulrik/02 Aad Guray Nameh.m4a" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/02 Aad Guray Nameh.m4a"
+cCpResource "kundalini/../../../../../Music/iTunes/iTunes Media/Music/Ennio Morricone/Once Upon a Time (The Essential Ennio Morricone Film Music Collection)/1-06 Once Upon A Time In The West - Jill's Theme.m4a" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/1-06 Once Upon A Time In The West - Jill's Theme.m4a"
+cCpResource "kundalini/../../../../ikoner/24x24/Sound Off.png" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Sound Off.png"
+cCpResource "kundalini/../../../../ikoner/24x24/Sound On.png" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Sound On.png"
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../TuneinViewController.xib
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewController.xib
+cCopyStringsFile /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCopyStringsFile /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/da.lproj/Localizable.strings da.lproj/Localizable.strings
+cCpResource kundalini/Cancel.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Cancel.png
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../About0.xib
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewControllerIphone4.xib
+cCpResource kundalini/UtzonTestVideo.m4v DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/UtzonTestVideo.m4v
+cCpResource kundalini/ikon_72x72.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/ikon_72x72.png
+cCpResource kundalini/ikon_57x57.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/ikon_57x57.png
+cCpResource kundalini/iphone5.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/iphone5.png
+cCpResource kundalini/iphone5T.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/iphone5T.png
+cCpResource kundalini/iphone4.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/iphone4.png
+cCpResource kundalini/iphone4T.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/iphone4T.png
+cCpResource kundalini/theipad.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/theipad.png
+cCpResource kundalini/theipadT.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/theipadT.png
+cCpResource kundalini/knap1_300.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/knap1_300.png
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/TuneinViewControllerIpad.xib
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewCellIpad.xib
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewCellIpad.xib
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewCellFirstRowIpad.xib
+cCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeDetailedViewControllerIpad.xib
+cTouch /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/Default-568h@2x.png
+c0000000050660F4200000000000048A2
+t1348865858
+s18594
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch.pth
+t1353872768
+s4838720
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/AboutViewController.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/GLTapLabel.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/Keyword.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MenuItem.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MoviePlayerUserPrefs.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MyPageViewController.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MyPlayerManager.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeCell.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeCellFirstRow.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeDetailedViewController.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeViewController.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SetCell.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SetViewController.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SubMenu.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/TuneinViewController.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/XmlElement.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaMenu.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaPractice.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaSet.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/kundalini.LinkFileList
+c0000000050B93F3E0000000000001050
+t1354317630
+s4176
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app
+t1354315761
+s2584
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app.dSYM
+t1354315761
+s102
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/01 A Hundred Blessings.m4a
+t1353872791
+s7627437
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/01 Ong Namo.m4a
+t1353872793
+s17083791
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/02 Aad Guray Nameh.m4a
+t1353872795
+s12549204
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/1-06 Once Upon A Time In The West - Jill's Theme.m4a
+t1353872796
+s12459983
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/3_set udstræknig-Yoga.m4v
+t1353872789
+s7644525
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/4_set-Yoga.m4v
+t1353872790
+s2068283
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/5_set-Yoga.m4v
+t1353872790
+s1830848
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/7_set-Yoga.m4v
+t1353872789
+s3882992
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/About0.nib
+t1354291232
+s2685
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/AboutViewController.nib
+t1354313606
+s2339
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Anti-Stress Hesten0.png
+t1353872790
+s341776
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Cancel.png
+t1353872797
+s1035
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Christian Nulenergi YogapasHesten0.jpg
+t1353872787
+s2199303
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Christian Nulenergi YogapasSkildpadden1.jpg
+t1353872788
+s2291091
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Default-568h@2x.png
+t1353872791
+s18594
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Home2.png
+t1353872788
+s844
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Info.plist
+t1354315128
+s1017
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/MainViewController.nib
+t1354119794
+s4571
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/MainViewControllerIpad.nib
+t1354314629
+s4348
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/MainViewControllerIphone4.nib
+t1353872798
+s4426
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Movie.m4v
+t1353872786
+s91605274
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Movie1.m4v
+t1353872784
+s45902136
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Opløftende energi Egobekæmperen0.png
+t1353872790
+s349966
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/PkgInfo
+t1354315128
+s8
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Player Play.png
+t1353872791
+s765
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/PracticeDetailedViewController.nib
+t1354120774
+s1869
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/PracticeDetailedViewControllerIpad.nib
+t1354134595
+s2888
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/PracticeViewCell.nib
+t1354119794
+s3336
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/PracticeViewCellFirstRow.nib
+t1353872791
+s3033
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/PracticeViewCellFirstRowIpad.nib
+t1354267550
+s4062
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/PracticeViewCellIpad.nib
+t1354119795
+s4488
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/PracticeViewController.nib
+t1353872775
+s1074
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Recharge0.png
+t1353872790
+s334758
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/SetViewCell.nib
+t1354120634
+s2492
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/SetViewCellIpad.nib
+t1354119795
+s3480
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/SetViewController.nib
+t1353872776
+s1119
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Settings.bundle
+t1353872773
+s102
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasAlle øvelser0.jpg
+t1353872788
+s47023
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasDybe vejrtrækninger gennem højre næsebor1.jpg
+t1353872776
+s437666
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasFrøen4.jpg
+t1353872776
+s449737
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasHoveddrejning5.jpg
+t1353872776
+s437911
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasRygbøjning6.jpg
+t1353872776
+s448035
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasRygflex-Camel ride 3.jpg
+t1353872776
+s449220
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasSat Kriya2.jpg
+t1353872777
+s448740
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasSavasana7.jpg
+t1353872777
+s446597
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Sound Off.png
+t1353872797
+s760
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Sound On.png
+t1353872797
+s855
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/TuneinViewController.nib
+t1354287096
+s4208
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/TuneinViewControllerIpad.nib
+t1354287098
+s4145
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/UtzonTestVideo.m4v
+t1353872798
+s3202487
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Væk kroppen stræk stilling0.png
+t1353872790
+s332241
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/da.lproj/Localizable.strings
+t1353872797
+s2036
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/dybro_yoga_logo.png
+t1353872788
+s5948
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/en.lproj/InfoPlist.strings
+t1353872773
+s42
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/en.lproj/Localizable.strings
+t1353872797
+s404
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/ikon_57x57.png
+t1353872799
+s7416
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/ikon_72x72.png
+t1353872799
+s8849
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/iphone4.png
+t1353872799
+s587830
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/iphone4T.png
+t1353872799
+s499462
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/iphone5.png
+t1353872799
+s671195
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/iphone5T.png
+t1353872799
+s568928
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/knap1.png
+t1353872788
+s1923
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/knap1_300.png
+t1353872799
+s8515
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/kundalini
+t1354315761
+s247884
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/menu.xml
+t1353872774
+s24776
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/menu1.xml
+t1353872773
+s3858
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/menuDE.xml
+t1353872790
+s24766
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/menuDK.xml
+t1353872790
+s24996
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/menuUK.xml
+t1353872790
+s24760
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/theipad.png
+t1353872799
+s547568
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/theipadT.png
+t1353872799
+s619877
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/da.lproj/Localizable.strings
+c0000000050B25D920000000000000506
+t1353866642
+s1286
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/en.lproj/Localizable.strings
+c00000000509CEBA100000000000001BD
+t1352461217
+s445
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../../../../../Dropbox/Christian & Ulrik/01 A Hundred Blessings.m4a
+c0000000050893E5200000000007462AD
+t1351171666
+s7627437
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../../../../../Dropbox/Christian & Ulrik/01 Ong Namo.m4a
+c000000004E92E782000000000104AD8F
+t1318250370
+s17083791
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../../../../../Dropbox/Christian & Ulrik/02 Aad Guray Nameh.m4a
+c000000004E92E7610000000000BF7C54
+t1318250337
+s12549204
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../../../../../Music/iTunes/iTunes Media/Music/Ennio Morricone/Once Upon a Time (The Essential Ennio Morricone Film Music Collection)/1-06 Once Upon A Time In The West - Jill's Theme.m4a
+c00000000508A81CC0000000000BE1FCF
+t1351254476
+s12459983
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../../../../ikoner/24x24/Sound Off.png
+c00000000478DD87E00000000000002F8
+t1200478334
+s760
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../../../../ikoner/24x24/Sound On.png
+c00000000478DD87E0000000000000357
+t1200478334
+s855
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../About0.xib
+c0000000050B93F3C000000000000475A
+t1354317628
+s18266
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../AboutViewController.m
+c0000000050B92E4D0000000000001669
+t1354313293
+s5737
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../AboutViewController.xib
+c0000000050B92F7D0000000000003A74
+t1354313597
+s14964
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../TuneinViewController.m
+c0000000050B25C7600000000000010B3
+t1353866358
+s4275
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../TuneinViewController.xib
+c0000000050B8C7CA000000000000925B
+t1354287050
+s37467
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/3_set udstræknig-Yoga.m4v
+c00000000504CC895000000000074A56D
+t1347209365
+s7644525
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/4_set-Yoga.m4v
+c00000000504CC94700000000001F8F3B
+t1347209543
+s2068283
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/5_set-Yoga.m4v
+c00000000504CC9DC00000000001BEFC0
+t1347209692
+s1830848
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/7_set-Yoga.m4v
+c00000000504CCC5300000000003B3FF0
+t1347210323
+s3882992
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Anti-Stress Hesten0.png
+c000000005077E2340000000000053710
+t1350033972
+s341776
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/AppDelegate.m
+c0000000050B9321B0000000000002329
+t1354314267
+s9001
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Cancel.png
+c00000000478DD846000000000000040B
+t1200478278
+s1035
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Christian Nulenergi YogapasHesten0.jpg
+c0000000050439D400000000000218F07
+t1346608448
+s2199303
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Christian Nulenergi YogapasSkildpadden1.jpg
+c0000000050439F46000000000022F593
+t1346608966
+s2291091
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/GLTapLabel.m
+c000000005071CBEE00000000000019BA
+t1349635054
+s6586
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Home2.png
+c00000000478DD860000000000000034C
+t1200478304
+s844
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Keyword.m
+c000000005065717800000000000000A3
+t1348825464
+s163
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewController.m
+c0000000050B9321B000000000000137F
+t1354314267
+s4991
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewController.xib
+c0000000050B3A6A000000000000084F5
+t1353950880
+s34037
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewControllerIpad.xib
+c0000000050B933790000000000007EBE
+t1354314617
+s32446
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewControllerIphone4.xib
+c0000000050B0BCB1000000000000820A
+t1353759921
+s33290
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MenuItem.m
+c000000005004765700000000000001A7
+t1342469719
+s423
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Movie.m4v
+c0000000050296D74000000000575C91A
+t1344892276
+s91605274
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Movie1.m4v
+c000000004FD351D30000000002BC6938
+t1339249107
+s45902136
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MoviePlayerUserPrefs.m
+c000000004E56BC240000000000002597
+t1314307108
+s9623
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MyPageViewController.m
+c00000000509D13370000000000000952
+t1352471351
+s2386
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MyPlayerManager.m
+c0000000050B933790000000000000F02
+t1354314617
+s3842
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Opløftende energi Egobekæmperen0.png
+c000000005077DDA9000000000005570E
+t1350032809
+s349966
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Player Play.png
+c00000000478DD87000000000000002FD
+t1200478320
+s765
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeCell.m
+c0000000050A63D970000000000000286
+t1353072023
+s646
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeCellFirstRow.m
+c0000000050818F110000000000000247
+t1350668049
+s583
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeDetailedViewController.m
+c0000000050B642E90000000000000FF5
+t1354121961
+s4085
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeDetailedViewController.xib
+c0000000050B63E440000000000003421
+t1354120772
+s13345
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeDetailedViewControllerIpad.xib
+c0000000050B672F90000000000007CFA
+t1354134265
+s31994
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewCell.xib
+c0000000050B63A6B00000000000040EA
+t1354119787
+s16618
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewCellFirstRow.xib
+c0000000050B24E8C000000000000391F
+t1353862796
+s14623
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewCellFirstRowIpad.xib
+c0000000050B8772D000000000000847E
+t1354266413
+s33918
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewCellIpad.xib
+c0000000050B63A6C0000000000009AFE
+t1354119788
+s39678
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewController.m
+c0000000050B937990000000000004120
+t1354315673
+s16672
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewController.xib
+c0000000050B93B120000000000001945
+t1354316562
+s6469
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Recharge0.png
+c000000005077E43A0000000000051BA6
+t1350034490
+s334758
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetCell.m
+c00000000505DBC050000000000000268
+t1348320261
+s616
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewCell.xib
+c0000000050B63DBA0000000000002FCC
+t1354120634
+s12236
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewCellIpad.xib
+c0000000050B63A6B0000000000006A9B
+t1354119787
+s27291
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m
+c0000000050B937F0000000000000221D
+t1354315760
+s8733
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.xib
+c0000000050B93B1200000000000016AA
+t1354316562
+s5802
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Settings.bundle
+c0000000050ABEEDB0000000000000066
+t1353445083
+s102
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Solens YogapasAlle øvelser0.jpg
+c000000005045BA6E000000000000B7AF
+t1346746990
+s47023
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Solens YogapasDybe vejrtrækninger gennem højre næsebor1.jpg
+c0000000050420FF9000000000006ADA2
+t1346506745
+s437666
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Solens YogapasFrøen4.jpg
+c0000000050421000000000000006DCC9
+t1346506752
+s449737
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Solens YogapasHoveddrejning5.jpg
+c0000000050421001000000000006AE97
+t1346506753
+s437911
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Solens YogapasRygbøjning6.jpg
+c0000000050421004000000000006D623
+t1346506756
+s448035
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Solens YogapasRygflex-Camel ride 3.jpg
+c0000000050420FFE000000000006DAC4
+t1346506750
+s449220
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Solens YogapasSat Kriya2.jpg
+c0000000050420FFC000000000006D8E4
+t1346506748
+s448740
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Solens YogapasSavasana7.jpg
+c0000000050421006000000000006D085
+t1346506758
+s446597
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SubMenu.m
+c0000000050047C39000000000000018D
+t1342471225
+s397
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/TuneinViewControllerIpad.xib
+c0000000050B8C7CA000000000000915F
+t1354287050
+s37215
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/UtzonTestVideo.m4v
+c0000000050A8A96A000000000030DDB7
+t1353230698
+s3202487
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Væk kroppen stræk stilling0.png
+c000000005077E34100000000000511D1
+t1350034241
+s332241
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/XmlElement.m
+c000000005003246F00000000000001CE
+t1342383215
+s462
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaMenu.m
+c00000000506EE2360000000000001E84
+t1349444150
+s7812
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaPractice.m
+c00000000506EBA5200000000000004A9
+t1349433938
+s1193
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaSet.m
+c00000000506EA832000000000000024D
+t1349429298
+s589
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/dybro_yoga_logo.png
+c00000000506595CB000000000000173C
+t1348834763
+s5948
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/en.lproj/InfoPlist.strings
+c000000004FE55783000000000000002D
+t1340430211
+s45
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/ikon_57x57.png
+c0000000050AF6EBC0000000000001CF8
+t1353674428
+s7416
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/ikon_72x72.png
+c0000000050AF6AF70000000000002291
+t1353673463
+s8849
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/iphone4.png
+c0000000050AF7AC6000000000008F836
+t1353677510
+s587830
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/iphone4T.png
+c0000000050AF7AE70000000000079F06
+t1353677543
+s499462
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/iphone5.png
+c0000000050AF728D00000000000A3DDB
+t1353675405
+s671195
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/iphone5T.png
+c0000000050AF7909000000000008AE60
+t1353677065
+s568928
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/knap1.png
+c00000000506575890000000000000783
+t1348826505
+s1923
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/knap1_300.png
+c0000000050AF815F0000000000002143
+t1353679199
+s8515
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/kundalini-Prefix.pch
+c000000004FE557830000000000000141
+t1340430211
+s321
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/main.m
+c000000004FE557830000000000000160
+t1340430211
+s352
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/menu.xml
+c0000000050780B0600000000000060C8
+t1350044422
+s24776
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/menu1.xml
+c00000000500829080000000000000F12
+t1342712072
+s3858
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/menuDE.xml
+c000000005077FA9100000000000060BE
+t1350040209
+s24766
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/menuDK.xml
+c0000000050ABC11000000000000061A4
+t1353433360
+s24996
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/menuUK.xml
+c000000005077FA9100000000000060B8
+t1350040209
+s24760
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/theipad.png
+c0000000050AF7E620000000000085AF0
+t1353678434
+s547568
+
+N/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/theipadT.png
+c0000000050AF7E880000000000097565
+t1353678472
+s619877
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000005066182D00000000001EAFC0
+t1348868141
+s2011072
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000506618310000000000228FD0
+t1348868145
+s2265040
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005066183D00000000003DCEF0
+t1348868157
+s4050672
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000005066185A00000000002C6C10
+t1348868186
+s2911248
+
+N/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000506618790000000000AB3D60
+t1348868217
+s11222368
+
+Nkundalini/kundalini-Info.plist
+c0000000050B93E5400000000000006C9
+t1354317396
+s1737
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../AboutViewController.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../TuneinViewController.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/AppDelegate.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/GLTapLabel.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Keyword.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewController.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MenuItem.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MoviePlayerUserPrefs.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MyPageViewController.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MyPlayerManager.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeCell.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeCellFirstRow.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeDetailedViewController.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewController.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetCell.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SubMenu.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/XmlElement.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaMenu.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaPractice.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaSet.m
+r0
+
+CBuild AST from /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc9cbfebc7669b641^919c74be7669b641^---0#1#0#--18"Check dependencies36"52409E23-B61E-4848-8CC1-37DA47F80956-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/AboutViewController.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../AboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010436.655214
+e376010436.880767
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/AboutViewController.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../AboutViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../AboutViewController.m336ca8c47669b641^7c98e1c47669b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../AboutViewController.m0000000000000000^4292"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/AboutViewController.o kundalini/../AboutViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/AboutViewController.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/AboutViewController.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../AboutViewController.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/AboutViewController.o36"A30ED8ED-2ADE-4DFB-BAD9-824B2728C41D-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/AppDelegate.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010432.859001
+e376010434.115746
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/AppDelegate.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/AppDelegate.mb328dcc07669b641^fed71dc27669b641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/AppDelegate.m0000000000000000^4238"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/AppDelegate.o kundalini/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/AppDelegate.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/AppDelegate.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/AppDelegate.o36"E7D2CE57-6BDC-4B31-8D4A-B8DFE9520D62-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/GLTapLabel.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/GLTapLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010436.183882
+e376010436.488734
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/GLTapLabel.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/GLTapLabel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/GLTapLabel.m375232c47669b641^e9457dc47669b641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/GLTapLabel.m0000000000000000^4232"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/GLTapLabel.o kundalini/GLTapLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/GLTapLabel.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/GLTapLabel.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/GLTapLabel.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/GLTapLabel.o36"756AF4A8-A625-4B68-889E-82F920973169-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/Keyword.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Keyword.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010436.490402
+e376010436.626734
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/Keyword.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Keyword.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Keyword.m61c57dc47669b641^96b2a0c47669b641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Keyword.m0000000000000000^4214"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/Keyword.o kundalini/Keyword.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/Keyword.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/Keyword.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/Keyword.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/Keyword.o36"DDCC82A8-667F-4F1D-84D0-A86117D55BC3-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MainViewController.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010432.892412
+e376010433.913909
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MainViewController.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewController.m:23:19: warning: local declaration of 'ym' hides instance variable [-Wshadow-ivar]
+o        self.ym = ym;
+o                  ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewController.mb4afe4c07669b641^7f13eac17669b641^-232"/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewController.m:23:19: warning: local declaration of 'ym' hides instance variable [-Wshadow-ivar]        self.ym = ym;                  ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@49"Local declaration of 'ym' hides instance variable-376010433#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@102"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewController.m0000000000000000^22#18#22#18#570#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@102"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewController.m0000000000000000^4280"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MainViewController.o kundalini/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MainViewController.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewController.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MainViewController.o36"A28BBCCF-B538-4819-A28E-AC262039B91A-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MenuItem.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MenuItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010434.304229
+e376010434.606478
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MenuItem.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MenuItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MenuItem.m6d1f4ec27669b641^791eccc27669b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MenuItem.m0000000000000000^4220"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MenuItem.o kundalini/MenuItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MenuItem.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MenuItem.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MenuItem.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MenuItem.o36"AA0B7ADC-A18D-4778-85BE-AB47B378510C-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MoviePlayerUserPrefs.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MoviePlayerUserPrefs.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010433.915535
+e376010434.231914
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MoviePlayerUserPrefs.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MoviePlayerUserPrefs.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MoviePlayerUserPrefs.me09feac17669b641^7ff968c27669b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MoviePlayerUserPrefs.m0000000000000000^4292"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MoviePlayerUserPrefs.o kundalini/MoviePlayerUserPrefs.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MoviePlayerUserPrefs.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MoviePlayerUserPrefs.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MoviePlayerUserPrefs.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MoviePlayerUserPrefs.o36"E5BF860A-6C3C-4B7B-802C-E401C17BDAF9-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MyPageViewController.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MyPageViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010437.881569
+e376010438.210533
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MyPageViewController.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MyPageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MyPageViewController.m80f0e1c57669b641^1c0736c67669b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MyPageViewController.m0000000000000000^4292"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MyPageViewController.o kundalini/MyPageViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MyPageViewController.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MyPageViewController.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MyPageViewController.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MyPageViewController.o36"EAF85F39-D73E-4A06-AA74-86735549FE72-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MyPlayerManager.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MyPlayerManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010437.127658
+e376010437.638444
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MyPlayerManager.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MyPlayerManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MyPlayerManager.m7de620c57669b641^a871a3c57669b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MyPlayerManager.m0000000000000000^4262"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MyPlayerManager.o kundalini/MyPlayerManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MyPlayerManager.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MyPlayerManager.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MyPlayerManager.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/MyPlayerManager.o36"741DCC81-827C-4842-9515-5CE7D5E63C3F-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeCell.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010435.822889
+e376010435.971570
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeCell.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeCell.m03edd2c37669b641^84baf8c37669b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeCell.m0000000000000000^4244"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeCell.o kundalini/PracticeCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeCell.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeCell.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeCell.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeCell.o36"F5BB7FB3-0B4F-451E-9526-12B4A54F579C-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeCellFirstRow.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeCellFirstRow.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010436.897361
+e376010437.126204
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeCellFirstRow.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeCellFirstRow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeCellFirstRow.m7503e9c47669b641^7a5020c57669b641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeCellFirstRow.m0000000000000000^4292"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeCellFirstRow.o kundalini/PracticeCellFirstRow.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeCellFirstRow.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeCellFirstRow.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeCellFirstRow.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeCellFirstRow.o36"9C693DFE-EEE6-403B-BFFD-3B0B6C8EF74D-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeDetailedViewController.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeDetailedViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010435.240146
+e376010435.821405
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeDetailedViewController.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeDetailedViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeDetailedViewController.m09c23dc37669b641^5e49d2c37669b641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeDetailedViewController.m0000000000000000^4352"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeDetailedViewController.o kundalini/PracticeDetailedViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeDetailedViewController.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeDetailedViewController.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeDetailedViewController.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeDetailedViewController.o36"1CFC02E5-43A9-4457-8AAE-1A289EEF5C86-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeViewController.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010434.715465
+e376010435.507573
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeViewController.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewController.mf46fb7c27669b641^9f0082c37669b641^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewController.m0000000000000000^4304"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeViewController.o kundalini/PracticeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeViewController.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeViewController.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewController.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/PracticeViewController.o36"A9A23591-2D2B-4784-9E71-9D0E2A44DF85-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SetCell.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010435.973044
+e376010436.144109
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SetCell.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetCell.m234cf9c37669b641^834d25c47669b641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetCell.m0000000000000000^4214"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SetCell.o kundalini/SetCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SetCell.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SetCell.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetCell.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SetCell.o36"D03C15AE-50D1-4DAD-91A9-69C9D41C8F9C-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SetViewController.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010434.608744
+e376010435.238661
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SetViewController.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m:20:19: warning: local declaration of 'ym' hides instance variable [-Wshadow-ivar]
+o        self.ym = ym;
+o                  ^
+o/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m:22:24: warning: local declaration of 'ym' hides instance variable [-Wshadow-ivar]
+o        MenuItem *m = [ym.MenulinesArr objectAtIndex:(mi_id)];
+o                       ^
+o/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m:123:22: warning: incompatible pointer types initializing 'UITableViewCell *__strong' with an expression of type 'UIView *' [-Wincompatible-pointer-types]
+o    UITableViewCell *cell = [[[gesture view] superview] superview];
+o                     ^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o3 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m137f9cc27669b641^c8453dc37669b641^-863"/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m:20:19: warning: local declaration of 'ym' hides instance variable [-Wshadow-ivar]        self.ym = ym;                  ^/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m:22:24: warning: local declaration of 'ym' hides instance variable [-Wshadow-ivar]        MenuItem *m = [ym.MenulinesArr objectAtIndex:(mi_id)];                       ^/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m:123:22: warning: incompatible pointer types initializing 'UITableViewCell *__strong' with an expression of type 'UIView *' [-Wincompatible-pointer-types]    UITableViewCell *cell = [[[gesture view] superview] superview];                     ^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@49"Local declaration of 'ym' hides instance variable-376010435#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@101"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m0000000000000000^19#18#19#18#389#0#14"Semantic Issue--2@49"Local declaration of 'ym' hides instance variable-376010435#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@101"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m0000000000000000^21#23#21#23#459#0#14"Semantic Issue--2@105"Incompatible pointer types initializing 'UITableViewCell *__strong' with an expression of type 'UIView *'-376010435#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@101"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m0000000000000000^122#21#122#21#2875#0#14"Semantic Issue1(3@101"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m0000000000000000^122#28#122#66#2882#37#-0#0#0#-19%DVTDocumentLocation4@101"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m0000000000000000^4274"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SetViewController.o kundalini/SetViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SetViewController.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SetViewController.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SetViewController.o36"87993DEE-0EB7-4A08-9005-E2CFBFAA5E01-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SubMenu.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SubMenu.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010434.607428
+e376010434.714001
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SubMenu.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SubMenu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SubMenu.md7bf9bc27669b641^2027ccc27669b641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SubMenu.m0000000000000000^4214"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SubMenu.o kundalini/SubMenu.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SubMenu.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SubMenu.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SubMenu.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/SubMenu.o36"9A8336DD-14B8-47AD-9D6C-BCECCEF9C032-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/TuneinViewController.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../TuneinViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010437.639998
+e376010437.880109
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/TuneinViewController.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../TuneinViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../TuneinViewController.m910da4c57669b641^a950e1c57669b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../TuneinViewController.m0000000000000000^4298"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/TuneinViewController.o kundalini/../TuneinViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/TuneinViewController.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/TuneinViewController.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../TuneinViewController.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/TuneinViewController.o36"F3BC03AF-0499-4F15-B591-0862C3265CEB-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/XmlElement.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/XmlElement.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010434.331677
+e376010434.605996
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/XmlElement.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/XmlElement.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/XmlElement.m3d2755c27669b641^4417ccc27669b641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/XmlElement.m0000000000000000^4232"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/XmlElement.o kundalini/XmlElement.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/XmlElement.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/XmlElement.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/XmlElement.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/XmlElement.o36"B949E149-1803-41E3-BBB8-95A5012E4263-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaMenu.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaMenu.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010430.736989
+e376010432.890952
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaMenu.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaMenu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaMenu.mb490c4be7669b641^4d15e4c07669b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaMenu.m0000000000000000^4220"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaMenu.o kundalini/YogaMenu.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaMenu.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaMenu.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaMenu.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaMenu.o36"23770D53-963F-4A65-949C-EB7428C67560-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaPractice.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaPractice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010434.233378
+e376010434.330270
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaPractice.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaPractice.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaPractice.md3fa3bc27669b641^8e0569c27669b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaPractice.m0000000000000000^4244"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaPractice.o kundalini/YogaPractice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaPractice.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaPractice.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaPractice.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaPractice.o36"85855CFE-7239-4676-8269-6EFA837CB594-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaSet.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010434.117272
+e376010434.302831
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaSet.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaSet.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaSet.m85401ec27669b641^080169c27669b641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaSet.m0000000000000000^4214"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaSet.o kundalini/YogaSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaSet.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaSet.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/YogaSet.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/YogaSet.o36"8B992100-7881-450F-A00B-E7F87536298B-
+
+CCompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/main.o /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376010430.748213
+e376010432.857441
+r1
+xCompileC
+xDerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/main.o
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/main.md7bfbfbe7669b641^a182dbc07669b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/main.m0000000000000000^4196"CompileC DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/main.o kundalini/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-generated-files.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-own-target-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-all-target-headers.hmap -iquote /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/kundalini-project-headers.hmap -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources/i386 -I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/DerivedSources -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -include /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch -MMD -MT dependencies -MF /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/main.dia -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/main.m -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/main.o36"606ED99B-1E40-4F54-8734-5A3473A1BF85-
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../About0.xib
+s376010444.610903
+e376010447.961973
+r1
+xCompileXIB
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../About0.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compiling /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../About0.xib12879ccc7669b641^d080f6cf7669b641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../About0.xib0000000000000000^962"CompileXIB kundalini/../About0.xib    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin/..    /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/About0.nib /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../About0.xib --sdk /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"04E28B57-46AA-4550-9E6E-16FDF48902A5-
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../AboutViewController.xib
+r0
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/../TuneinViewController.xib
+r0
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewController.xib
+r0
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewControllerIpad.xib
+r0
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/MainViewControllerIphone4.xib
+r0
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeDetailedViewController.xib
+r0
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeDetailedViewControllerIpad.xib
+r0
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewCell.xib
+r0
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewCellFirstRow.xib
+r0
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewCellFirstRowIpad.xib
+r0
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewCellIpad.xib
+r0
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewController.xib
+s376010440.094398
+e376010445.067142
+r1
+xCompileXIB
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compiling /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewController.xib804718c87669b641^9b8f1fcd7669b641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewController.xib0000000000000000^1004"CompileXIB kundalini/PracticeViewController.xib    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin/..    /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/PracticeViewController.nib /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/PracticeViewController.xib --sdk /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"51DF1BD7-3FEB-4C34-BDCC-3D33FBD0B214-
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewCell.xib
+r0
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewCellIpad.xib
+r0
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.xib
+s376010440.093768
+e376010444.551980
+r1
+xCompileXIB
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compiling /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.xib072518c87669b641^24638dcc7669b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.xib0000000000000000^989"CompileXIB kundalini/SetViewController.xib    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin/..    /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/SetViewController.nib /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/SetViewController.xib --sdk /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"671A6BC4-338B-43F9-A295-C112F6795B2C-
+
+CCompileXIB /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/TuneinViewControllerIpad.xib
+r0
+
+CCopyStringsFile /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/da.lproj/Localizable.strings da.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/en.lproj/InfoPlist.strings kundalini/en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+r0
+
+CCpResource "kundalini/../../../../../Dropbox/Christian & Ulrik/01 A Hundred Blessings.m4a" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/01 A Hundred Blessings.m4a"
+r0
+
+CCpResource "kundalini/../../../../../Dropbox/Christian & Ulrik/01 Ong Namo.m4a" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/01 Ong Namo.m4a"
+r0
+
+CCpResource "kundalini/../../../../../Dropbox/Christian & Ulrik/02 Aad Guray Nameh.m4a" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/02 Aad Guray Nameh.m4a"
+r0
+
+CCpResource "kundalini/../../../../../Music/iTunes/iTunes Media/Music/Ennio Morricone/Once Upon a Time (The Essential Ennio Morricone Film Music Collection)/1-06 Once Upon A Time In The West - Jill's Theme.m4a" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/1-06 Once Upon A Time In The West - Jill's Theme.m4a"
+r0
+
+CCpResource "kundalini/../../../../ikoner/24x24/Sound Off.png" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Sound Off.png"
+r0
+
+CCpResource "kundalini/../../../../ikoner/24x24/Sound On.png" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Sound On.png"
+r0
+
+CCpResource "kundalini/3_set udstræknig-Yoga.m4v" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/3_set udstræknig-Yoga.m4v"
+r0
+
+CCpResource "kundalini/Anti-Stress Hesten0.png" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Anti-Stress Hesten0.png"
+r0
+
+CCpResource "kundalini/Christian Nulenergi YogapasHesten0.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Christian Nulenergi YogapasHesten0.jpg"
+r0
+
+CCpResource "kundalini/Christian Nulenergi YogapasSkildpadden1.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Christian Nulenergi YogapasSkildpadden1.jpg"
+r0
+
+CCpResource "kundalini/Opløftende energi Egobekæmperen0.png" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Opløftende energi Egobekæmperen0.png"
+r0
+
+CCpResource "kundalini/Player Play.png" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Player Play.png"
+r0
+
+CCpResource "kundalini/Solens YogapasAlle øvelser0.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasAlle øvelser0.jpg"
+r0
+
+CCpResource "kundalini/Solens YogapasDybe vejrtrækninger gennem højre næsebor1.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasDybe vejrtrækninger gennem højre næsebor1.jpg"
+r0
+
+CCpResource "kundalini/Solens YogapasFrøen4.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasFrøen4.jpg"
+r0
+
+CCpResource "kundalini/Solens YogapasHoveddrejning5.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasHoveddrejning5.jpg"
+r0
+
+CCpResource "kundalini/Solens YogapasRygbøjning6.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasRygbøjning6.jpg"
+r0
+
+CCpResource "kundalini/Solens YogapasRygflex-Camel ride 3.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasRygflex-Camel ride 3.jpg"
+r0
+
+CCpResource "kundalini/Solens YogapasSat Kriya2.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasSat Kriya2.jpg"
+r0
+
+CCpResource "kundalini/Solens YogapasSavasana7.jpg" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Solens YogapasSavasana7.jpg"
+r0
+
+CCpResource "kundalini/Væk kroppen stræk stilling0.png" "DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Væk kroppen stræk stilling0.png"
+r0
+
+CCpResource Default-568h@2x.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Default-568h@2x.png
+r0
+
+CCpResource kundalini/4_set-Yoga.m4v DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/4_set-Yoga.m4v
+r0
+
+CCpResource kundalini/5_set-Yoga.m4v DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/5_set-Yoga.m4v
+r0
+
+CCpResource kundalini/7_set-Yoga.m4v DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/7_set-Yoga.m4v
+r0
+
+CCpResource kundalini/Cancel.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Cancel.png
+r0
+
+CCpResource kundalini/Home2.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Home2.png
+r0
+
+CCpResource kundalini/Movie.m4v DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Movie.m4v
+r0
+
+CCpResource kundalini/Movie1.m4v DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Movie1.m4v
+r0
+
+CCpResource kundalini/Recharge0.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Recharge0.png
+r0
+
+CCpResource kundalini/Settings.bundle DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Settings.bundle
+r0
+
+CCpResource kundalini/UtzonTestVideo.m4v DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/UtzonTestVideo.m4v
+r0
+
+CCpResource kundalini/dybro_yoga_logo.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/dybro_yoga_logo.png
+r0
+
+CCpResource kundalini/ikon_57x57.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/ikon_57x57.png
+r0
+
+CCpResource kundalini/ikon_72x72.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/ikon_72x72.png
+r0
+
+CCpResource kundalini/iphone4.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/iphone4.png
+r0
+
+CCpResource kundalini/iphone4T.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/iphone4T.png
+r0
+
+CCpResource kundalini/iphone5.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/iphone5.png
+r0
+
+CCpResource kundalini/iphone5T.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/iphone5T.png
+r0
+
+CCpResource kundalini/knap1.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/knap1.png
+r0
+
+CCpResource kundalini/knap1_300.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/knap1_300.png
+r0
+
+CCpResource kundalini/menu.xml DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/menu.xml
+r0
+
+CCpResource kundalini/menu1.xml DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/menu1.xml
+r0
+
+CCpResource kundalini/menuDE.xml DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/menuDE.xml
+r0
+
+CCpResource kundalini/menuDK.xml DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/menuDK.xml
+r0
+
+CCpResource kundalini/menuUK.xml DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/menuUK.xml
+r0
+
+CCpResource kundalini/theipad.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/theipad.png
+r0
+
+CCpResource kundalini/theipadT.png DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/theipadT.png
+r0
+
+CGenerateDSYMFile /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app.dSYM /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/kundalini
+s376010439.660876
+e376010440.081313
+r1
+xGenerateDSYMFile
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app.dSYM
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/kundalini
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Generating /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app.dSYM5055a9c77669b641^96d114c87669b641^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app.dSYM/0000000000000000^815"GenerateDSYMFile DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app.dSYM DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/kundalini    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/kundalini -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app.dSYM36"4C333317-7760-4DF1-81D1-A4C5405ED122-
+
+CLd /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/kundalini normal i386
+s376010438.217353
+e376010439.625240
+r1
+xLd
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/kundalini
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Link /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/kundalini3f7140c67669b641^143fa2c77669b641^---0#0#0#--1458"Ld DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/kundalini normal i386    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator -filelist /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/kundalinis.build/Debug-iphonesimulator/kundalini.build/Objects-normal/i386/kundalini.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework AVFoundation -framework MediaPlayer -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/kundalini36"358AD1ED-CB6A-4A58-B9BA-8589F39433F5-
+
+CProcessInfoPlistFile /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Info.plist kundalini/kundalini-Info.plist
+s376010430.481452
+e376010430.664013
+r1
+xProcessInfoPlistFile
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Info.plist
+xkundalini/kundalini-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process kundalini/kundalini-Info.plistd55b7bbe7669b641^6e17aabe7669b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/kundalini-Info.plist0000000000000000^810"ProcessInfoPlistFile DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Info.plist kundalini/kundalini-Info.plist    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility kundalini/kundalini-Info.plist -genpkginfo /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app/Info.plist36"47D8B174-37E3-4CC7-8DF3-909BB451E170-
+
+CProcessPCH /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/PrecompiledHeaders/kundalini-Prefix-aauxlfyozjsuufapilkphhoaniqy/kundalini-Prefix.pch.pth kundalini/kundalini-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Index/PrecompiledHeaders/kundalini-Prefix-hdbmfnwitxfvhqdybmaaeguldqwu_ast/kundalini-Prefix.pch.pth kundalini/kundalini-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app
+s376010447.970610
+e376010448.054026
+r1
+xTouch
+x/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Touch /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app9a96f8cf7669b641^31eb0dd07669b641^---0#0#0#--490"Touch DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app    cd /Users/christianandersen/Desktop/IOS/21092012/kundalini    setenv PATH "/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Xcode/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Products/Debug-iphonesimulator/kundalini.app36"6E4B8EA2-CA6A-44D4-84D5-B5786786D24B-
+

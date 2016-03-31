@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <menuitem>		
+        <id></id>
+        <title>Yogapas / Set / Øvelse niveau inddeling</title>						                       
+        <Set>
+            <id></id>
+            <title>Set 1</title>
+            <info></info>
+            <thumbnailimage></thumbnailimage>
+            <practice>
+                <id></id>
+                <title>øvelse 1.1</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>			
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>                
+            </practice>
+            <practice>
+                <id></id>
+                <title>øvelse 1.2</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+                
+            </practice>
+        </Set>					                       
+        <Set>
+            <id></id>
+            <title>Set 2</title>
+            <info></info>
+            <thumbnailimage></thumbnailimage>
+            <practice>
+                <id></id>
+                <title>øvelse 2.1</title>
+                <info></info>
+                <thumbnailimage></thumbnailimage>
+                
+                <url></url>
+                <moviestart></moviestart>
+                <moviestop></moviestop>
+                <sound></sound>
+                
+            </practice>
+        </Set>
+    </menuitem> 
+    <menuitem>     
+        <submenu>
+            <id></id>
+            <title>sub1</title>
+            <menuitem>
+                <practice>
+                    <id></id>
+                    <title>øvelse 3.2</title>
+                    <info></info>
+                    <thumbnailimage></thumbnailimage>            
+                    <url></url>
+                    <moviestart></moviestart>
+                    <moviestop></moviestop>
+                    <sound></sound>
+                    
+                    
+                </practice>
+                <practice>
+                    <id></id>
+                    <title>øvelse 4.2</title>
+                    <info></info>
+                    <thumbnailimage></thumbnailimage>            
+                    <url></url>
+                    <moviestart></moviestart>
+                    <moviestop></moviestop>
+                    <sound></sound>                        
+                </practice>
+                
+            </menuitem>                        
+        </submenu>  
+        <submenu>
+            <id></id>
+            <title>sub2</title>
+            <menuitem>
+                <practice>
+                    <id></id>
+                    <title>øvelse x.2</title>
+                    <info></info>
+                    <thumbnailimage></thumbnailimage>            
+                    <url></url>
+                    <moviestart></moviestart>
+                    <moviestop></moviestop>
+                    <sound></sound>
+                    
+                    
+                </practice>
+                <practice>
+                    <id></id>
+                    <title>øvelse y.2</title>
+                    <info></info>
+                    <thumbnailimage></thumbnailimage>            
+                    <url></url>
+                    <moviestart></moviestart>
+                    <moviestop></moviestop>
+                    <sound></sound>                        
+                </practice>
+                
+            </menuitem>                        
+        </submenu>
+    </menuitem> 
+</menu>

@@ -1,0 +1,33 @@
+Contents of /Users/christianandersen/Desktop/IOS/21092012/kundalini/kundalini/kundalini-Prefix.pch
+4.1 (tags/Apple/clang-421.11.66) (based on LLVM 3.1svn)
+arm-apple-darwin11.4.0
+-x
+objective-c
+-arch
+armv7
+-fmessage-length=0
+-std=gnu99
+-fobjc-arc
+-fpascal-strings
+-Os
+-isysroot
+/Volumes/Xcode/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+-g
+-fvisibility=hidden
+-DIBOutlet=__attribute__((iboutlet))
+-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))
+-DIBAction=void)__attribute__((ibaction)
+-miphoneos-version-min=5.0
+-iquote
+-iquote
+-I/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/ArchiveIntermediates/kundalini/BuildProductsPath/Release-iphoneos/include
+-I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-I/Volumes/Xcode/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-F/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/ArchiveIntermediates/kundalini/BuildProductsPath/Release-iphoneos
+-ferror-limit=10
+-working-directory=/Users/christianandersen/Desktop/IOS/21092012/kundalini
+-Xclang
+-detailed-preprocessing-record
+-DNS_BLOCK_ASSERTIONS=1
+SDK_PRODUCT_BUILD_VERSION=10A403

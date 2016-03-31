@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by cta (KMD A/S) -->
+<menu>
+	<menuitem>
+		<id/>
+		<title>Yoga</title>
+		<Set>
+			<id/>
+			<title>Warm up</title>
+			<info>”The age of a person is not measured in years – but in how flexible your spine is”  - Yogi Bhajan \n\nChoose one, two or all of the warm up exercises to give your body a gentle warm-up.\n\nYou can choose any of the exercises and use at any time of day. \n\nEnjoy! </info>
+			<thumbnailimage>20121205-Final_Opvarmning.jpg</thumbnailimage>
+			<practice>
+                <id></id>
+				<title>Warm up consists of 6 exercises</title>
+                <info/>
+				<thumbnailimage>20121205-Final_Opvarmning.jpg</thumbnailimage>
+				<url>Final_Opvarmning</url>
+				<moviestart/>
+				<moviestop/>
+				<sound/>
+				<snapshot/>
+			</practice>
+            <practice>
+                <id></id>
+                <title>Sufi Grind</title>
+                <info>Excellent warm up exercise for your lower spine.\n\nSit in easy pose. \n\nHold your hands on your knees. Begin moving your spine in a big circle. \n\nInhale as you cirle forward - lifting your heart space up and pressing your shoulder blades together.\n\nExhale and rotate back.\n\nStart from left to right and continue for 1 – 3 minutes. Change directions.\n\nThis exercise warms up your lower back and stimulates your digestion.</info>
+                <thumbnailimage>20121205-Final_Opvarmning.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>1</moviestart>
+                <moviestop>34</moviestop>
+                <sound/>
+                <recommendedtime>1 - 3 min. excercise.</recommendedtime>
+            </practice>
+            <practice>
+                <id/>
+                <title>Spinal Flex</title>
+				<info>Grasp your shins with both hands. \n\nInhale, stretch your spine forward. \n\nExhale, let your spine flex backwards. Keeping your head level during the movement. \n\nOn each inhale mentally vibrate the mantra “Sat,” on the exhale, mentally vibrate “Nam.” \n\nTime: 1 – 3 minutes.\n\nTo end: Inhale, hold briefly with the spine perfectly straight. Relax.\n\nThis exercise massages your spine and aids its flexibility. It gently massages your digestion.</info>
+                <thumbnailimage>20121205-Final_Opvarmning-2.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>38</moviestart>
+                <moviestop>58</moviestop>
+                <sound/>
+                <recommendedtime>1 - 3 min. excercise</recommendedtime>
+            </practice>
+            <practice>
+                <id/>
+                <title>Flex your mid-spine</title>
+                <info>Sit in easy pose, grasp your shins with both hands. \n\nInhale and flex the spine forward. \n\nExhale and flex the spine back, keeping your shoulders relaxed and your head straight.\n\nTime: 1-3 minutes. \n\nTo end: Inhale, exhale and relax.\n\nThis exercise stimulates and stretches the lower back and mid- spine.</info>
+                <thumbnailimage>20121205-Final_Opvarmning-3.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>61</moviestart>
+                <moviestop>83</moviestop>
+                <sound/>
+                <recommendedtime>1 - 3 min. excercise.</recommendedtime>
+            </practice>
+            <practice>
+                <id/>
+                <title>Forward Stretch and hip opener</title>
+                <info>Stretch both legs straight out in front. \n\nStretch your arms out parallel to the ground. \n\nInhale and lean back with your arms stretched out. \n\nExhale - lean from your hips over your legs. \n\nThis exercise works on your spine and hips.</info>
+                <thumbnailimage>20121205-Final_Opvarmning-4.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>86</moviestart>
+                <moviestop>109</moviestop>
+                <sound/>
+                <recommendedtime>1 - 3 min. excercise.</recommendedtime>
+            </practice>
+            <practice>
+                <id/>
+                <title>Forward bend with legs spread</title>
+                <info>Stretch out your life!\n\nSit with your legs out to the sides. Lean forward and grab hold of our big toe (if possible).\n\nIf you cannot grab your big toe, just grab your ankle, shin or your knee.\n\nInhale and stretch up. Exhale and bend your upper body from your hips over your left leg. \n\nInhale come back to the middle and stretch your back again. \n\nExhale and bend over your right leg.\n\nRemember to keep your heart open and bend from your hips. In Kundalini Yoga we often call the muscle running down the back of your legs – our life-nerve!\n\nTime: 1 – 3 minutes.\n\nThis stretches the back of your legs, your thighs and lower back.</info>
+                <thumbnailimage>20121205-Final_Opvarmning-5.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>113</moviestart>
+                <moviestop>135</moviestop>
+                <sound/>
+                <recommendedtime>1 - 3 min. excercise.</recommendedtime>
+            </practice>
+            <practice>
+                <id/>
+                <title>Spinal Twist</title>
+                <info>Twist your sides and warm up your spine. \n\nSit in easy posy and place your hands on your shoulders, with your fingers pointing forward and your thumb back. Your arms are parallel to the earth.\n\nInhale and twist your upper body to the left. \n\nExhale and twist to the right. Let your head follow the movement.\n\nTime: 1 – 3 minutes. \n\nThis easy-to-do exercise stretches the muscles on your sides and warms up your spine. It also increases circulation in your chest and belly.</info>
+                <thumbnailimage>20121205-Final_Opvarmning-6.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>137</moviestart>
+                <moviestop>160</moviestop>
+                <sound/>
+                <recommendedtime>1 - 3 min. excercise.</recommendedtime>
+            </practice>
+		</Set>
+		<Set>
+			<id/>
+			<title>Yoga for the Sun Energy</title>
+			<info>Surya Kriya - this set of yoga exercises is named after the energy of the sun. \n\nIt brings in the energy of the sun to help you keep warm, energetic and enthusiastic. \n\nIt also aids your digestion and helps you hold the weight down. \n\nYour mind will feel clear and focused afterwards.\n\nGrab your yoga mat and get ready to shine like the sun!</info>
+			<thumbnailimage>20121205-Final_surya_kriya.jpg</thumbnailimage>
+			<practice>
+				<id/>
+				<title>The Sun Energy set consists of 7 exercises.</title>
+				<info/>
+				<thumbnailimage>20121205-Final_surya_kriya.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart/>
+				<moviestop/>
+				<sound/>
+				<snapshot/>
+			</practice>
+			<practice>
+				<id/>
+				<title>1. Energy breath</title>
+				<info>Sit in Easy Pose with a straight spine. \n\nRest your right hand on the right knee with your index finger and thumb touching. Block the left nostril with the thumb of the left hand. The other fingers point straight up. \n\nBegin long, deep, powerful breaths in and out of the right nostril. Focus on the flow of breath. \n\nContinue for 3-5 minutes. \n\nTo end: Inhale and relax.\n\nThis exercise draws on the “sun” breath and gives you a clear, focused mind.</info>
+				<thumbnailimage>20121205-Final_surya_kriya.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>1</moviestart>
+				<moviestop>27.2</moviestop>
+				<sound/>
+				<recommendedtime>3 - 5 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>2. Sat Kriya</title>
+				<info>We are using the mantra “Sat Nam” in this exercise and chant it out load. \n\nOn Sat you pull your navel in and up and on Nam relax your navel.\n\n1)     Sit on your heels in Rock Pose.\n(Alternate: Rock Pose is the preferred posture but if you are unable to sit in Rock Pose, you may sit in Easy Pose or in a chair)\n\n2)     Stretch your arms above your head so that they are perfectly straight, no bend in the elbows, upper arms hugging your ears.\n\n3)     Interlace your fingers and extend your index fingers, pointing upward.\n\nNote:\n\nWomen left thumb crossed over right.\n\nMen: Men right thumb crossed over left.\n\n4)     Close the eyes and roll them up to the Brow Point.\n\n5)     Inhale slightly to begin.\n\nTime: 1-3 minutes.\n\nTo end: Inhale deeply and hold the breath. Drawing in the navel, squeezing the muscles of the pelvic floor, and draw the diaphragm in. Exhale let all the air out. Again draw in your navel, squeeze the muscles of your pelvic floor and draw up your diaphragm, tuck in your cic bone. Finally, contract the lower abdominal muscles and pull the naval back toward the spine. Contracting all these muscles simultaneously is a root lock.\n\nRepeat the exercise.</info>
+				<thumbnailimage>20121205-Final_surya_kriya-2.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>28.24</moviestart>
+				<moviestop>50</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>3. Spinal Flex</title>
+				<info>Grasp your shins with both hands. \n\nInhale, stretch your spine forward. \n\nExhale, let your spine flex backwards. Keep your head level during the movement. \n\nOn each inhale mentally vibrate the mantra “Sat,” on the exhale, mentally vibrate “Nam.” \n\nOn each exhale apply root lock.\n\nTime: 1 – 3 minutes\n\nTo end. Then inhale, hold briefly with the spine perfectly straight. Relax.\n\nThis exercise massages your spine and aids its flexibility. It gently massages your digestion.</info>
+				<thumbnailimage>20121205-Final_surya_kriya-3.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>50.5</moviestart>
+				<moviestop>75</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>4. Frog Pose</title>
+				<info>Change gear in less than 2 minutes!\n\nSquat with your heels together and up off the ground. Fingers are on the ground between the knees. Your head is an extension of your spine. \n\nInhale, straigthen your legs, lower your head towards your knees and keep your heels off the ground. \n\nExhale and come back to the original squatting position, facing forward. \n\nContinue 26 times. Inhale up, then relax down onto the heels.\n\nThis great exercise has many benefits:\n\nIt shapes, tones and strengthens the legs and lower body. Especially the thighs muscles.\n\nIt promotes your circulation and the flexibility of your hamstrings.</info>
+				<thumbnailimage>20121205-Final_surya_kriya-4.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>76</moviestart>
+				<moviestop>100.15</moviestop>
+				<sound/>
+				<recommendedtime>Repeat 26 times.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>5. Neck Turns</title>
+				<info>Come sitting on your heels or in easy pose and place your hands on your thighs. \n\nInhale deeply and turn the head to the left. Mentally chant “Sat.” \n\nExhale completely as you turn the head to the right. Mentally chant “Nam.”\n\nContinue inhaling and exhaling for 3 minutes.\n\nInhale with the head straight forward and relax.\n\nThis stimulates the circulation to the head and works on the thyroid and parathyroid glands.</info>
+				<thumbnailimage>20121205-Final_surya_kriya-5.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>104</moviestart>
+				<moviestop>126</moviestop>
+				<sound/>
+				<moviestop>110</moviestop>
+				<sound/>
+				<recommendedtime>2 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>6. Spinal Bend</title>
+				<info>Sit in Easy Pose. \n\nPlace your hands on your shoulders with the fingers in front and the thumbs back. The upper arms and elbows are parallel to the ground. \n\nInhale as you bend to the left. \nExhale and bend to the right. \n\nContinue this swaying motion with deep breaths for 3 minutes.\n\nThis exercise flexes the spine, distributes the energy over the whole body and balances the magnetic field.</info>
+				<thumbnailimage>20121205-Final_surya_kriya-6.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>128</moviestart>
+				<moviestop>151</moviestop>
+				<sound/>
+				<recommendedtime>3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>7. Meditate</title>
+				<info>Sit in a perfect meditative posture with the spine straight. \n\nDirect all attention through the Brow Point. Pull the Navel Point in — hold it — apply Mulbandh. Watch the flow of breath. \n\nOn the inhale, listen to silent “Sat.” \n\nOn the exhale, listen to silent, “Nam.” \n\nContinue 6 minutes or longer.\n\nThis will take you into a deep self-healing meditation.</info>
+				<thumbnailimage>20121205-Final_surya_kriya-7.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>152</moviestart>
+				<moviestop>173.24</moviestop>
+				<sound/>
+				<recommendedtime>6 min. meditation.</recommendedtime>
+			</practice>
+		</Set>
+		<Set>
+			<id/>
+			<title>No Stress</title>
+			<info>This short set of yoga exercises helps reduce stress. \n\nThe exercises work on many of the areas in the body, that have a tendency to tense up – e.g. shoulders, neck, back and the pelvis</info>
+			<thumbnailimage>20121205-Final_Antistress.jpg</thumbnailimage>
+			<practice>
+				<id/>
+				<title>No stress consists of 4 exercises</title>
+				<info/>
+				<keywords>
+					<key/>
+					<link/>
+					<key/>
+					<link/>
+				</keywords>
+				<thumbnailimage>20121205-Final_Antistress.jpg</thumbnailimage>
+				<url>Final_Antistress</url>
+				<moviestart>0</moviestart>
+				<moviestop>148</moviestop>
+				<sound/>
+			</practice>
+			<practice>
+				<id/>
+				<title>1. Open your heart</title>
+				<info>Stretch your arms up to a 60 degree angle with the palms facing up and parallel to the floor.  \n\nStretch the arms all the way out.\n\nBreathe long and deep and keep the posture.\n\nTime: 1 – 3 minutes \n\nThe exercises strengthens the arms and opens up the chest. After a short time your breath will automatically become long and deep.
+                </info>
+				<thumbnailimage>20121205-Final_Antistress.jpg</thumbnailimage>
+				<url>Final_Antistress</url>
+				<moviestart>1</moviestart>
+				<moviestop>38</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>2. Pelvic lifts</title>
+				<info>Lie on your back. \n\nBend the knees with the feet flat on the ground. Grab hold of your ankles, if possible. \n\nInhale, engage the navel and lift your hips up. \n\nExhale down, lowering your back.</info>
+				<thumbnailimage>20121205-Final_Antistress-2.jpg</thumbnailimage>
+				<url>Final_Antistress</url>
+				<moviestart>41.54</moviestart>
+				<moviestop>65</moviestop>
+				<sound/>
+				<recommendedtime>12 – 26 times.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>3. Downward Facing Dog/Triangle Pose</title>
+				<info>Come onto all fours. \n\nPlace your hands with your wrists under your shoulders and your feet hip-with apart.\n\nPress your hips towards the sky and come up into the pose. \n\nCheckpoints: \n\nCreate a straight line between your wrists and your hips, and from your hips to your heels. \n\nThe chin is pulled in, elongating the neck. \n\nRoll the armpits toward each other \n\nDo not oversway the back.</info>
+				<thumbnailimage>20121205-Final_Antistress-3.jpg</thumbnailimage>
+				<url>Final_Antistress</url>
+				<moviestart>74.48</moviestart>
+				<moviestop>95.39</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>4. Neck Rolls</title>
+				<info>Sit with a straight but relaxed spine. \n\nAdjust your head so that you feel like it is sitting on top of the spine by slightly moving the head back and bringing the chin down slightly. \n\nRoll the neck slowly in one direction and then in the other. \n\nLet the weight of the head move the head around. \n\nDo this very methodically so that you go slowly through tight spots and work out areas of tension. \n\nAt least one minute in each direction. \n\nTo end: After this exercise, sit quietly and be with the sensations in your body and spine.
+                    \n\nBenefits: This exercise removes tension in the neck and stimulates the thyroid.</info>
+				<thumbnailimage>20121205-Final_Antistress-4.jpg</thumbnailimage>
+				<url>Final_Antistress</url>
+				<moviestart>109.30</moviestart>
+				<moviestop>148.36</moviestop>
+				<sound/>
+				<recommendedtime>12 times in each direction.</recommendedtime>
+			</practice>
+		</Set>
+		<Set>
+			<id/>
+			<title>Uplift your body and your spirit</title>
+			<info>This easy set of exercises, also called Kriya for Elevation, is excellent as a warm-up and a tune-up.\n\nIt systematically exercises your whole spine and leaves you feeling balanced, uplifted and full of energy.</info>
+			<thumbnailimage>20121205-Final_Elevation.jpg</thumbnailimage>
+			<practice>
+				<id/>
+				<title>Kriya for Elevation consists of 10 excercises</title>
+				<info/>
+				<thumbnailimage>20121205-Final_Elevation.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart/>
+				<moviestop/>
+				<sound/>
+			</practice>
+			<practice>
+				<id/>
+				<title>1. Ego Eradicator</title>
+				<info>Sit in easy pose. Extend your arms up to 60 degree angle, palms facing forward. \n\nCurl your fingertips into the pads of the palms and extend your thumbs. Angle the wrists so that the thumbs are pointing straight up and the other fingers are parallel to the ground.\n\nBegin breath of fire or breathe long and deep.\n\nTime: 1-3 minutes.\n\nTo end: Inhale deeply and hold the breath as you bring the thumbs together above your head. \n\nExhale and apply root lock. Hold the breath out briefly. \n\nThis exercise opens your lungs and brings the hemispheres of the brain to a state of alertness.</info>
+				<thumbnailimage>20121205-Final_Elevation.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>1</moviestart>
+				<moviestop>17</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>2. Spinal Flex</title>
+				<info>Sit in easy pose, grasp your shins with both hands. \n\nInhale and flex the spine forward. \n\nExhale and flex the spine back, keeping your shoulders relaxed and your head straight.\n\nTime: 1-3 minutes. \n\nTo end: Inhale - exhale fully and relax.\n\nThis exercise stimulates and stretches the lower back and mid- spine.</info>
+				<thumbnailimage>20121205-Final_Elevation-2.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>19</moviestart>
+				<moviestop>39</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>3. Twist</title>
+				<info>In easy pose, place your hands on your shoulders, arms parallel to the ground. Your thumbs back and the fingers in front.\n\nInhale as you twist your torso and your head the left. \n\nExhale as you twist to the right.\n\nTime: 1-3 minutes. \n\nTo end: Inhale, facing straight forward. \n\nExhale and relax.\n\nThis exercise stimulates and stretches the lower and mid-spine.</info>
+				<thumbnailimage>20121205-Final_Elevation-3.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>43</moviestart>
+				<moviestop>56</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>4. Leg stretch</title>
+				<info>Stretch both legs straight out in front of you. \n\nGrab the big toe of each foot by locking the index finger around the toe and pressing the thumb against the toenail - if you cannot reach the toes, grab your ankles.\n\nInhale and stretch your spine straight, pulling back on the toes and keeping the knees straight.\n\nExhale and bend forward from your hips. \n\nContinue with deep, powerful breathing for 1-3 minutes. \n\nTo end: Inhale up and hold the breath briefly. Stay up and exhale completely, holding the breath out briefly. Inhale and relax.\n\nThis exercise works on the lower and upper spine.</info>
+				<thumbnailimage>20121205-Final_Elevation-4.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>58</moviestart>
+				<moviestop>73</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>5. One-leg stretch</title>
+				<info>Sit on your right heel with the left leg extended forward. Grasp the big toe of the left foot with both hands, applying a pressure against the toenail – if you cannot reach – grab hold of your shin.\n\nBegin breath of fire or long deep breathing.\n\nTime: 1-2 minutes.\n\nTo end: Inhale. Exhale and stretch the head and torso forward and down. Hold the breath out briefly. \n\nInhale and switch legs. Repeat the exercise using the opposite side.\n\nRelax.\n\nThis exercise helps elimination, stretches the sciatic nerve and brings circulation to the upper torso.</info>
+				<thumbnailimage>20121205-Final_Elevation-5.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>75</moviestart>
+				<moviestop>93</moviestop>
+				<sound/>
+				<recommendedtime>1 - 2 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>6. Wide-leg stretch</title>
+				<info>Spread the legs wide, grasping your toes (again if possible – do your best).\n\nInhale and stretch the spine straight, pulling back on the toes.\n\nExhale and, bending at the waist, bring the head down to the left knee.\n\nInhale up in the center position and exhale down, bringing up the head to the right knee.\n\nTime: Continue with powerful breathing for 1-2 minutes.\n\nThis exercise develops flexibility of the lower spine and sacrum and charges the magnetic field.</info>
+				<thumbnailimage>20121205-Final_Elevation-6.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>100</moviestart>
+				<moviestop>114</moviestop>
+				<sound/>
+				<recommendedtime>1 - 2 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>7. Cobra Pose</title>
+				<info>Lie on the stomach with your palms flat on the floor under your shoulders. \n\nThe heels are together with the soles of the feet facing up. \n\nInhale into cobra pose, arching the spine, vertebra by vertebra, from the neck to the base of the spine until the arms are straight with the elbows locked. \n\nAlternatively leave your underarms on the floor in what we call Spfinx pose.\n\nBegin breath of fire or long deep breathing.\n\nTime: 1-3 minutes. \n\nTo end: Inhale, arch the spine to the maximum. Exhale and hold the breath out briefly, apply the root lock and relax.\n\nThis exercise opens up the chest and reduces tension, stress and fatigue within the body. \n\nIt strengthens and tones the back muscles and tissues along the vertebrae, therefore relieving any tension, aches and pains in the lower back.</info>
+				<thumbnailimage>20121205-Final_Elevation-7.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>116</moviestart>
+				<moviestop>130</moviestop>
+				<sound/>
+				<recommendedtime>1 - 2 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>8. Shoulder shrugs</title>
+				<info>Sit in easy pose. Place your hands on your knees. \n\nInhale and pull the shoulders up toward the ears. \n\nExhale and drop your shoulders down.\n\nTime: with powerful breathing for 1-2 minutes. \n\nTo end: Inhale. Exhale and relax.\n\nThis exercise loosens tension in the shoulders and strengthens the muscles in and around your neck.</info>
+				<thumbnailimage>20121205-Final_Elevation-8.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>133</moviestart>
+				<moviestop>151</moviestop>
+				<sound/>
+				<recommendedtime>1 - 2 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>9. Neck rolls</title>
+				<info>Sit in easy pose. \n\nBegin rolling your neck clockwise in a circular motion, bringing the right ear toward the right shoulder, the back of the head toward the back of the neck, the left ear toward the left shoulder and the chin toward the chest. \n\nThe shoulders remain relaxed and motionless, and the neck should be allowed to gently stretch as the head circles around.\n\nTime: 1 - 2 minutes, then reverse the direction and continue for 1 - 2 minutes. \n\nBring the head to a central position and relax.</info>
+				<thumbnailimage>20121205-Final_Elevation-9.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>154</moviestart>
+				<moviestop>178</moviestop>
+				<sound/>
+				<recommendedtime>1 - 2 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>10. Sat Kriya</title>
+				<info>We are using the mantra “Sat Nam” in this exercise and chant it out load. \n\nOn Sat you pull your navel in and up and on Nam relax your navel.\n\n1)     Sit on your heels in Rock Pose.\n(Alternate: Rock Pose is the preferred posture but if you are unable to sit in Rock Pose, you may sit in Easy Pose or in a chair)\n\n2)     Stretch your arms above your head so that they are perfectly straight, no bend in the elbows, upper arms hugging your ears.\n\n3)     Interlace your fingers and extend your index fingers, pointing upward.\n\nNote:\n\nWomen left thumb crossed over right.\n\nMen: Men right thumb crossed over left.\n\n4)     Close the eyes and roll them up to the Brow Point.\n\n5)     Inhale slightly to begin.\n\nTime: Start with 3 minutes and build up to 31 minutes.\n\nTo end: Inhale deeply and hold the breath. Drawing in the navel, squeezing the muscles of the pelvic floor, and draw the diaphragm in. Exhale let all the air out. Again draw in your navel, squeeze the muscles of your pelvic floor and draw up your diaphragm, tuck in your chin.\n\nThis exercise is used as a treatment for depression, it works on the digestion, it builds your nervous system and reproduction system and strengths your heart.</info>
+				<thumbnailimage>20121205-Final_Elevation-10.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>181</moviestart>
+				<moviestop>208</moviestop>
+				<sound/>
+				<recommendedtime>3 - 7 min. exercise.</recommendedtime>
+			</practice>
+		</Set>
+		<Set>
+			<id/>
+			<title>Detox and Destress</title>
+			<info>These simple and effective exercises deal with the effects of stress.\n\nA fantastic tune up for your adrenals and kidneys so that your body can process the effects of stress and it will leave you feeling relaxed and renewed.</info>
+			<thumbnailimage>20121205-Final_Destress detox.jpg</thumbnailimage>
+			<practice>
+				<id/>
+				<title>Detox and Destress consists of 12 excercises</title>
+				<info/>
+				<thumbnailimage>20121205-Final_Destress detox.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart/>
+				<moviestop/>
+				<sound/>
+			</practice>
+			<practice>
+				<id/>
+				<title>1. Lotus Mudra</title>
+				<info>Sit crossed-legged in ”easy pose”. Your hands are in ”lotus” mudra – the base of your hands together, little fingers and thumbs touching and the other fingers spread apart.\n\nInhale and stretch the arms out to the sides, parallel to the ground with the palms facing out. Exhale, bring the hands together hitting the base of your hands together.\n\nTo end: Inhale with palms together, hold your breath and relax. Allow yourself to sit and go within.\n\nTime: 1 – 3 minutes.</info>
+				<thumbnailimage>20121205-Final_Destress detox.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>1</moviestart>
+				<moviestop>29</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. excercise</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>2. Adrenal tune-up</title>
+				<info>Interlace your pinkies in front of your heart, curling the other finger into the pads, thumbs sticking out. \n\nLower your hands to the front of your navel. Now pull the pinkies and do ”Breath of Fire” through your mouth. \n\nFeel a pull across your back.\n\nTime: 1 – 3 minutes.\n\nThis generates heat and works on one side of your adrenals.</info>
+				<thumbnailimage>20121205-Final_Destress detox-2.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>32</moviestart>
+				<moviestop>63</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>3. Cannon Breath</title>
+				<info>Easy pose with your spine straight. \n\nBegin cannon breath - pucker your mouth into a firm "O" shape and breathe through the mouth, keeping your inhalation and exhalation equal, as in breath of fire. \n\nTo end: Inhale and concentrate on your spine.\n\nTime: 1-3 minutes.\n\nThis works on the other side on your adrenals.</info>
+				<thumbnailimage>20121205-Final_Destress detox-3.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>66</moviestart>
+				<moviestop>89</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. excercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>4. Twist my arm!</title>
+				<info>Sitting in easy pose. \n\nTwist your left arm onto your back. Your left hand resting at the bottom of your ribs with your palm facing out. \n\nStretch your right arm straight out, palm facing forward - hold your arm up at 60 degrees.\n\nKeep your spine straight and stretch from your shoulder.\n\nWith your eyes open chant: Har, Har, Har powerfully from your navel. \n\nThe word ”Har” means creative infinity.\n\nThe exercise puts pressure on your kidneys and aids detoxification.</info>
+				<thumbnailimage>20121205-Final_Destress detox-4.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>91</moviestart>
+				<moviestop>116</moviestop>
+				<sound>YES</sound>
+				<recommendedtime>1 - 3 min. excercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>5. Body drops</title>
+				<info>Sit in easy pose or with your legs straight out in front of you.\n\n Make fists of your hands and push your fists into the ground lifting your buttocks off the ground.\n\nShould you feel any discomfort using your fists, you can place your palms flat on the floor instead.\n\nInhale up and exhale down.\n\nTime: 1 – 3 minutes.\n\nThis exercise puts pressure on your kidnes and aids flushing out toxings. \n\nIt energizes you and makes you stronger.</info>
+				<thumbnailimage>20121205-Final_Destress detox-5.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>118</moviestart>
+				<moviestop>134</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>6. Cleanse</title>
+				<info>In easy pose place your hands in from of your navel. Your left hand facing your body, the right hand presses against your left wrist. Look down with long and powerful breathing.\n\nTime: 1 – 3 minutes.\n\nLet your breath go very deep. The deeper your breath the more you will cleanse.</info>
+				<thumbnailimage>20121205-Final_Destress detox-6.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>137</moviestart>
+				<moviestop>160</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>7. Front Stretch and hip opener</title>
+				<info>Sit with your legs stretched out in front of you. Arms are parallel to the ground. \n\nInhale lean back, exhale stretch from your hips over your legs.\n\nKeep your breath powerful and your arms stretched.\n\nTime: 1 – 3 minutes.\n\nChallenge yourself a little with this exercise. Keep your arms straight and give your digestive systems a massage, stretch your legs out and press out through your heels, giving your legs a nice long stretch.</info>
+				<thumbnailimage>20121205-Final_Destress detox-7.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>161</moviestart>
+				<moviestop>187</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>8. Pelvic lifts</title>
+				<info>Lie on your back, bend your knees and bring the soles of your feet towards your buttocks. \n\nInhale, holding your ankles and lift your pelvis up. \n\nExhale come down.\n\nShould holding your ankles challenge you, place your palms down besides your body, inhaling up and exhaling down.\n\nTime: 1 – 3 minutes.\n\nThis exercise tones your back, strengthens your sexualorgans and your kidneys.</info>
+				<thumbnailimage>20121205-Final_Destress detox-8.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>190</moviestart>
+				<moviestop>219</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>9. Modified cat-cow.</title>
+				<info>Come onto all fours. \n\nPlace your hands underneath your shoulders and your knees underneath your hips.\n\nExhale as you bring your knee to your forehead, inhale as you stretch the leg out and up.\n\nBe careful not to over stretch.\n\nSwitch legs.\n\nTime: 1 – 3 minutes.\n\nThis exercise stretches your back, tones up your core muscles and works on the co-ordination between your left and right brain hemisphere.</info>
+				<thumbnailimage>20121205-Final_Destress detox-9.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>221</moviestart>
+				<moviestop>258</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>10. Kidney tonifier</title>
+				<info>Sit on your heels and bring your forearms to the ground in front of your knees. \n\nKeep your palms together. \n\nInhale as you stretch over the palms, and exhale back.\n\nKeep you chin up to create pressure on your lower back.\n\nTime: 1 – 3 minutes.\n\nThis will put pressure on your lower back and adrenals and kidneys.</info>
+				<thumbnailimage>20121205-Final_Destress detox-10.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>259</moviestart>
+				<moviestop>288</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>11. Back rolls</title>
+				<info>Bring the knees to your chest and breathe normally. \n\nRoll back and forth on your spine.\n\nTime: 1 – 3 minutes. \n\nThis will give your spine a gentle massage.</info>
+				<thumbnailimage>20121205-Final_Destress detox-11.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>291</moviestart>
+				<moviestop>311</moviestop>
+				<sound/>
+                <recommendedtime>1 - 3 min. exercise.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>12. Totally relax</title>
+				<info>Drink a glass of water and lie on your back with your arms besides your body, palms facing towards the heavens.\n\nListen to some relaxing music or your own breath for a while and totally relax.</info>
+				<thumbnailimage>20121205-Final_Destress detox-12.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>312</moviestart>
+				<moviestop>336</moviestop>
+				<sound/>
+				<recommendedtime>11 - 15 min. relax</recommendedtime>
+			</practice>
+		</Set>
+	</menuitem>
+	<menuitem>
+		<id/>
+		<title>Meditation</title>
+		<practice>
+			<id/>
+			<title>Sat Kriya (All-in-one Yoga and Meditation)</title>
+			<info>If I could teach only one yoga exercise, it is this.\n\nThe word “Kriya” means “completed action” – this exercise is a complete action.\n\nThis meditation is used as a treatment for depression, it works on the digestion, it builds your nervous system and reproduction system and strengths your heart.\n\nWe will use the mantra “Sat Nam” in this exercise and chant it out load. \n\nOn Sat you pull your navel in and up and on Nam relax your navel.\n\n1)     Sit on your heels in Rock Pose. \n(Alternate: Rock Pose is the preferred posture but if you are unable to sit in Rock Pose, you may sit in Easy Pose or in a chair)\n\n2)     Stretch your arms above your head so that they are perfectly straight, no bend in the elbows, upper arms hugging your ears.\n\n3)     Interlace your fingers and extend your index fingers, pointing upward.\n\nNote: Women left thumb crossed over right.\nMen: Men right thumb crossed over left.\n\n4)     Close the eyes and roll them up to the Brow Point.\n\n5)     Inhale slightly to begin.\n\nTime: Start with 3 minutes and build up to 31 minutes.\n\nTo end: Inhale deeply and hold the breath. Drawing in the navel, squeezing the muscles of the pelvic floor and draw the diaphragm in. \n\nExhale let all the air out. Again draw in your navel, squeeze the muscles of your pelvic floor and draw up your diaphragm, tuck in your chin.\n\nPlease rest for twice as long as you have practiced. </info>
+			<thumbnailimage>20121205-Final_Meditation_Satkriya.jpg</thumbnailimage>
+			<url>Final_Meditation_Satkriya</url>
+			<moviestart/>
+			<moviestop/>
+			<sound>TRUE</sound>
+		</practice>
+		<practice>
+			<id/>
+			<title>Mental Balance Meditation - Kirtan kriya</title>
+			<info>Sit straight in Easy Pose. \n\nEyes: Meditate at the Brow Point. \n\nMantra: Produce the five primal sounds (panj shabd):
+                S, T, N, M, A, in the original word form: \n\nSAA: Infinity, cosmos, beginning  \nTAA: Life, existence \nNAA: Death, change, transformation \nMAA: Rebirth \n\nEach repetition of the entire mantra takes 3 to 4 seconds. \n\nThis is the cycle of Creation. From the Infinite comes life and individual existence. From life comes death or change. From death comes the rebirth of consciousnes to the joy of the Infinite through which compassion leads back to life. \n\nMudra: This mantra can be done in many different mudras. Most common is to begin in Gyan Mudra. The elbows are straight while chanting, and the mudra changes as each fingertip touches in turn the tip of the thumb with firm pressure. \n\nOn SAA, touch the first (Jupiter) finger. \n\nOn TAA, touch the second (Saturn) finger. \n\nOn NAA, touch the third (Sun) finger. \n\nOn MAA, touch the fourth (Mercury) finger. \n\nChant in three languages of consicousness: \n\nHuman: normal or loud voice (the world)  \nLovers: strong whisper (longing to belong)  \nDivine: mentally; silent (Infinity) \n\nTime: Begin the kriya in a normal voice for 5 minutes; then whisper for 5 minutes; then go deep into the sound, vibrating silently for 10 minutes. Then come back to a whisper for 5 minutes, then aloud for 5 minutes. \n\nThe duration of the meditation may vary, as long as the proportion of loud, whisper, silent, whisper, loud is maintained. \n\nTo End: This sequence will take 30 minutes. Follow with one 1 minute of stretching the arms over your head and spreading the fingers wide, shaking them out, circulating the energy, inhaling and exhaling 3 times.\n\nRelax.
+            </info>
+			<thumbnailimage>20121205-Final_Meditation_Kirtan_Kriya.jpg</thumbnailimage>
+			<url>Final_Meditation_Kirtan_Kriya</url>
+			<moviestart/>
+			<moviestop/>
+			<sound>TRUE</sound>
+		</practice>
+		<practice>
+			<id/>
+			<title>The cappucino meditation - Powerful energy</title>
+			<info>Sit in Easy Pose with a straight spine. \n\nInterlock all of your fingers except your ring fingers, which are pressed together pointing upward. \n\nThe right thumb locks down the left thumb. \n\nPlace the mudra at diaphragm level, several inches out from the body, with the fingers pointing out at a sixty-degree angle. \n\nClose your eyes.\n\nInhale deeply and chant "Ong" in long form, one recitation of "Ong" per exhalation. \n\nThe sound is created through the nose; although the mouth is held slightly open, no air comes through the mouth. \n\nThe sound comes from the nose by way of the back of the upper palate. Your upper palate will vibrate, concentrate to do it correctly. \n\nTime: Repeat minimum 5 times.</info>
+			<thumbnailimage>20121205-Final_Meditation_Powerful_Energi.jpg</thumbnailimage>
+			<url>Final_Meditation_Powerful_Energi</url>
+			<moviestart/>
+			<moviestop/>
+			<sound>TRUE</sound>
+		</practice>
+		<practice>
+			<id/>
+			<title>Inner peace and balance - For a calm heart</title>
+			<info>Sit in an Easy Pose. \n\nEYES: Either close the eyes or look straight ahead with the eyes 1/10th open. \n\nMUDRA: Place the left hand on the center of the chest at the Heart Center. \n\nThe palm is flat against your chest, and the fingers are parallel to the ground, pointing to the right. \n\nTouch the tip of your index finger with the tip of your thumb. \n\nRaise the right hand up to the right side as if giving a pledge. \n\nYour palm faces forward, the three fingers other fingers point up. The elbow is relaxed near the side with the forearm perpendicular to the ground. \n\nBreath: Concentrate on the flow of the breath. Inhale slowly and deeply through both nostrils. \n\nThen suspend the breath in and raise the chest. \n\nExhale smoothly, gradually and completely. When the breath is totally out, lock the breath out for as long as possible. \n\nTime: 3-31 minutes. \n\nTo End: Inhale and exhale strongly 3 times.  \n\nRelax.</info>
+			<thumbnailimage>20121205-Final_Meditation_Calm_Heart.jpg</thumbnailimage>
+			<url>Final_Meditation_Calm_Heart</url>
+			<moviestart/>
+			<moviestop/>
+			<sound/>
+		</practice>
+	</menuitem>
+	<menuitem>
+		<id/>
+		<title>Get started</title>
+        <practice>
+            <id>ShowTxtFirstRow</id>
+			<title>Get started</title>
+			<info>This app is designed both for you, who are new to yoga and the experienced yogi.\n\nWith this app you get 39 yoga exercises divided into 5 yoga sessions. \n\nExamples are Anti-stress, Energy and Detox. \n\nFurthermore you get 4 meditations to choose from.\n\nThe poses are easy and convenient to do. - where and when it suits you, on a chair, at work or on your living room floor.\n\nAll yoga sets have been picked with special attention to balancing and revitalizing your body and nervous system. Select the exercises you need today\n\nStart with "Tune in" (located under Get Started)\n\n"Warm up" choose the ones you need today (located under Yoga)\n\nYoga: Select the sequence that appeals to you today (located under Yoga)\n\nEnd your yoga with "To end a Kundalini Yoga class" (located under Get Started)</info>
+            <thumbnailimage>20121205-Final_TuneIn.jpg</thumbnailimage>
+            <url>Final_TuneIn</url>
+            <moviestart/>
+            <moviestop/>
+            <sound>NO</sound>
+            <snapshot/>
+        </practice>
+        <practice>
+            <id/>
+			<title>Tune in</title>
+			<info>In Kundalini Yoga we tune in with the mantra: ONG NAMO GURU DEV NAMO.The mantra means: I bow to the Creative Wisdom, I bow to the Divine Teacher within. \n\nEverything in the universe is made of energy, vibrating at various frequencies. \n\nChanting mantras is not singing or speaking, it is vibrating. Mantras are combinations of syllables that allow us to connect with specific levels of consciousness, affecting the patterns of the mind and chemistry of the brain. \n\nHow to tune in: Sit with your spine straight, preferably cross-legged on the floor. Pull your chin back slightly. Place the palms of the hands together at the centre of the chest, fingers pointing upward, thumbs lightly pressing on the sternum. \n\nClose your eyes and keep your focus at the centre of your forehead. Take a few long deep breaths through the nose. \n\nChant ONG NAMO GURU DEV NAMO at least three times or as many times as you wish until you feel ‘connected.</info>
+            <thumbnailimage>20121205-Final_TuneIn.jpg</thumbnailimage>
+            <url>Final_TuneIn</url>
+            <moviestart/>
+            <moviestop/>
+            <sound>YES</sound>
+            <snapshot/>
+        </practice>
+        <practice>
+            <id/>
+			<title>To end a Kundalini Yoga class </title>
+			<info>Each Kundalini Yoga class ends by chanting SAT NAM three times. \n\nThe SAT is chanted seven times longer than the NAM.\n\nSAT means 'truth' and NAM means 'identity' - we end the class with the consciousness of being our true identity</info>
+            <thumbnailimage>20121205-Final_TuneOut.jpg</thumbnailimage>
+            <url>Final_TuneOut</url>
+            <moviestart/>
+            <moviestop/>
+            <sound>YES</sound>
+            <snapshot/>
+        </practice>
+	</menuitem>
+</menu>

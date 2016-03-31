@@ -1,0 +1,1 @@
+/Users/christianandersen/Desktop/IOS/21092012/kundalini/DerivedData/kundalini/Build/Intermediates/ArchiveIntermediates/kundalini/InstallationBuildProductsLocation/Applications/kundalini.app

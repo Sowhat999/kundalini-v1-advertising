@@ -1,0 +1,31 @@
+/*
+ Localizable.strings
+ kundalini
+ 
+ Created by Christian Toft Andersen on 02/11/12.
+ 
+ */
+"ABOUTLABEL" = "About";
+"TUNEINLABEL" = "Get started";
+"READMORELABEL" = "Read more";
+"ABOUT0TITLE" = "About the App - version 1.3";
+"ABOUT1TITLE" = "About Dyb:ro yoga";
+"ABOUT2TITLE" = "About Pernille";
+"ABOUT3TITLE" = "About Kundalini yoga";
+"ABOUT4TITLE" = "Music by Mirabai Ceiba";
+"ABOUT5TITLE" = "Find us on Facebook";
+"ABOUT6TITLE" = "Kundalini Yoga rocks!";
+"ABOUT7TITLE" = "Who created this App";
+"ABOUT8TITLE" = "Heartfelt thanks to";
+"ABOUT9TITLE" = "Disclaimer";
+"ABOUT0TXT" = "This app is designed both for you, who are new to yoga and the experienced yogi.\n\nWith this app you get 39 yoga exercises divided into 5 yoga sessions. Examples are Anti-Stress, Yoga for Sun Energy and Detox.\n\nThe poses are easy and convenient to do. \n\nWhere and when it suits you, on a chair, at work or on your living room floor.\n\nYou will be guided by beautiful videos recorded on location by the beautiful North Sea in Northern Jutland, Denmark  and in the charming and lively city of Aalborg by Denmark’s leading Kundalini Yoga and meditation teacher Pernille Dybro.";
+"ABOUT1TXT" = "Dyb:ro:yoga (www.dybro-yoga.dk) offers KUNDALINI YOGA for children and adults as taught by Yogi Bhajan.\n\nThis simple and vital form of yoga is also called “The yoga of awareness” as it uses simple methods to quickly bring balance to body, spirit and mind. It is a form of yoga that suits most people, no matter what age and flexibility.";
+"ABOUT2TXT" = "I am a passionate yoga teacher who lives and breathes yoga. I am deeply grateful to be able to pass on Kundalini Yoga as taught by Yogi Bhajan. I have been practicing Kundalini Yoga since 1995. \n\nI am an internationally certified Kundalini Yoga- and Meditation teacher (IKYTA and 3HO) and trained children’s yoga teacher.\n\nI am a Kundalini Yoga Intern with I-SKY (International School of Kundalini Yoga) and assist in training new teachers.\n\nMy mission is to inspire, uplift and educate as many people as possible to live a life filled with happiness, consciousness, balance and inner peace. Happiness IS your birthright - Yogi Bhajan.";
+"ABOUT3TXT" = "Kundalini Yoga is a physical and dynamic form of yoga consisting of physical exercises, breathing exercises, mediation, and mantra.\n\nKundalini means vitality and Kundalini Yoga is about increasing the flow of this vitality in your body in order to get “out of your head” and into your body. \n\nThe word “yoga” means to “unite” – a union of body, spirit and mind.\n\nKundalini Yoga was brought to the West at the end of the 1960’s by Yogi Bhajan and is also called “The Yoga of Awareness”.\n\nYoga improves your quality of life in many areas including: better sleep, stress management, alleviate back problems. Yoga affects your body and the internal organs in different ways. It provides flexibility, affect digestion and hormone balance and gives a stronger nervous system, it balances the right and left hemispheres and improve your sleeping habits.";
+"ABOUT4TXT" = "Music by Mirabai Ceiba. \n\nFrom the album: Awakened Earth you can hear the songs:\nOng Namo\nAd Guray Nameh. \n\nFrom the album: A hundred blessings you can hear the song:\nA hundred blessings. \n\nFrom the award winning album: Between the shores of our souls - you can hear the songs:\nBreeze at Dawn\nBurn of the heart. \n\nYou can find more Kundalini Yoga music from Mirabai Ceiba on www.spiritvoyage.com.";
+"ABOUT5TXT" = "Like us on Facebook, ask questions or get more tips on Kundalini yoga";
+"ABOUT6TXT" = "Help us share the effective tools of Kundalini Yoga by reviewing us in App Store. Your constructive criticism is welcome on info@dybro-yoga.dk.";
+"ABOUT7TXT" = "Passionated Yoga teacher, yoga lover and mother of two fantastic daughters, Pernille Dybro (my spiritual name is Angad Kaur) - www.dybro-yoga.dk. \n\nCommitted Photographer with the ability of catch the magic in every moment Ulrik Slot Christensen www.nordjyskfoto.dk. \n\nEnthusiatic and very patient Developer Christian Toft Andersen - www.snape-apps.dk.";
+"ABOUT8TXT" = "My soulsister and friend, who took me to yoga on an ordinary day back in the 90's. I have never been the same since. \n\nYogi Bhajan, who I had the honour and pleasure of meeting in person, and who changed my life - www.yogibhajan.org. \n\nAward winning, beautiful and soul touching music from Mirabai Ceiba - www.mirabaiceiba.com. \n\nSpirit Voyage, who allowed us to use the music for this app - www.spiritvoyage.com. \n\nDirector Hans Nielsen, who allowed us to film at Skagen Odde Naturcenter - www.skagen-natur.dk\n\nNo words can describe the gratitude to our families for their support, love and patience in bringing this project into life. Also thank you to our friends and network, who lovingly read and commented on the texts";
+"ABOUT9TXT" = "Please consult a medical practitioner before attempting any exercise and to ensure that you do not injure yourself. \n\nThis is particularly important if you are overweight, pregnant, nursing, regularly taking medications, or have any existing medical conditions.\n\nEngagement in any and all physical movement, exercises, or yoga is done at your own risk. \n\nYou assume all risk and full responsibility of injury, illness, damage or loss to your person or property that might result.\n\nWear comfortable clothing so you can move freely.\n\nIf you feel dizzy, light headed, faint or if you experience any other discomforts, stop exercising immediately and consult a medical doctor.";
+
