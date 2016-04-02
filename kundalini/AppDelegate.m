@@ -36,7 +36,7 @@
                                   value:[curentLocale localeIdentifier]];
                 
         NSString *xmlFile;
-        if ([locale isEqualToString:@"da"] || [localekeyboard isEqualToString:@"dansk (Danmark)"] )
+        if ([locale isEqualToString:@"da-DK"] || [localekeyboard isEqualToString:@"dansk (Danmark)"] )
             xmlFile = [[NSBundle mainBundle] pathForResource:@"menuDK" ofType:@"xml"];
         else
             xmlFile = [[NSBundle mainBundle] pathForResource:@"menuUK" ofType:@"xml"];    

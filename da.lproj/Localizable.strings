@@ -5,10 +5,11 @@
  Created by Christian Andersen on 02/11/12.
  
  */
+"BUYFULL" = "Ingen reklamer";
 "ABOUTLABEL" = "Om";
 "TUNEINLABEL" = "Kom i gang";
 "READMORELABEL" = "Læs mere";
-"ABOUT0TITLE" = "Om App'en - version 1.3";
+"ABOUT0TITLE" = "Om App'en - version 1.5";
 "ABOUT1TITLE" = "Om Dyb:ro yoga";
 "ABOUT2TITLE" = "Om Pernille Dybro";
 "ABOUT3TITLE" = "Om Kundalini yoga";

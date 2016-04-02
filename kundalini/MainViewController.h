@@ -32,6 +32,8 @@
 @property (strong, nonatomic) IBOutletCollection(UIButton) NSArray *ButSpeak;
 @property (strong, nonatomic) IBOutletCollection(UIButton) NSArray *WarmUpBut;
 @property (strong, nonatomic) IBOutletCollection(UIButton) NSArray *AboutBut;
+@property (strong, nonatomic) IBOutletCollection(UIButton) NSArray *BuyFullBut;
+- (IBAction)BuyFull:(id)sender;
 
 
 

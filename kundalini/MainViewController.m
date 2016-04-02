@@ -109,6 +109,13 @@
 {
     [super viewDidLoad];
     
+    for (UIButton *b in self.BuyFullBut) {
+        [b setTitle:NSLocalizedString(@"BUYFULL", nil) forState: UIControlStateNormal];
+        [b setTitle:NSLocalizedString(@"BUYFULL", nil) forState: UIControlStateSelected];
+        [b setTitle:NSLocalizedString(@"BUYFULL", nil) forState: UIControlStateHighlighted];
+        
+    }
+    
     for (UIButton *b in self.WarmUpBut) {
         [b setTitle:NSLocalizedString(@"TUNEINLABEL", nil) forState: UIControlStateNormal];
         [b setTitle:NSLocalizedString(@"TUNEINLABEL", nil) forState: UIControlStateSelected];
@@ -191,6 +198,10 @@
 - (IBAction)test:(id)sender {
 }
 
+- (IBAction)BuyFull:(id)sender {
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"itms-apps://itunes.apple.com/us/app/kundalini-yoga-pro/id1099448019?l=da&ls=1&mt=8"]];    //
+}
+
 - (IBAction)Showabout:(id)sender {
     
     AboutViewController *nextView;
@@ -271,12 +282,6 @@
 {
     return YES;
 }
-
-
-
-
-
-
 
 
 

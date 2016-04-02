@@ -268,7 +268,7 @@
                   moduleName = "kundalini"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/christianandersen/Desktop/latest%20yoga%20version/Yoga%20App%20release%201.2%20master%20advertising/09042013%20release%201.1/kundalini/kundalini/YogaMenu.h"
-                  timestampString = "481131294.470075"
+                  timestampString = "481295727.776585"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "28"
@@ -283,7 +283,7 @@
                   moduleName = "kundalini"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/christianandersen/Desktop/latest%20yoga%20version/Yoga%20App%20release%201.2%20master%20advertising/09042013%20release%201.1/kundalini/kundalini/YogaMenu.h"
-                  timestampString = "481131294.470242"
+                  timestampString = "481295727.776764"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -867,11 +867,11 @@
             continueAfterRunningActions = "No"
             isPathRelative = "1"
             filePath = "kundalini/MainViewController.h"
-            timestampString = "378982344.622351"
+            timestampString = "481287728.789521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "45"
-            endingLineNumber = "45"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
             landmarkName = "-Showmeditation:"
             landmarkType = "4">
          </BreakpointContent>
@@ -884,11 +884,11 @@
             continueAfterRunningActions = "No"
             isPathRelative = "1"
             filePath = "kundalini/MainViewController.m"
-            timestampString = "480947735.734226"
+            timestampString = "481287728.789521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "287"
-            endingLineNumber = "287"
+            startingLineNumber = "292"
+            endingLineNumber = "292"
             landmarkName = "-musicstate:"
             landmarkType = "5">
          </BreakpointContent>
@@ -1220,11 +1220,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kundalini/MainViewController.m"
-            timestampString = "480947735.734226"
+            timestampString = "481287728.789521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "169"
-            endingLineNumber = "169"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
             landmarkName = "-viewDidAppear:"
             landmarkType = "5">
          </BreakpointContent>
@@ -1236,11 +1236,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kundalini/MainViewController.m"
-            timestampString = "480947735.734226"
+            timestampString = "481287728.789521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "164"
-            endingLineNumber = "164"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
             landmarkName = "-viewDidAppear:"
             landmarkType = "5">
          </BreakpointContent>
@@ -1252,11 +1252,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kundalini/MainViewController.m"
-            timestampString = "480947735.734226"
+            timestampString = "481287728.789521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "184"
-            endingLineNumber = "184"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
             landmarkName = "-viewDidDisappear:"
             landmarkType = "5">
          </BreakpointContent>
@@ -1268,11 +1268,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kundalini/MainViewController.m"
-            timestampString = "480947735.734226"
+            timestampString = "481287728.789521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "189"
-            endingLineNumber = "189"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
             landmarkName = "@implementation MainViewController"
             landmarkType = "3">
          </BreakpointContent>
@@ -1284,11 +1284,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kundalini/MainViewController.m"
-            timestampString = "380847021.331613"
+            timestampString = "481287728.789521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "114"
-            endingLineNumber = "114"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
             landmarkName = "-viewDidLoad"
             landmarkType = "5">
          </BreakpointContent>
@@ -1300,11 +1300,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kundalini/MainViewController.m"
-            timestampString = "480947735.734226"
+            timestampString = "481287728.789521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "170"
-            endingLineNumber = "170"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
             landmarkName = "-viewDidAppear:"
             landmarkType = "5">
          </BreakpointContent>
@@ -1316,11 +1316,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kundalini/MainViewController.m"
-            timestampString = "480947735.734226"
+            timestampString = "481287728.789521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "152"
-            endingLineNumber = "152"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
             landmarkName = "-viewDidUnload"
             landmarkType = "5">
          </BreakpointContent>
@@ -1412,11 +1412,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kundalini/MainViewController.m"
-            timestampString = "480947735.734226"
+            timestampString = "481287728.789521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "146"
-            endingLineNumber = "146"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
             landmarkName = "-viewDidUnload"
             landmarkType = "5">
          </BreakpointContent>
@@ -1732,11 +1732,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kundalini/MainViewController.m"
-            timestampString = "480947735.734226"
+            timestampString = "481287728.789521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "300"
-            endingLineNumber = "300">
+            startingLineNumber = "305"
+            endingLineNumber = "305">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1746,11 +1746,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kundalini/MainViewController.m"
-            timestampString = "480947735.734226"
+            timestampString = "481287728.789521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "302"
-            endingLineNumber = "302">
+            startingLineNumber = "307"
+            endingLineNumber = "307">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1872,11 +1872,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kundalini/MainViewController.m"
-            timestampString = "480947735.734226"
+            timestampString = "481287728.789521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "306"
-            endingLineNumber = "306">
+            startingLineNumber = "311"
+            endingLineNumber = "311">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2330,11 +2330,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kundalini/MainViewController.m"
-            timestampString = "480947735.734226"
+            timestampString = "481287728.789521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "283"
-            endingLineNumber = "283"
+            startingLineNumber = "288"
+            endingLineNumber = "288"
             landmarkName = "-musicstate:"
             landmarkType = "5">
          </BreakpointContent>
@@ -2362,11 +2362,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kundalini/MainViewController.m"
-            timestampString = "480947735.734226"
+            timestampString = "481287728.789521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "139"
-            endingLineNumber = "139"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
             landmarkName = "-buttonPressed:"
             landmarkType = "5">
          </BreakpointContent>
@@ -2586,11 +2586,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "kundalini/MainViewController.m"
-            timestampString = "480947735.734226"
+            timestampString = "481287728.789521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "233"
-            endingLineNumber = "233"
+            startingLineNumber = "244"
+            endingLineNumber = "244"
             landmarkName = "-ChangeSpeakImage"
             landmarkType = "5">
          </BreakpointContent>
@@ -2864,6 +2864,22 @@
             startingLineNumber = "307"
             endingLineNumber = "307"
             landmarkName = "-myMovieFinishedCallback:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kundalini/AppDelegate.m"
+            timestampString = "481283299.218774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "-application:didFinishLaunchingWithOptions:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
