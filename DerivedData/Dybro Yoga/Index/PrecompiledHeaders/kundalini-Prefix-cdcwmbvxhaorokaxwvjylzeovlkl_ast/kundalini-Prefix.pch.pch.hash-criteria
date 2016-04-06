@@ -1,0 +1,31 @@
+-x
+objective-c
+-arch
+arm64
+-fretain-comments-from-system-headers
+-std=gnu99
+-fobjc-arc
+-gmodules
+-fpascal-strings
+-Os
+-fno-common
+-DOBJC_OLD_DISPATCH_PROTOTYPES=0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk
+-miphoneos-version-min=9.0
+-g
+-fvisibility=hidden
+-fembed-bitcode
+-iquote
+-iquote
+-I/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/DerivedData/Dybro Yoga/Build/Intermediates/ArchiveIntermediates/kundalini/BuildProductsPath/Release-iphoneos/include
+-F/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/DerivedData/Dybro Yoga/Build/Intermediates/ArchiveIntermediates/kundalini/BuildProductsPath/Release-iphoneos
+-ferror-limit=10
+-working-directory=/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini
+-Xclang
+-detailed-preprocessing-record
+-DNS_BLOCK_ASSERTIONS=1
+aarch64-apple-darwin15.4.0
+"4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)"
+SDK_PRODUCT_BUILD_VERSION=13C75
+13C75

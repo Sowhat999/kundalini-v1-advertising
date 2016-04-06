@@ -31,7 +31,6 @@
 		D417736016918363000670EF /* OrientationNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = D417735F16918363000670EF /* OrientationNavigationController.m */; };
 		D41885CC16753F310048C062 /* 20121205-Final_TuneIn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D41885CA16753F310048C062 /* 20121205-Final_TuneIn.jpg */; };
 		D41885CD16753F310048C062 /* 20121205-Final_TuneOut.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D41885CB16753F310048C062 /* 20121205-Final_TuneOut.jpg */; };
-		D418ABDB1595D06C00CE7600 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D418ABDA1595D06C00CE7600 /* MediaPlayer.framework */; };
 		D41BE900161ED02000EB38D1 /* Home2.png in Resources */ = {isa = PBXBuildFile; fileRef = D41BE8FF161ED02000EB38D1 /* Home2.png */; };
 		D41BEE4C17EC5A8C00A80CDB /* CustomViewIphone.xib in Resources */ = {isa = PBXBuildFile; fileRef = D41BEE4B17EC5A8C00A80CDB /* CustomViewIphone.xib */; };
 		D41BEE5217F047D800A80CDB /* MovieViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D41BEE5117F047D800A80CDB /* MovieViewController.m */; };
@@ -162,7 +161,6 @@
 		D4F4132A164DC28500629D6B /* MainViewControllerIphone4.xib in Resources */ = {isa = PBXBuildFile; fileRef = D4F41329164DC28500629D6B /* MainViewControllerIphone4.xib */; };
 		D4F67AB315E6B175008C737F /* PracticeDetailedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D4F67AB115E6B175008C737F /* PracticeDetailedViewController.m */; };
 		D4F67AB415E6B175008C737F /* PracticeDetailedViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D4F67AB215E6B175008C737F /* PracticeDetailedViewController.xib */; };
-		D4FDC7531CAA9A050008822D /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4FDC7521CAA9A050008822D /* iAd.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -180,7 +178,7 @@
 		D40D004A165FB51A00D2BBE4 /* theipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = theipad.png; sourceTree = "<group>"; };
 		D40D004B165FB51A00D2BBE4 /* theipadT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = theipadT.png; sourceTree = "<group>"; };
 		D40D004E165FB99000D2BBE4 /* knap1_300.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = knap1_300.png; sourceTree = "<group>"; };
-		D40E4F0515958F03008ABD61 /* kundalini.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kundalini.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D40E4F0515958F03008ABD61 /* kundalininoadd.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kundalininoadd.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D40E4F0915958F03008ABD61 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D40E4F0B15958F03008ABD61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D40E4F0D15958F03008ABD61 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -355,11 +353,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D4FDC7531CAA9A050008822D /* iAd.framework in Frameworks */,
 				D4C1B40C1CA4473C008231A1 /* CoreMedia.framework in Frameworks */,
 				D4C1B40A1CA43810008231A1 /* AVKit.framework in Frameworks */,
 				D4E7CDB6167E68C900A7FF96 /* AVFoundation.framework in Frameworks */,
-				D418ABDB1595D06C00CE7600 /* MediaPlayer.framework in Frameworks */,
 				D40E4F0A15958F03008ABD61 /* UIKit.framework in Frameworks */,
 				D40E4F0C15958F03008ABD61 /* Foundation.framework in Frameworks */,
 				D40E4F0E15958F03008ABD61 /* CoreGraphics.framework in Frameworks */,
@@ -383,7 +379,7 @@
 		D40E4F0615958F03008ABD61 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D40E4F0515958F03008ABD61 /* kundalini.app */,
+				D40E4F0515958F03008ABD61 /* kundalininoadd.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -639,9 +635,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D40E4F0415958F03008ABD61 /* kundalini */ = {
+		D40E4F0415958F03008ABD61 /* kundalininoadd */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D40E4F2315958F03008ABD61 /* Build configuration list for PBXNativeTarget "kundalini" */;
+			buildConfigurationList = D40E4F2315958F03008ABD61 /* Build configuration list for PBXNativeTarget "kundalininoadd" */;
 			buildPhases = (
 				D40E4F0115958F03008ABD61 /* Sources */,
 				D40E4F0215958F03008ABD61 /* Frameworks */,
@@ -651,9 +647,9 @@
 			);
 			dependencies = (
 			);
-			name = kundalini;
+			name = kundalininoadd;
 			productName = kundalini;
-			productReference = D40E4F0515958F03008ABD61 /* kundalini.app */;
+			productReference = D40E4F0515958F03008ABD61 /* kundalininoadd.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -683,7 +679,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D40E4F0415958F03008ABD61 /* kundalini */,
+				D40E4F0415958F03008ABD61 /* kundalininoadd */,
 			);
 		};
 /* End PBXProject section */
@@ -1002,7 +998,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D40E4F2315958F03008ABD61 /* Build configuration list for PBXNativeTarget "kundalini" */ = {
+		D40E4F2315958F03008ABD61 /* Build configuration list for PBXNativeTarget "kundalininoadd" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D40E4F2415958F03008ABD61 /* Debug */,

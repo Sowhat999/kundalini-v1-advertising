@@ -1,0 +1,2270 @@
+BCSymbolMap Version: 1.0
+OBJC_CLASS_$_AppDelegate
+OBJC_CLASSLIST_REFERENCES_$_
+OBJC_METH_VAR_NAME_
+OBJC_SELECTOR_REFERENCES_
+Apple LLVM version 7.0.2 (clang-700.1.81)
+main
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/main.m
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate Showmeditation:]
+-[AppDelegate Showwarmup:]
+-[AppDelegate Yogapas:]
+-[AppDelegate LaunchNewWindow:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate parser:foundCharacters:]
+-[AppDelegate parser:didStartElement:namespaceURI:qualifiedName:attributes:]
+-[AppDelegate parser:didEndElement:namespaceURI:qualifiedName:]
+-[AppDelegate parserDidEndDocument:]
+-[AppDelegate parserDidStartDocument:]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate viewController]
+-[AppDelegate setViewController:]
+-[AppDelegate myYogaMenu]
+-[AppDelegate setMyYogaMenu:]
+-[AppDelegate xmlParser]
+-[AppDelegate setXmlParser:]
+-[AppDelegate rootElement]
+-[AppDelegate setRootElement:]
+-[AppDelegate currentElementPointer]
+-[AppDelegate setCurrentElementPointer:]
+-[AppDelegate ym]
+-[AppDelegate setYm:]
+-[AppDelegate navigationController]
+-[AppDelegate setNavigationController:]
+-[AppDelegate .cxx_destruct]
+OBJC_CLASSLIST_REFERENCES_$_1
+OBJC_METH_VAR_NAME_2
+OBJC_SELECTOR_REFERENCES_3
+OBJC_METH_VAR_NAME_4
+OBJC_SELECTOR_REFERENCES_5
+OBJC_METH_VAR_NAME_6
+OBJC_SELECTOR_REFERENCES_7
+OBJC_METH_VAR_NAME_8
+OBJC_SELECTOR_REFERENCES_9
+OBJC_METH_VAR_NAME_10
+OBJC_SELECTOR_REFERENCES_11
+.str
+_unnamed_cfstring_
+OBJC_METH_VAR_NAME_12
+OBJC_SELECTOR_REFERENCES_13
+.str14
+_unnamed_cfstring_15
+.str16
+_unnamed_cfstring_17
+.str18
+_unnamed_cfstring_19
+OBJC_METH_VAR_NAME_20
+OBJC_SELECTOR_REFERENCES_21
+.str22
+_unnamed_cfstring_23
+OBJC_CLASSLIST_REFERENCES_$_24
+OBJC_METH_VAR_NAME_25
+OBJC_SELECTOR_REFERENCES_26
+OBJC_METH_VAR_NAME_27
+OBJC_SELECTOR_REFERENCES_28
+OBJC_CLASSLIST_REFERENCES_$_29
+OBJC_METH_VAR_NAME_30
+OBJC_SELECTOR_REFERENCES_31
+OBJC_METH_VAR_NAME_32
+OBJC_SELECTOR_REFERENCES_33
+OBJC_METH_VAR_NAME_34
+OBJC_SELECTOR_REFERENCES_35
+OBJC_METH_VAR_NAME_36
+OBJC_SELECTOR_REFERENCES_37
+OBJC_METH_VAR_NAME_38
+OBJC_SELECTOR_REFERENCES_39
+OBJC_CLASS_$_YogaMenu
+OBJC_CLASSLIST_REFERENCES_$_40
+OBJC_METH_VAR_NAME_41
+OBJC_SELECTOR_REFERENCES_42
+OBJC_METH_VAR_NAME_43
+OBJC_SELECTOR_REFERENCES_44
+OBJC_IVAR_$_AppDelegate.ym
+.str45
+_unnamed_cfstring_46
+.str47
+_unnamed_cfstring_48
+OBJC_CLASSLIST_REFERENCES_$_49
+OBJC_METH_VAR_NAME_50
+OBJC_SELECTOR_REFERENCES_51
+OBJC_METH_VAR_NAME_52
+OBJC_SELECTOR_REFERENCES_53
+.str54
+_unnamed_cfstring_55
+OBJC_CLASSLIST_REFERENCES_$_56
+OBJC_CLASSLIST_REFERENCES_$_57
+OBJC_METH_VAR_NAME_58
+OBJC_SELECTOR_REFERENCES_59
+OBJC_METH_VAR_NAME_60
+OBJC_SELECTOR_REFERENCES_61
+OBJC_METH_VAR_NAME_62
+OBJC_SELECTOR_REFERENCES_63
+OBJC_METH_VAR_NAME_64
+OBJC_SELECTOR_REFERENCES_65
+OBJC_CLASS_$_MainViewController
+OBJC_CLASSLIST_REFERENCES_$_66
+.str67
+_unnamed_cfstring_68
+OBJC_METH_VAR_NAME_69
+OBJC_SELECTOR_REFERENCES_70
+OBJC_METH_VAR_NAME_71
+OBJC_SELECTOR_REFERENCES_72
+.str73
+_unnamed_cfstring_74
+.str75
+_unnamed_cfstring_76
+OBJC_CLASS_$_OrientationNavigationController
+OBJC_CLASSLIST_REFERENCES_$_77
+OBJC_METH_VAR_NAME_78
+OBJC_SELECTOR_REFERENCES_79
+OBJC_METH_VAR_NAME_80
+OBJC_SELECTOR_REFERENCES_81
+OBJC_IVAR_$_AppDelegate.navigationController
+OBJC_METH_VAR_NAME_82
+OBJC_SELECTOR_REFERENCES_83
+OBJC_METH_VAR_NAME_84
+OBJC_SELECTOR_REFERENCES_85
+OBJC_METH_VAR_NAME_86
+OBJC_SELECTOR_REFERENCES_87
+OBJC_METH_VAR_NAME_88
+OBJC_SELECTOR_REFERENCES_89
+OBJC_METH_VAR_NAME_90
+OBJC_SELECTOR_REFERENCES_91
+OBJC_METH_VAR_NAME_92
+OBJC_SELECTOR_REFERENCES_93
+OBJC_METH_VAR_NAME_94
+OBJC_SELECTOR_REFERENCES_95
+OBJC_CLASSLIST_REFERENCES_$_96
+OBJC_METH_VAR_NAME_97
+OBJC_SELECTOR_REFERENCES_98
+OBJC_METH_VAR_NAME_99
+OBJC_SELECTOR_REFERENCES_100
+OBJC_METH_VAR_NAME_101
+OBJC_SELECTOR_REFERENCES_102
+OBJC_METH_VAR_NAME_103
+OBJC_SELECTOR_REFERENCES_104
+OBJC_METH_VAR_NAME_105
+OBJC_SELECTOR_REFERENCES_106
+OBJC_CLASS_$_PracticeViewController
+OBJC_CLASSLIST_REFERENCES_$_107
+OBJC_METH_VAR_NAME_108
+OBJC_SELECTOR_REFERENCES_109
+OBJC_METH_VAR_NAME_110
+OBJC_SELECTOR_REFERENCES_111
+OBJC_CLASS_$_SetViewController
+OBJC_CLASSLIST_REFERENCES_$_112
+OBJC_METH_VAR_NAME_113
+OBJC_SELECTOR_REFERENCES_114
+OBJC_METH_VAR_NAME_115
+OBJC_SELECTOR_REFERENCES_116
+OBJC_METH_VAR_NAME_117
+OBJC_SELECTOR_REFERENCES_118
+OBJC_CLASS_$_MyMusicPlayerManager
+OBJC_CLASSLIST_REFERENCES_$_119
+OBJC_METH_VAR_NAME_120
+OBJC_SELECTOR_REFERENCES_121
+OBJC_METH_VAR_NAME_122
+OBJC_SELECTOR_REFERENCES_123
+OBJC_METH_VAR_NAME_124
+OBJC_SELECTOR_REFERENCES_125
+OBJC_METH_VAR_NAME_126
+OBJC_SELECTOR_REFERENCES_127
+OBJC_METH_VAR_NAME_128
+OBJC_SELECTOR_REFERENCES_129
+OBJC_METH_VAR_NAME_130
+OBJC_SELECTOR_REFERENCES_131
+OBJC_METH_VAR_NAME_132
+OBJC_SELECTOR_REFERENCES_133
+OBJC_CLASS_$_XMLElement
+OBJC_CLASSLIST_REFERENCES_$_134
+OBJC_METH_VAR_NAME_135
+OBJC_SELECTOR_REFERENCES_136
+OBJC_METH_VAR_NAME_137
+OBJC_SELECTOR_REFERENCES_138
+OBJC_METH_VAR_NAME_139
+OBJC_SELECTOR_REFERENCES_140
+OBJC_METH_VAR_NAME_141
+OBJC_SELECTOR_REFERENCES_142
+OBJC_METH_VAR_NAME_143
+OBJC_SELECTOR_REFERENCES_144
+OBJC_METH_VAR_NAME_145
+OBJC_SELECTOR_REFERENCES_146
+OBJC_METH_VAR_NAME_147
+OBJC_SELECTOR_REFERENCES_148
+OBJC_METH_VAR_NAME_149
+OBJC_SELECTOR_REFERENCES_150
+OBJC_METH_VAR_NAME_151
+OBJC_SELECTOR_REFERENCES_152
+OBJC_IVAR_$_AppDelegate._window
+OBJC_IVAR_$_AppDelegate._viewController
+OBJC_IVAR_$_AppDelegate.myYogaMenu
+OBJC_IVAR_$_AppDelegate.xmlParser
+OBJC_IVAR_$_AppDelegate.rootElement
+OBJC_IVAR_$_AppDelegate.currentElementPointer
+OBJC_CLASS_NAME_
+OBJC_METH_VAR_NAME_153
+OBJC_METH_VAR_TYPE_
+OBJC_METH_VAR_TYPE_154
+OBJC_METH_VAR_NAME_155
+OBJC_METH_VAR_TYPE_156
+OBJC_METH_VAR_TYPE_157
+OBJC_METH_VAR_NAME_158
+OBJC_METH_VAR_NAME_159
+OBJC_METH_VAR_NAME_160
+OBJC_METH_VAR_NAME_161
+OBJC_METH_VAR_TYPE_162
+OBJC_METH_VAR_NAME_163
+OBJC_METH_VAR_TYPE_164
+OBJC_METH_VAR_TYPE_165
+OBJC_METH_VAR_NAME_166
+OBJC_METH_VAR_TYPE_167
+OBJC_METH_VAR_TYPE_168
+OBJC_METH_VAR_NAME_169
+OBJC_METH_VAR_NAME_170
+OBJC_METH_VAR_NAME_171
+OBJC_METH_VAR_NAME_172
+OBJC_METH_VAR_TYPE_173
+OBJC_METH_VAR_TYPE_174
+OBJC_METH_VAR_NAME_175
+OBJC_METH_VAR_TYPE_176
+OBJC_METH_VAR_TYPE_177
+OBJC_METH_VAR_NAME_178
+OBJC_METH_VAR_TYPE_179
+OBJC_METH_VAR_TYPE_180
+OBJC_METH_VAR_NAME_181
+OBJC_METH_VAR_NAME_182
+OBJC_METH_VAR_TYPE_183
+OBJC_METH_VAR_TYPE_184
+OBJC_METH_VAR_NAME_185
+OBJC_METH_VAR_TYPE_186
+OBJC_METH_VAR_NAME_187
+OBJC_METH_VAR_TYPE_188
+OBJC_METH_VAR_NAME_189
+OBJC_METH_VAR_TYPE_190
+OBJC_METH_VAR_NAME_191
+OBJC_METH_VAR_TYPE_192
+OBJC_METH_VAR_NAME_193
+OBJC_METH_VAR_TYPE_194
+OBJC_METH_VAR_TYPE_195
+OBJC_METH_VAR_NAME_196
+OBJC_METH_VAR_TYPE_197
+OBJC_METH_VAR_TYPE_198
+OBJC_METH_VAR_NAME_199
+OBJC_METH_VAR_TYPE_200
+OBJC_METH_VAR_NAME_201
+OBJC_METH_VAR_TYPE_202
+OBJC_METH_VAR_NAME_203
+OBJC_METH_VAR_TYPE_204
+OBJC_METH_VAR_TYPE_205
+OBJC_METH_VAR_NAME_206
+OBJC_METH_VAR_TYPE_207
+OBJC_METH_VAR_TYPE_208
+OBJC_METH_VAR_NAME_209
+OBJC_METH_VAR_TYPE_210
+OBJC_METH_VAR_NAME_211
+OBJC_METH_VAR_TYPE_212
+OBJC_METH_VAR_NAME_213
+OBJC_METH_VAR_TYPE_214
+OBJC_METH_VAR_NAME_215
+OBJC_METH_VAR_NAME_216
+OBJC_METH_VAR_NAME_217
+OBJC_METH_VAR_NAME_218
+OBJC_METH_VAR_NAME_219
+OBJC_METH_VAR_NAME_220
+OBJC_METH_VAR_TYPE_221
+OBJC_METH_VAR_TYPE_222
+OBJC_METH_VAR_NAME_223
+OBJC_METH_VAR_TYPE_224
+OBJC_METH_VAR_NAME_225
+OBJC_METH_VAR_TYPE_226
+OBJC_METH_VAR_TYPE_227
+OBJC_METH_VAR_NAME_228
+OBJC_METH_VAR_TYPE_229
+OBJC_METH_VAR_NAME_230
+OBJC_METH_VAR_NAME_231
+OBJC_METH_VAR_TYPE_232
+OBJC_METH_VAR_NAME_233
+OBJC_METH_VAR_NAME_234
+OBJC_METH_VAR_NAME_235
+OBJC_METH_VAR_TYPE_236
+OBJC_METH_VAR_TYPE_237
+OBJC_METH_VAR_NAME_238
+OBJC_METH_VAR_TYPE_239
+OBJC_METH_VAR_TYPE_240
+OBJC_METH_VAR_NAME_241
+OBJC_METH_VAR_TYPE_242
+OBJC_METH_VAR_TYPE_243
+OBJC_METH_VAR_TYPE_244
+OBJC_METH_VAR_TYPE_245
+OBJC_CLASS_NAME_246
+OBJC_METH_VAR_NAME_247
+OBJC_METH_VAR_TYPE_248
+OBJC_METH_VAR_NAME_249
+OBJC_METH_VAR_TYPE_250
+OBJC_METH_VAR_NAME_251
+OBJC_METH_VAR_NAME_252
+OBJC_METH_VAR_TYPE_253
+OBJC_METH_VAR_NAME_254
+OBJC_METH_VAR_TYPE_255
+OBJC_METH_VAR_NAME_256
+OBJC_METH_VAR_TYPE_257
+OBJC_METH_VAR_NAME_258
+OBJC_METH_VAR_TYPE_259
+OBJC_METH_VAR_NAME_260
+OBJC_METH_VAR_TYPE_261
+OBJC_METH_VAR_NAME_262
+OBJC_METH_VAR_NAME_263
+OBJC_METH_VAR_TYPE_264
+OBJC_METH_VAR_NAME_265
+OBJC_METH_VAR_TYPE_266
+OBJC_METH_VAR_NAME_267
+OBJC_METH_VAR_NAME_268
+OBJC_METH_VAR_TYPE_269
+OBJC_METH_VAR_NAME_270
+OBJC_METH_VAR_NAME_271
+OBJC_METH_VAR_TYPE_272
+OBJC_METH_VAR_NAME_273
+OBJC_METH_VAR_TYPE_274
+OBJC_METH_VAR_NAME_275
+OBJC_METH_VAR_NAME_276
+OBJC_METH_VAR_NAME_277
+OBJC_METH_VAR_TYPE_278
+OBJC_METH_VAR_NAME_279
+OBJC_CLASS_NAME_280
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+OBJC_PROP_NAME_ATTR_
+OBJC_PROP_NAME_ATTR_281
+OBJC_PROP_NAME_ATTR_282
+OBJC_PROP_NAME_ATTR_283
+OBJC_PROP_NAME_ATTR_284
+OBJC_PROP_NAME_ATTR_285
+OBJC_PROP_NAME_ATTR_286
+l_OBJC_$_PROP_LIST_NSObject
+l_OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_$_PROTOCOL_REFS_UIApplicationDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIApplicationDelegate
+OBJC_PROP_NAME_ATTR_287
+OBJC_PROP_NAME_ATTR_288
+l_OBJC_$_PROP_LIST_UIApplicationDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_UIApplicationDelegate
+l_OBJC_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+OBJC_METH_VAR_NAME_289
+OBJC_METH_VAR_TYPE_290
+OBJC_METH_VAR_NAME_291
+OBJC_METH_VAR_NAME_292
+OBJC_METH_VAR_TYPE_293
+OBJC_METH_VAR_TYPE_294
+OBJC_METH_VAR_NAME_295
+OBJC_METH_VAR_TYPE_296
+OBJC_METH_VAR_TYPE_297
+OBJC_METH_VAR_NAME_298
+OBJC_METH_VAR_NAME_299
+OBJC_METH_VAR_TYPE_300
+OBJC_METH_VAR_NAME_301
+OBJC_METH_VAR_NAME_302
+OBJC_METH_VAR_NAME_303
+OBJC_METH_VAR_TYPE_304
+OBJC_METH_VAR_NAME_305
+OBJC_METH_VAR_NAME_306
+OBJC_METH_VAR_NAME_307
+OBJC_METH_VAR_TYPE_308
+OBJC_METH_VAR_NAME_309
+OBJC_METH_VAR_NAME_310
+OBJC_METH_VAR_NAME_311
+OBJC_METH_VAR_NAME_312
+OBJC_METH_VAR_NAME_313
+OBJC_METH_VAR_TYPE_314
+OBJC_METH_VAR_NAME_315
+OBJC_METH_VAR_TYPE_316
+OBJC_METH_VAR_NAME_317
+OBJC_METH_VAR_TYPE_318
+OBJC_METH_VAR_NAME_319
+OBJC_CLASS_NAME_320
+l_OBJC_$_PROTOCOL_REFS_NSXMLParserDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSXMLParserDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_NSXMLParserDelegate
+l_OBJC_PROTOCOL_$_NSXMLParserDelegate
+l_OBJC_LABEL_PROTOCOL_$_NSXMLParserDelegate
+l_OBJC_CLASS_PROTOCOLS_$_AppDelegate
+l_OBJC_METACLASS_RO_$_AppDelegate
+OBJC_METACLASS_$_AppDelegate
+OBJC_CLASS_NAME_321
+OBJC_METH_VAR_NAME_322
+OBJC_METH_VAR_NAME_323
+OBJC_METH_VAR_NAME_324
+OBJC_METH_VAR_TYPE_325
+OBJC_METH_VAR_NAME_326
+OBJC_METH_VAR_TYPE_327
+OBJC_METH_VAR_NAME_328
+OBJC_METH_VAR_NAME_329
+OBJC_METH_VAR_NAME_330
+OBJC_METH_VAR_NAME_331
+l_OBJC_$_INSTANCE_METHODS_AppDelegate
+OBJC_METH_VAR_NAME_332
+OBJC_METH_VAR_TYPE_333
+OBJC_METH_VAR_NAME_334
+OBJC_METH_VAR_TYPE_335
+OBJC_METH_VAR_TYPE_336
+OBJC_METH_VAR_TYPE_337
+OBJC_METH_VAR_TYPE_338
+OBJC_METH_VAR_TYPE_339
+l_OBJC_$_INSTANCE_VARIABLES_AppDelegate
+OBJC_PROP_NAME_ATTR_340
+OBJC_PROP_NAME_ATTR_341
+OBJC_PROP_NAME_ATTR_342
+OBJC_PROP_NAME_ATTR_343
+OBJC_PROP_NAME_ATTR_344
+OBJC_PROP_NAME_ATTR_345
+OBJC_PROP_NAME_ATTR_346
+OBJC_PROP_NAME_ATTR_347
+OBJC_PROP_NAME_ATTR_348
+OBJC_PROP_NAME_ATTR_349
+OBJC_PROP_NAME_ATTR_350
+OBJC_PROP_NAME_ATTR_351
+OBJC_PROP_NAME_ATTR_352
+OBJC_PROP_NAME_ATTR_353
+OBJC_PROP_NAME_ATTR_354
+l_OBJC_$_PROP_LIST_AppDelegate
+l_OBJC_CLASS_RO_$_AppDelegate
+OBJC_CLASSLIST_REFERENCES_$_355
+OBJC_METH_VAR_NAME_356
+OBJC_SELECTOR_REFERENCES_357
+OBJC_METH_VAR_NAME_358
+OBJC_SELECTOR_REFERENCES_359
+OBJC_SELECTOR_REFERENCES_360
+OBJC_LABEL_CLASS_$
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/DerivedData/Dybro Yoga/Build/Intermediates/ArchiveIntermediates/kundalini/PrecompiledHeaders/kundalini-Prefix-ehlqlymkzsjlcagwnprvbgihaagp/kundalini-Prefix.pch.pch
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/kundalini-Prefix.pch
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/DerivedData/Dybro Yoga/Build/Intermediates/ArchiveIntermediates/kundalini/PrecompiledHeaders/kundalini-Prefix-ehlqlymkzsjlcagwnprvbgihaagp
+UI_USER_INTERFACE_IDIOM
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIDevice.h
+-[AppDelegate .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/AppDelegate.m
+-[AppDelegate setNavigationController:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/AppDelegate.h
+-[AppDelegate navigationController]
+-[AppDelegate setYm:]
+-[AppDelegate ym]
+-[AppDelegate setCurrentElementPointer:]
+-[AppDelegate currentElementPointer]
+-[AppDelegate setRootElement:]
+-[AppDelegate rootElement]
+-[AppDelegate setXmlParser:]
+-[AppDelegate xmlParser]
+-[AppDelegate setMyYogaMenu:]
+-[AppDelegate myYogaMenu]
+-[AppDelegate setViewController:]
+-[AppDelegate viewController]
+-[AppDelegate setWindow:]
+-[AppDelegate window]
+-[AppDelegate parserDidStartDocument:]
+-[AppDelegate parserDidEndDocument:]
+-[AppDelegate parser:didEndElement:namespaceURI:qualifiedName:]
+-[AppDelegate parser:didStartElement:namespaceURI:qualifiedName:attributes:]
+-[AppDelegate parser:foundCharacters:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate LaunchNewWindow:]
+-[AppDelegate Yogapas:]
+-[AppDelegate Showwarmup:]
+-[AppDelegate Showmeditation:]
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[MainViewController initWithNibName:bundle:menu:]
+-[MainViewController settingDefaultOrientation]
+-[MainViewController Showmeditation:]
+-[MainViewController willRotateToInterfaceOrientation:duration:]
+-[MainViewController Showwarmup:]
+-[MainViewController ShowYogapas:]
+-[MainViewController LaunchNewWindow:]
+-[MainViewController didReceiveMemoryWarning]
+-[MainViewController viewDidLoad]
+-[MainViewController buttonPressed:]
+-[MainViewController viewDidUnload]
+-[MainViewController viewWillAppear:]
+-[MainViewController viewDidAppear:]
+-[MainViewController viewWillDisappear:]
+-[MainViewController viewDidDisappear:]
+-[MainViewController test:]
+-[MainViewController BuyFull:]
+-[MainViewController Showabout:]
+-[MainViewController ChangeSpeakImage]
+-[MainViewController shouldAutorotateToInterfaceOrientation:]
+-[MainViewController supportedInterfaceOrientations]
+-[MainViewController shouldAutorotate]
+-[MainViewController musicstate:]
+-[MainViewController ImageViewYogaPas]
+-[MainViewController setImageViewYogaPas:]
+-[MainViewController ym]
+-[MainViewController setYm:]
+-[MainViewController portrait]
+-[MainViewController setPortrait:]
+-[MainViewController landscape]
+-[MainViewController setLandscape:]
+-[MainViewController ButSpeak]
+-[MainViewController setButSpeak:]
+-[MainViewController WarmUpBut]
+-[MainViewController setWarmUpBut:]
+-[MainViewController AboutBut]
+-[MainViewController setAboutBut:]
+-[MainViewController BuyFullBut]
+-[MainViewController setBuyFullBut:]
+-[MainViewController audioPlayer]
+-[MainViewController setAudioPlayer:]
+-[MainViewController .cxx_destruct]
+OBJC_CLASSLIST_SUP_REFS_$_
+OBJC_METH_VAR_NAME_1
+OBJC_SELECTOR_REFERENCES_2
+OBJC_IVAR_$_MainViewController.dispatchrunning
+OBJC_METH_VAR_NAME_3
+OBJC_SELECTOR_REFERENCES_4
+OBJC_IVAR_$_MainViewController.sharedManager
+OBJC_METH_VAR_NAME_5
+OBJC_SELECTOR_REFERENCES_6
+OBJC_METH_VAR_NAME_7
+OBJC_SELECTOR_REFERENCES_8
+OBJC_IVAR_$_MainViewController.portrait
+OBJC_METH_VAR_NAME_9
+OBJC_SELECTOR_REFERENCES_10
+OBJC_IVAR_$_MainViewController.landscape
+OBJC_METH_VAR_NAME_11
+OBJC_SELECTOR_REFERENCES_12
+OBJC_METH_VAR_NAME_13
+OBJC_SELECTOR_REFERENCES_14
+OBJC_METH_VAR_NAME_15
+OBJC_SELECTOR_REFERENCES_16
+OBJC_METH_VAR_NAME_17
+OBJC_SELECTOR_REFERENCES_18
+OBJC_CLASSLIST_REFERENCES_$_19
+OBJC_IVAR_$_MainViewController.ym
+OBJC_METH_VAR_NAME_22
+OBJC_SELECTOR_REFERENCES_23
+OBJC_METH_VAR_NAME_24
+OBJC_SELECTOR_REFERENCES_25
+OBJC_METH_VAR_NAME_26
+OBJC_SELECTOR_REFERENCES_27
+OBJC_CLASSLIST_REFERENCES_$_28
+OBJC_METH_VAR_NAME_29
+OBJC_SELECTOR_REFERENCES_30
+OBJC_METH_VAR_NAME_31
+OBJC_SELECTOR_REFERENCES_32
+OBJC_METH_VAR_NAME_33
+OBJC_SELECTOR_REFERENCES_34
+OBJC_METH_VAR_NAME_35
+OBJC_SELECTOR_REFERENCES_36
+OBJC_METH_VAR_NAME_37
+OBJC_SELECTOR_REFERENCES_38
+OBJC_CLASSLIST_REFERENCES_$_39
+OBJC_METH_VAR_NAME_40
+OBJC_SELECTOR_REFERENCES_41
+.str42
+_unnamed_cfstring_43
+OBJC_METH_VAR_NAME_44
+OBJC_SELECTOR_REFERENCES_45
+OBJC_METH_VAR_NAME_46
+OBJC_SELECTOR_REFERENCES_47
+OBJC_METH_VAR_NAME_48
+OBJC_SELECTOR_REFERENCES_49
+.str50
+_unnamed_cfstring_51
+OBJC_METH_VAR_NAME_57
+OBJC_SELECTOR_REFERENCES_58
+OBJC_METH_VAR_NAME_59
+OBJC_SELECTOR_REFERENCES_60
+OBJC_METH_VAR_NAME_61
+OBJC_SELECTOR_REFERENCES_62
+OBJC_CLASSLIST_REFERENCES_$_63
+.str64
+_unnamed_cfstring_65
+OBJC_METH_VAR_NAME_66
+OBJC_SELECTOR_REFERENCES_67
+OBJC_METH_VAR_NAME_68
+OBJC_SELECTOR_REFERENCES_69
+OBJC_METH_VAR_NAME_70
+OBJC_SELECTOR_REFERENCES_71
+OBJC_IVAR_$_MainViewController.ImageViewYogaPas
+OBJC_METH_VAR_NAME_72
+OBJC_SELECTOR_REFERENCES_73
+OBJC_METH_VAR_NAME_74
+OBJC_SELECTOR_REFERENCES_75
+OBJC_METH_VAR_NAME_76
+OBJC_SELECTOR_REFERENCES_77
+OBJC_CLASSLIST_REFERENCES_$_99
+.str100
+_unnamed_cfstring_101
+OBJC_METH_VAR_NAME_102
+OBJC_SELECTOR_REFERENCES_103
+OBJC_METH_VAR_NAME_104
+OBJC_SELECTOR_REFERENCES_105
+OBJC_CLASSLIST_REFERENCES_$_106
+OBJC_METH_VAR_NAME_107
+OBJC_SELECTOR_REFERENCES_108
+OBJC_METH_VAR_NAME_109
+OBJC_SELECTOR_REFERENCES_110
+OBJC_CLASS_$_AboutViewController
+OBJC_CLASSLIST_REFERENCES_$_111
+OBJC_METH_VAR_NAME_112
+OBJC_SELECTOR_REFERENCES_113
+.str114
+_unnamed_cfstring_115
+OBJC_METH_VAR_NAME_116
+OBJC_SELECTOR_REFERENCES_117
+OBJC_METH_VAR_NAME_118
+OBJC_SELECTOR_REFERENCES_119
+.str120
+_unnamed_cfstring_121
+.str122
+_unnamed_cfstring_123
+OBJC_IVAR_$_MainViewController._ButSpeak
+OBJC_IVAR_$_MainViewController._WarmUpBut
+OBJC_IVAR_$_MainViewController._AboutBut
+OBJC_IVAR_$_MainViewController._BuyFullBut
+OBJC_IVAR_$_MainViewController._audioPlayer
+OBJC_IVAR_$_MainViewController.serielqueue
+OBJC_IVAR_$_MainViewController.YogaPasImageView
+l_OBJC_METACLASS_RO_$_MainViewController
+OBJC_METACLASS_$_MainViewController
+OBJC_CLASS_NAME_132
+OBJC_METH_VAR_NAME_133
+OBJC_METH_VAR_TYPE_134
+OBJC_METH_VAR_TYPE_136
+OBJC_METH_VAR_TYPE_138
+OBJC_METH_VAR_NAME_140
+OBJC_METH_VAR_TYPE_141
+OBJC_METH_VAR_NAME_142
+OBJC_METH_VAR_TYPE_143
+OBJC_METH_VAR_NAME_144
+OBJC_METH_VAR_NAME_146
+OBJC_METH_VAR_TYPE_148
+OBJC_METH_VAR_TYPE_150
+OBJC_METH_VAR_TYPE_152
+OBJC_METH_VAR_NAME_154
+OBJC_METH_VAR_NAME_157
+OBJC_METH_VAR_NAME_162
+l_OBJC_$_INSTANCE_METHODS_MainViewController
+OBJC_METH_VAR_NAME_164
+OBJC_METH_VAR_TYPE_166
+OBJC_METH_VAR_NAME_168
+OBJC_METH_VAR_TYPE_169
+OBJC_METH_VAR_TYPE_171
+OBJC_METH_VAR_TYPE_172
+OBJC_METH_VAR_NAME_174
+OBJC_METH_VAR_TYPE_175
+OBJC_METH_VAR_NAME_176
+OBJC_METH_VAR_NAME_177
+OBJC_METH_VAR_NAME_179
+l_OBJC_$_INSTANCE_VARIABLES_MainViewController
+OBJC_PROP_NAME_ATTR_181
+OBJC_PROP_NAME_ATTR_182
+OBJC_PROP_NAME_ATTR_183
+OBJC_PROP_NAME_ATTR_184
+OBJC_PROP_NAME_ATTR_185
+OBJC_PROP_NAME_ATTR_186
+OBJC_PROP_NAME_ATTR_187
+OBJC_PROP_NAME_ATTR_188
+OBJC_PROP_NAME_ATTR_189
+OBJC_PROP_NAME_ATTR_190
+OBJC_PROP_NAME_ATTR_191
+OBJC_PROP_NAME_ATTR_192
+OBJC_PROP_NAME_ATTR_193
+OBJC_PROP_NAME_ATTR_194
+OBJC_PROP_NAME_ATTR_195
+OBJC_PROP_NAME_ATTR_196
+OBJC_PROP_NAME_ATTR_197
+l_OBJC_$_PROP_LIST_MainViewController
+l_OBJC_CLASS_RO_$_MainViewController
+OBJC_CLASSLIST_REFERENCES_$_198
+OBJC_SELECTOR_REFERENCES_200
+OBJC_SELECTOR_REFERENCES_202
+OBJC_SELECTOR_REFERENCES_204
+UIInterfaceOrientationIsLandscape
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h
+-[MainViewController .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/MainViewController.m
+-[MainViewController setAudioPlayer:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/MainViewController.h
+-[MainViewController audioPlayer]
+-[MainViewController setBuyFullBut:]
+-[MainViewController BuyFullBut]
+-[MainViewController setAboutBut:]
+-[MainViewController AboutBut]
+-[MainViewController setWarmUpBut:]
+-[MainViewController WarmUpBut]
+-[MainViewController setButSpeak:]
+-[MainViewController ButSpeak]
+-[MainViewController setLandscape:]
+-[MainViewController landscape]
+-[MainViewController setPortrait:]
+-[MainViewController portrait]
+-[MainViewController setYm:]
+-[MainViewController ym]
+-[MainViewController setImageViewYogaPas:]
+-[MainViewController ImageViewYogaPas]
+-[MainViewController musicstate:]
+-[MainViewController shouldAutorotate]
+-[MainViewController supportedInterfaceOrientations]
+-[MainViewController shouldAutorotateToInterfaceOrientation:]
+-[MainViewController ChangeSpeakImage]
+-[MainViewController Showabout:]
+-[MainViewController BuyFull:]
+-[MainViewController test:]
+-[MainViewController viewDidDisappear:]
+-[MainViewController viewWillDisappear:]
+-[MainViewController viewDidAppear:]
+-[MainViewController viewWillAppear:]
+-[MainViewController viewDidUnload]
+-[MainViewController buttonPressed:]
+-[MainViewController viewDidLoad]
+-[MainViewController didReceiveMemoryWarning]
+-[MainViewController LaunchNewWindow:]
+-[MainViewController ShowYogapas:]
+-[MainViewController Showwarmup:]
+-[MainViewController willRotateToInterfaceOrientation:duration:]
+-[MainViewController Showmeditation:]
+-[MainViewController settingDefaultOrientation]
+-[MainViewController initWithNibName:bundle:menu:]
+-[YogaSet init]
+-[YogaSet Id]
+-[YogaSet setId:]
+-[YogaSet Title]
+-[YogaSet setTitle:]
+-[YogaSet Thumbnail]
+-[YogaSet setThumbnail:]
+-[YogaSet Info]
+-[YogaSet setInfo:]
+-[YogaSet Submenu_PracticeArr]
+-[YogaSet setSubmenu_PracticeArr:]
+-[YogaSet KeywordArr]
+-[YogaSet setKeywordArr:]
+-[YogaSet .cxx_destruct]
+OBJC_CLASS_$_YogaSet
+OBJC_IVAR_$_YogaSet.Id
+OBJC_IVAR_$_YogaSet.Title
+OBJC_IVAR_$_YogaSet.Thumbnail
+OBJC_IVAR_$_YogaSet.Info
+OBJC_IVAR_$_YogaSet.Submenu_PracticeArr
+OBJC_IVAR_$_YogaSet.KeywordArr
+l_OBJC_METACLASS_RO_$_YogaSet
+OBJC_METACLASS_$_YogaSet
+OBJC_CLASS_NAME_15
+OBJC_METH_VAR_NAME_16
+OBJC_METH_VAR_TYPE_17
+OBJC_METH_VAR_NAME_18
+OBJC_METH_VAR_TYPE_19
+OBJC_METH_VAR_NAME_21
+OBJC_METH_VAR_NAME_23
+l_OBJC_$_INSTANCE_METHODS_YogaSet
+OBJC_METH_VAR_TYPE_25
+OBJC_METH_VAR_TYPE_26
+l_OBJC_$_INSTANCE_VARIABLES_YogaSet
+OBJC_PROP_NAME_ATTR_27
+OBJC_PROP_NAME_ATTR_28
+OBJC_PROP_NAME_ATTR_29
+OBJC_PROP_NAME_ATTR_30
+OBJC_PROP_NAME_ATTR_31
+OBJC_PROP_NAME_ATTR_32
+OBJC_PROP_NAME_ATTR_33
+OBJC_PROP_NAME_ATTR_34
+OBJC_PROP_NAME_ATTR_35
+OBJC_PROP_NAME_ATTR_36
+OBJC_PROP_NAME_ATTR_37
+l_OBJC_$_PROP_LIST_YogaSet
+l_OBJC_CLASS_RO_$_YogaSet
+-[YogaSet .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/YogaSet.m
+-[YogaSet setKeywordArr:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/YogaSet.h
+-[YogaSet KeywordArr]
+-[YogaSet setSubmenu_PracticeArr:]
+-[YogaSet Submenu_PracticeArr]
+-[YogaSet setInfo:]
+-[YogaSet Info]
+-[YogaSet setThumbnail:]
+-[YogaSet Thumbnail]
+-[YogaSet setTitle:]
+-[YogaSet Title]
+-[YogaSet setId:]
+-[YogaSet Id]
+-[YogaSet init]
+-[YogaPractice init]
+-[YogaPractice GetMovieLength]
+-[YogaPractice Id]
+-[YogaPractice setId:]
+-[YogaPractice Title]
+-[YogaPractice setTitle:]
+-[YogaPractice Info]
+-[YogaPractice setInfo:]
+-[YogaPractice Thumbnail]
+-[YogaPractice setThumbnail:]
+-[YogaPractice Movieurl]
+-[YogaPractice setMovieurl:]
+-[YogaPractice Moviestart]
+-[YogaPractice setMoviestart:]
+-[YogaPractice Moviestop]
+-[YogaPractice setMoviestop:]
+-[YogaPractice Sound]
+-[YogaPractice setSound:]
+-[YogaPractice Snapshot]
+-[YogaPractice setSnapshot:]
+-[YogaPractice Recommendtime]
+-[YogaPractice setRecommendtime:]
+-[YogaPractice KeywordArr]
+-[YogaPractice setKeywordArr:]
+-[YogaPractice .cxx_destruct]
+OBJC_CLASS_$_YogaPractice
+OBJC_METH_VAR_NAME_19
+OBJC_SELECTOR_REFERENCES_20
+OBJC_SELECTOR_REFERENCES_22
+OBJC_SELECTOR_REFERENCES_24
+.str25
+_unnamed_cfstring_26
+OBJC_CLASSLIST_REFERENCES_$_27
+.str28
+_unnamed_cfstring_29
+.str32
+_unnamed_cfstring_33
+.str34
+_unnamed_cfstring_35
+OBJC_IVAR_$_YogaPractice.Id
+OBJC_IVAR_$_YogaPractice.Title
+OBJC_IVAR_$_YogaPractice.Info
+OBJC_IVAR_$_YogaPractice.Thumbnail
+OBJC_IVAR_$_YogaPractice.Movieurl
+OBJC_IVAR_$_YogaPractice.Moviestart
+OBJC_IVAR_$_YogaPractice.Moviestop
+OBJC_IVAR_$_YogaPractice.Sound
+OBJC_IVAR_$_YogaPractice.Snapshot
+OBJC_IVAR_$_YogaPractice.Recommendtime
+OBJC_IVAR_$_YogaPractice.KeywordArr
+OBJC_IVAR_$_YogaPractice.Recommmendtime
+l_OBJC_METACLASS_RO_$_YogaPractice
+OBJC_METACLASS_$_YogaPractice
+OBJC_CLASS_NAME_36
+OBJC_METH_VAR_TYPE_39
+OBJC_METH_VAR_TYPE_41
+OBJC_METH_VAR_NAME_42
+OBJC_METH_VAR_NAME_45
+OBJC_METH_VAR_TYPE_47
+OBJC_METH_VAR_TYPE_48
+OBJC_METH_VAR_NAME_49
+OBJC_METH_VAR_TYPE_50
+OBJC_METH_VAR_TYPE_51
+OBJC_METH_VAR_NAME_53
+OBJC_METH_VAR_NAME_54
+OBJC_METH_VAR_NAME_55
+l_OBJC_$_INSTANCE_METHODS_YogaPractice
+OBJC_METH_VAR_TYPE_56
+OBJC_METH_VAR_TYPE_57
+OBJC_METH_VAR_TYPE_58
+OBJC_METH_VAR_TYPE_60
+l_OBJC_$_INSTANCE_VARIABLES_YogaPractice
+OBJC_PROP_NAME_ATTR_61
+OBJC_PROP_NAME_ATTR_62
+OBJC_PROP_NAME_ATTR_63
+OBJC_PROP_NAME_ATTR_64
+OBJC_PROP_NAME_ATTR_65
+OBJC_PROP_NAME_ATTR_66
+OBJC_PROP_NAME_ATTR_67
+OBJC_PROP_NAME_ATTR_68
+OBJC_PROP_NAME_ATTR_69
+OBJC_PROP_NAME_ATTR_70
+OBJC_PROP_NAME_ATTR_71
+OBJC_PROP_NAME_ATTR_72
+OBJC_PROP_NAME_ATTR_73
+OBJC_PROP_NAME_ATTR_74
+OBJC_PROP_NAME_ATTR_75
+OBJC_PROP_NAME_ATTR_76
+OBJC_PROP_NAME_ATTR_77
+OBJC_PROP_NAME_ATTR_78
+OBJC_PROP_NAME_ATTR_79
+OBJC_PROP_NAME_ATTR_80
+OBJC_PROP_NAME_ATTR_81
+l_OBJC_$_PROP_LIST_YogaPractice
+l_OBJC_CLASS_RO_$_YogaPractice
+-[YogaPractice .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/YogaPractice.m
+-[YogaPractice setKeywordArr:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/YogaPractice.h
+-[YogaPractice KeywordArr]
+-[YogaPractice setRecommendtime:]
+-[YogaPractice Recommendtime]
+-[YogaPractice setSnapshot:]
+-[YogaPractice Snapshot]
+-[YogaPractice setSound:]
+-[YogaPractice Sound]
+-[YogaPractice setMoviestop:]
+-[YogaPractice Moviestop]
+-[YogaPractice setMoviestart:]
+-[YogaPractice Moviestart]
+-[YogaPractice setMovieurl:]
+-[YogaPractice Movieurl]
+-[YogaPractice setThumbnail:]
+-[YogaPractice Thumbnail]
+-[YogaPractice setInfo:]
+-[YogaPractice Info]
+-[YogaPractice setTitle:]
+-[YogaPractice Title]
+-[YogaPractice setId:]
+-[YogaPractice Id]
+-[YogaPractice GetMovieLength]
+-[YogaPractice init]
+-[MovieViewController initWithNibName:bundle:]
+-[MovieViewController viewDidLoad]
+-[MovieViewController didReceiveMemoryWarning]
+OBJC_CLASS_$_MovieViewController
+l_OBJC_METACLASS_RO_$_MovieViewController
+OBJC_METACLASS_$_MovieViewController
+OBJC_METH_VAR_TYPE_5
+l_OBJC_$_INSTANCE_METHODS_MovieViewController
+l_OBJC_CLASS_RO_$_MovieViewController
+-[MovieViewController didReceiveMemoryWarning]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/MovieViewController.m
+-[MovieViewController viewDidLoad]
+-[MovieViewController initWithNibName:bundle:]
+-[MenuItem init]
+-[MenuItem Id]
+-[MenuItem setId:]
+-[MenuItem Title]
+-[MenuItem setTitle:]
+-[MenuItem Submenu_Set_PractizeArr]
+-[MenuItem setSubmenu_Set_PractizeArr:]
+-[MenuItem .cxx_destruct]
+OBJC_CLASS_$_MenuItem
+OBJC_IVAR_$_MenuItem.Id
+OBJC_IVAR_$_MenuItem.Title
+OBJC_IVAR_$_MenuItem.Submenu_Set_PractizeArr
+l_OBJC_METACLASS_RO_$_MenuItem
+OBJC_METACLASS_$_MenuItem
+OBJC_CLASS_NAME_5
+OBJC_METH_VAR_TYPE_7
+OBJC_METH_VAR_TYPE_10
+l_OBJC_$_INSTANCE_METHODS_MenuItem
+OBJC_METH_VAR_TYPE_14
+OBJC_METH_VAR_TYPE_15
+l_OBJC_$_INSTANCE_VARIABLES_MenuItem
+OBJC_PROP_NAME_ATTR_16
+OBJC_PROP_NAME_ATTR_17
+OBJC_PROP_NAME_ATTR_18
+OBJC_PROP_NAME_ATTR_19
+OBJC_PROP_NAME_ATTR_20
+l_OBJC_$_PROP_LIST_MenuItem
+l_OBJC_CLASS_RO_$_MenuItem
+-[MenuItem .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/MenuItem.m
+-[MenuItem setSubmenu_Set_PractizeArr:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/MenuItem.h
+-[MenuItem Submenu_Set_PractizeArr]
+-[MenuItem setTitle:]
+-[MenuItem Title]
+-[MenuItem setId:]
+-[MenuItem Id]
+-[MenuItem init]
+-[YogaMenu initWithXML:]
+-[YogaMenu GetMenuType:]
+-[YogaMenu BuildYogaMenu:MenuObj:]
+-[YogaMenu MenulinesArr]
+-[YogaMenu setMenulinesArr:]
+-[YogaMenu FileName]
+-[YogaMenu setFileName:]
+-[YogaMenu MenuXml]
+-[YogaMenu setMenuXml:]
+-[YogaMenu .cxx_destruct]
+OBJC_IVAR_$_YogaMenu._startMenu
+OBJC_IVAR_$_YogaMenu._startYogaSet
+OBJC_IVAR_$_YogaMenu._startPractice
+OBJC_CLASS_$_SubMenu
+OBJC_CLASSLIST_REFERENCES_$_13
+OBJC_CLASSLIST_REFERENCES_$_14
+OBJC_CLASSLIST_REFERENCES_$_21
+OBJC_METH_VAR_NAME_28
+OBJC_SELECTOR_REFERENCES_29
+.str30
+_unnamed_cfstring_31
+OBJC_CLASSLIST_REFERENCES_$_32
+.str39
+_unnamed_cfstring_40
+OBJC_METH_VAR_NAME_47
+OBJC_SELECTOR_REFERENCES_48
+.str49
+_unnamed_cfstring_50
+.str51
+_unnamed_cfstring_52
+.str53
+_unnamed_cfstring_54
+OBJC_SELECTOR_REFERENCES_56
+.str57
+_unnamed_cfstring_58
+.str61
+_unnamed_cfstring_62
+OBJC_METH_VAR_NAME_63
+OBJC_SELECTOR_REFERENCES_64
+.str65
+_unnamed_cfstring_66
+.str71
+_unnamed_cfstring_72
+OBJC_METH_VAR_NAME_73
+OBJC_SELECTOR_REFERENCES_74
+OBJC_METH_VAR_NAME_75
+OBJC_SELECTOR_REFERENCES_76
+.str77
+_unnamed_cfstring_78
+OBJC_METH_VAR_NAME_79
+OBJC_SELECTOR_REFERENCES_80
+.str81
+_unnamed_cfstring_82
+OBJC_METH_VAR_NAME_83
+OBJC_SELECTOR_REFERENCES_84
+OBJC_METH_VAR_NAME_85
+OBJC_SELECTOR_REFERENCES_86
+.str87
+_unnamed_cfstring_88
+OBJC_METH_VAR_NAME_89
+OBJC_SELECTOR_REFERENCES_90
+.str91
+_unnamed_cfstring_92
+OBJC_METH_VAR_NAME_93
+OBJC_SELECTOR_REFERENCES_94
+.str95
+_unnamed_cfstring_96
+OBJC_CLASS_$_Keyword
+OBJC_CLASSLIST_REFERENCES_$_97
+OBJC_METH_VAR_NAME_98
+OBJC_SELECTOR_REFERENCES_99
+OBJC_IVAR_$_YogaMenu.MenulinesArr
+OBJC_IVAR_$_YogaMenu.FileName
+OBJC_IVAR_$_YogaMenu.MenuXml
+OBJC_METH_VAR_NAME_106
+OBJC_METH_VAR_TYPE_107
+OBJC_METH_VAR_TYPE_110
+OBJC_METH_VAR_TYPE_111
+OBJC_METH_VAR_TYPE_113
+OBJC_METH_VAR_TYPE_114
+OBJC_METH_VAR_TYPE_117
+OBJC_METH_VAR_TYPE_118
+OBJC_METH_VAR_NAME_119
+OBJC_METH_VAR_NAME_121
+OBJC_METH_VAR_TYPE_122
+OBJC_METH_VAR_NAME_123
+OBJC_METH_VAR_NAME_125
+OBJC_METH_VAR_TYPE_126
+OBJC_METH_VAR_TYPE_127
+OBJC_METH_VAR_NAME_129
+OBJC_METH_VAR_NAME_131
+OBJC_METH_VAR_TYPE_133
+OBJC_METH_VAR_NAME_134
+OBJC_METH_VAR_TYPE_135
+OBJC_CLASS_NAME_140
+OBJC_METH_VAR_TYPE_142
+OBJC_METH_VAR_TYPE_145
+OBJC_METH_VAR_TYPE_147
+OBJC_METH_VAR_NAME_148
+OBJC_METH_VAR_TYPE_149
+OBJC_METH_VAR_NAME_150
+OBJC_METH_VAR_TYPE_151
+OBJC_METH_VAR_NAME_152
+OBJC_METH_VAR_TYPE_153
+OBJC_METH_VAR_NAME_156
+OBJC_METH_VAR_TYPE_159
+OBJC_CLASS_NAME_173
+OBJC_PROP_NAME_ATTR_174
+OBJC_PROP_NAME_ATTR_175
+OBJC_PROP_NAME_ATTR_176
+OBJC_PROP_NAME_ATTR_177
+OBJC_PROP_NAME_ATTR_178
+OBJC_PROP_NAME_ATTR_179
+l_OBJC_CLASS_PROTOCOLS_$_YogaMenu
+l_OBJC_METACLASS_RO_$_YogaMenu
+OBJC_METACLASS_$_YogaMenu
+OBJC_CLASS_NAME_180
+OBJC_METH_VAR_TYPE_182
+OBJC_METH_VAR_NAME_183
+OBJC_METH_VAR_NAME_188
+OBJC_METH_VAR_NAME_190
+l_OBJC_$_INSTANCE_METHODS_YogaMenu
+OBJC_METH_VAR_NAME_194
+OBJC_METH_VAR_TYPE_196
+l_OBJC_$_INSTANCE_VARIABLES_YogaMenu
+OBJC_PROP_NAME_ATTR_198
+OBJC_PROP_NAME_ATTR_199
+OBJC_PROP_NAME_ATTR_200
+OBJC_PROP_NAME_ATTR_201
+OBJC_PROP_NAME_ATTR_202
+OBJC_PROP_NAME_ATTR_203
+l_OBJC_$_PROP_LIST_YogaMenu
+l_OBJC_CLASS_RO_$_YogaMenu
+-[YogaMenu .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/YogaMenu.m
+-[YogaMenu setMenuXml:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/YogaMenu.h
+-[YogaMenu MenuXml]
+-[YogaMenu setFileName:]
+-[YogaMenu FileName]
+-[YogaMenu setMenulinesArr:]
+-[YogaMenu MenulinesArr]
+-[YogaMenu BuildYogaMenu:MenuObj:]
+-[YogaMenu GetMenuType:]
+-[YogaMenu initWithXML:]
+-[XMLElement subElements]
+-[XMLElement name]
+-[XMLElement setName:]
+-[XMLElement text]
+-[XMLElement setText:]
+-[XMLElement attributes]
+-[XMLElement setAttributes:]
+-[XMLElement setSubElements:]
+-[XMLElement parent]
+-[XMLElement setParent:]
+-[XMLElement .cxx_destruct]
+OBJC_IVAR_$_XMLElement.subElements
+OBJC_IVAR_$_XMLElement.name
+OBJC_IVAR_$_XMLElement.text
+OBJC_IVAR_$_XMLElement.attributes
+OBJC_IVAR_$_XMLElement.parent
+l_OBJC_METACLASS_RO_$_XMLElement
+OBJC_METACLASS_$_XMLElement
+OBJC_CLASS_NAME_3
+OBJC_METH_VAR_TYPE_6
+OBJC_METH_VAR_TYPE_9
+OBJC_METH_VAR_NAME_14
+l_OBJC_$_INSTANCE_METHODS_XMLElement
+OBJC_METH_VAR_TYPE_18
+OBJC_METH_VAR_TYPE_20
+l_OBJC_$_INSTANCE_VARIABLES_XMLElement
+OBJC_CLASS_NAME_21
+OBJC_PROP_NAME_ATTR_22
+OBJC_PROP_NAME_ATTR_23
+OBJC_PROP_NAME_ATTR_24
+OBJC_PROP_NAME_ATTR_25
+OBJC_PROP_NAME_ATTR_26
+l_OBJC_$_PROP_LIST_XMLElement
+l_OBJC_CLASS_RO_$_XMLElement
+-[XMLElement .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/XmlElement.m
+-[XMLElement setParent:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/XmlElement.h
+-[XMLElement parent]
+-[XMLElement setSubElements:]
+-[XMLElement setAttributes:]
+-[XMLElement attributes]
+-[XMLElement setText:]
+-[XMLElement text]
+-[XMLElement setName:]
+-[XMLElement name]
+-[XMLElement subElements]
+-[SubMenu init]
+-[SubMenu Id]
+-[SubMenu setId:]
+-[SubMenu Title]
+-[SubMenu setTitle:]
+-[SubMenu MenuItemArr]
+-[SubMenu setMenuItemArr:]
+-[SubMenu .cxx_destruct]
+OBJC_IVAR_$_SubMenu.Id
+OBJC_IVAR_$_SubMenu.Title
+OBJC_IVAR_$_SubMenu.MenuItemArr
+l_OBJC_METACLASS_RO_$_SubMenu
+OBJC_METACLASS_$_SubMenu
+l_OBJC_$_INSTANCE_METHODS_SubMenu
+l_OBJC_$_INSTANCE_VARIABLES_SubMenu
+l_OBJC_$_PROP_LIST_SubMenu
+l_OBJC_CLASS_RO_$_SubMenu
+-[SubMenu .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/SubMenu.m
+-[SubMenu setMenuItemArr:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/SubMenu.h
+-[SubMenu MenuItemArr]
+-[SubMenu setTitle:]
+-[SubMenu Title]
+-[SubMenu setId:]
+-[SubMenu Id]
+-[SubMenu init]
+-[SetViewController initWithMenu:menuitem:]
+-[SetViewController initWithStyle:]
+-[SetViewController didReceiveMemoryWarning]
+-[SetViewController viewWillDisappear:]
+-[SetViewController viewDidLoad]
+-[SetViewController viewDidUnload]
+-[SetViewController viewWillAppear:]
+-[SetViewController viewDidAppear:]
+-[SetViewController viewWillLayoutSubviews]
+-[SetViewController viewDidDisappear:]
+-[SetViewController shouldAutorotateToInterfaceOrientation:]
+-[SetViewController numberOfSectionsInTableView:]
+-[SetViewController tableView:numberOfRowsInSection:]
+-[SetViewController imageTapped:]
+-[SetViewController InfobuttonPressed:]
+-[SetViewController tableView:cellForRowAtIndexPath:]
+-[SetViewController tableView:accessoryButtonTappedForRowWithIndexPath:]
+-[SetViewController ChangeSpeakImage]
+-[SetViewController goMusic:]
+-[SetViewController tableView:didSelectRowAtIndexPath:]
+-[SetViewController tableView:heightForRowAtIndexPath:]
+-[SetViewController tableView:willDisplayCell:forRowAtIndexPath:]
+-[SetViewController ym]
+-[SetViewController setYm:]
+-[SetViewController a]
+-[SetViewController setA:]
+-[SetViewController .cxx_destruct]
+OBJC_IVAR_$_SetViewController.a
+OBJC_SELECTOR_REFERENCES_43
+OBJC_CLASSLIST_REFERENCES_$_46
+OBJC_SELECTOR_REFERENCES_50
+OBJC_CLASSLIST_REFERENCES_$_51
+OBJC_IVAR_$_SetViewController.ButMusic
+OBJC_CLASSLIST_REFERENCES_$_65
+OBJC_METH_VAR_NAME_96
+OBJC_SELECTOR_REFERENCES_97
+OBJC_CLASSLIST_REFERENCES_$_100
+OBJC_IVAR_$_SetViewController.ym
+OBJC_CLASS_$_PracticeDetailedViewController
+.str115
+_unnamed_cfstring_116
+.str117
+_unnamed_cfstring_118
+OBJC_SELECTOR_REFERENCES_120
+OBJC_CLASSLIST_REFERENCES_$_121
+.str124
+_unnamed_cfstring_125
+.str128
+_unnamed_cfstring_129
+OBJC_SELECTOR_REFERENCES_135
+OBJC_METH_VAR_NAME_136
+OBJC_SELECTOR_REFERENCES_137
+.str138
+_unnamed_cfstring_139
+.str140
+_unnamed_cfstring_141
+OBJC_SELECTOR_REFERENCES_143
+OBJC_SELECTOR_REFERENCES_145
+OBJC_SELECTOR_REFERENCES_147
+OBJC_SELECTOR_REFERENCES_149
+OBJC_SELECTOR_REFERENCES_151
+OBJC_SELECTOR_REFERENCES_153
+OBJC_SELECTOR_REFERENCES_155
+OBJC_SELECTOR_REFERENCES_157
+OBJC_SELECTOR_REFERENCES_159
+OBJC_SELECTOR_REFERENCES_161
+OBJC_CLASSLIST_REFERENCES_$_162
+OBJC_SELECTOR_REFERENCES_164
+OBJC_METH_VAR_NAME_165
+OBJC_SELECTOR_REFERENCES_166
+OBJC_METH_VAR_NAME_167
+OBJC_SELECTOR_REFERENCES_168
+OBJC_SELECTOR_REFERENCES_170
+OBJC_SELECTOR_REFERENCES_172
+OBJC_METH_VAR_NAME_173
+OBJC_SELECTOR_REFERENCES_174
+OBJC_METH_VAR_NAME_184
+OBJC_CLASS_NAME_185
+OBJC_METH_VAR_NAME_186
+OBJC_METH_VAR_TYPE_187
+OBJC_METH_VAR_TYPE_189
+OBJC_METH_VAR_TYPE_191
+OBJC_METH_VAR_NAME_192
+OBJC_METH_VAR_TYPE_193
+OBJC_METH_VAR_NAME_198
+OBJC_METH_VAR_TYPE_199
+OBJC_METH_VAR_NAME_200
+OBJC_METH_VAR_TYPE_201
+OBJC_METH_VAR_NAME_202
+OBJC_METH_VAR_NAME_205
+OBJC_METH_VAR_TYPE_206
+OBJC_METH_VAR_NAME_207
+OBJC_METH_VAR_NAME_208
+OBJC_METH_VAR_TYPE_209
+OBJC_METH_VAR_NAME_210
+OBJC_METH_VAR_TYPE_218
+OBJC_CLASS_NAME_220
+OBJC_PROP_NAME_ATTR_221
+OBJC_PROP_NAME_ATTR_222
+OBJC_PROP_NAME_ATTR_223
+OBJC_PROP_NAME_ATTR_224
+OBJC_PROP_NAME_ATTR_225
+OBJC_PROP_NAME_ATTR_226
+l_OBJC_$_PROTOCOL_REFS_ADBannerViewDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_ADBannerViewDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_ADBannerViewDelegate
+l_OBJC_PROTOCOL_$_ADBannerViewDelegate
+l_OBJC_LABEL_PROTOCOL_$_ADBannerViewDelegate
+l_OBJC_CLASS_PROTOCOLS_$_SetViewController
+l_OBJC_METACLASS_RO_$_SetViewController
+OBJC_METACLASS_$_SetViewController
+OBJC_CLASS_NAME_227
+OBJC_METH_VAR_TYPE_230
+OBJC_METH_VAR_TYPE_231
+OBJC_METH_VAR_TYPE_234
+OBJC_METH_VAR_NAME_237
+OBJC_METH_VAR_TYPE_238
+OBJC_METH_VAR_NAME_239
+OBJC_METH_VAR_NAME_242
+OBJC_METH_VAR_NAME_243
+OBJC_METH_VAR_NAME_245
+OBJC_METH_VAR_TYPE_246
+OBJC_METH_VAR_NAME_248
+l_OBJC_$_INSTANCE_METHODS_SetViewController
+OBJC_METH_VAR_TYPE_251
+l_OBJC_$_INSTANCE_VARIABLES_SetViewController
+OBJC_PROP_NAME_ATTR_254
+OBJC_PROP_NAME_ATTR_255
+OBJC_PROP_NAME_ATTR_256
+OBJC_PROP_NAME_ATTR_257
+l_OBJC_$_PROP_LIST_SetViewController
+l_OBJC_CLASS_RO_$_SetViewController
+OBJC_CLASSLIST_REFERENCES_$_258
+OBJC_METH_VAR_NAME_259
+OBJC_SELECTOR_REFERENCES_260
+OBJC_METH_VAR_NAME_261
+OBJC_SELECTOR_REFERENCES_262
+OBJC_SELECTOR_REFERENCES_263
+CGRectMake
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+-[SetViewController .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/SetViewController.m
+-[SetViewController setA:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/SetViewController.h
+-[SetViewController a]
+-[SetViewController setYm:]
+-[SetViewController ym]
+-[SetViewController tableView:willDisplayCell:forRowAtIndexPath:]
+-[SetViewController tableView:heightForRowAtIndexPath:]
+-[SetViewController tableView:didSelectRowAtIndexPath:]
+-[SetViewController goMusic:]
+-[SetViewController ChangeSpeakImage]
+-[SetViewController tableView:accessoryButtonTappedForRowWithIndexPath:]
+-[SetViewController tableView:cellForRowAtIndexPath:]
+-[SetViewController InfobuttonPressed:]
+-[SetViewController imageTapped:]
+-[SetViewController tableView:numberOfRowsInSection:]
+-[SetViewController numberOfSectionsInTableView:]
+-[SetViewController shouldAutorotateToInterfaceOrientation:]
+-[SetViewController viewDidDisappear:]
+-[SetViewController viewWillLayoutSubviews]
+-[SetViewController viewDidAppear:]
+-[SetViewController viewWillAppear:]
+-[SetViewController viewDidUnload]
+-[SetViewController viewDidLoad]
+-[SetViewController viewWillDisappear:]
+-[SetViewController didReceiveMemoryWarning]
+-[SetViewController initWithStyle:]
+-[SetViewController initWithMenu:menuitem:]
+-[PracticeViewController initWithMenu:yogam:]
+-[PracticeViewController initWithSet:yogam:]
+-[PracticeViewController tableView:heightForRowAtIndexPath:]
+-[PracticeViewController initWithStyle:]
+-[PracticeViewController didReceiveMemoryWarning]
+-[PracticeViewController viewDidLoad]
+-[PracticeViewController viewDidUnload]
+-[PracticeViewController viewWillAppear:]
+-[PracticeViewController viewDidAppear:]
+-[PracticeViewController goHome:]
+-[PracticeViewController ChangeSpeakImage]
+-[PracticeViewController goMusic:]
+-[PracticeViewController viewWillDisappear:]
+-[PracticeViewController viewDidDisappear:]
+-[PracticeViewController shouldAutorotateToInterfaceOrientation:]
+-[PracticeViewController numberOfSectionsInTableView:]
+-[PracticeViewController tableView:numberOfRowsInSection:]
+-[PracticeViewController buyappmessage:]
+__40-[PracticeViewController buyappmessage:]_block_invoke
+__copy_helper_block_
+__destroy_helper_block_
+-[PracticeViewController playmovie:practice:]
+-[PracticeViewController RepeatbuttonPressed:]
+-[PracticeViewController PlaybuttonPressed:]
+-[PracticeViewController myMovieFinishedCallback:]
+-[PracticeViewController viewWillLayoutSubviews]
+-[PracticeViewController InfobuttonPressed:]
+-[PracticeViewController tableView:cellForRowAtIndexPath:]
+-[PracticeViewController tableView:willDisplayCell:forRowAtIndexPath:]
+-[PracticeViewController tableView:didSelectRowAtIndexPath:]
+-[PracticeViewController yogam]
+-[PracticeViewController setYogam:]
+-[PracticeViewController avmovieplayer]
+-[PracticeViewController setAvmovieplayer:]
+-[PracticeViewController .cxx_destruct]
+OBJC_IVAR_$_PracticeViewController.practicearray
+OBJC_CLASSLIST_REFERENCES_$_23
+OBJC_CLASSLIST_REFERENCES_$_52
+OBJC_SELECTOR_REFERENCES_54
+OBJC_CLASSLIST_REFERENCES_$_59
+OBJC_CLASSLIST_REFERENCES_$_64
+OBJC_METH_VAR_NAME_67
+OBJC_SELECTOR_REFERENCES_68
+.str69
+_unnamed_cfstring_70
+OBJC_CLASSLIST_REFERENCES_$_71
+OBJC_IVAR_$_PracticeViewController.ButMusic
+OBJC_CLASSLIST_REFERENCES_$_80
+OBJC_METH_VAR_NAME_81
+OBJC_SELECTOR_REFERENCES_82
+OBJC_METH_VAR_NAME_87
+OBJC_SELECTOR_REFERENCES_88
+OBJC_METH_VAR_NAME_91
+OBJC_SELECTOR_REFERENCES_92
+OBJC_METH_VAR_NAME_95
+OBJC_SELECTOR_REFERENCES_96
+.str112
+_unnamed_cfstring_113
+OBJC_CLASSLIST_REFERENCES_$_114
+.str119
+_unnamed_cfstring_120
+OBJC_SELECTOR_REFERENCES_122
+OBJC_SELECTOR_REFERENCES_124
+OBJC_CLASSLIST_REFERENCES_$_125
+.str126
+_unnamed_cfstring_127
+.str130
+__block_descriptor_tmp
+OBJC_SELECTOR_REFERENCES_132
+OBJC_SELECTOR_REFERENCES_134
+.str143
+_unnamed_cfstring_144
+.str147
+_unnamed_cfstring_148
+OBJC_CLASSLIST_REFERENCES_$_149
+OBJC_CLASSLIST_REFERENCES_$_152
+OBJC_SELECTOR_REFERENCES_154
+OBJC_CLASSLIST_REFERENCES_$_155
+OBJC_SELECTOR_REFERENCES_163
+OBJC_CLASSLIST_REFERENCES_$_164
+OBJC_SELECTOR_REFERENCES_176
+OBJC_SELECTOR_REFERENCES_178
+OBJC_SELECTOR_REFERENCES_180
+OBJC_SELECTOR_REFERENCES_182
+OBJC_SELECTOR_REFERENCES_184
+OBJC_SELECTOR_REFERENCES_186
+OBJC_SELECTOR_REFERENCES_188
+OBJC_SELECTOR_REFERENCES_190
+OBJC_CLASSLIST_REFERENCES_$_191
+OBJC_SELECTOR_REFERENCES_193
+OBJC_SELECTOR_REFERENCES_195
+OBJC_IVAR_$_PracticeViewController.yogam
+OBJC_SELECTOR_REFERENCES_197
+.str198
+_unnamed_cfstring_199
+OBJC_SELECTOR_REFERENCES_201
+OBJC_SELECTOR_REFERENCES_203
+OBJC_METH_VAR_NAME_204
+OBJC_SELECTOR_REFERENCES_205
+OBJC_SELECTOR_REFERENCES_207
+.str208
+_unnamed_cfstring_209
+OBJC_SELECTOR_REFERENCES_211
+.str212
+_unnamed_cfstring_213
+OBJC_METH_VAR_NAME_214
+OBJC_SELECTOR_REFERENCES_215
+.str216
+_unnamed_cfstring_217
+.str218
+_unnamed_cfstring_219
+.str220
+_unnamed_cfstring_221
+.str222
+_unnamed_cfstring_223
+.str224
+_unnamed_cfstring_225
+OBJC_METH_VAR_NAME_226
+OBJC_SELECTOR_REFERENCES_227
+OBJC_SELECTOR_REFERENCES_229
+OBJC_SELECTOR_REFERENCES_231
+.str232
+_unnamed_cfstring_233
+OBJC_SELECTOR_REFERENCES_235
+OBJC_METH_VAR_NAME_236
+OBJC_SELECTOR_REFERENCES_237
+OBJC_SELECTOR_REFERENCES_239
+OBJC_METH_VAR_NAME_240
+OBJC_SELECTOR_REFERENCES_241
+.str242
+_unnamed_cfstring_243
+.str244
+_unnamed_cfstring_245
+OBJC_METH_VAR_NAME_246
+OBJC_SELECTOR_REFERENCES_247
+OBJC_SELECTOR_REFERENCES_249
+OBJC_METH_VAR_NAME_250
+OBJC_SELECTOR_REFERENCES_251
+OBJC_SELECTOR_REFERENCES_253
+.str254
+_unnamed_cfstring_255
+OBJC_SELECTOR_REFERENCES_257
+OBJC_SELECTOR_REFERENCES_259
+OBJC_SELECTOR_REFERENCES_261
+OBJC_METH_VAR_NAME_264
+OBJC_SELECTOR_REFERENCES_265
+.str266
+_unnamed_cfstring_267
+OBJC_SELECTOR_REFERENCES_269
+.str270
+_unnamed_cfstring_271
+OBJC_METH_VAR_NAME_272
+OBJC_SELECTOR_REFERENCES_273
+OBJC_METH_VAR_NAME_274
+OBJC_SELECTOR_REFERENCES_275
+OBJC_CLASSLIST_REFERENCES_$_276
+.str277
+_unnamed_cfstring_278
+OBJC_SELECTOR_REFERENCES_280
+.str281
+_unnamed_cfstring_282
+OBJC_CLASSLIST_REFERENCES_$_283
+OBJC_METH_VAR_NAME_284
+OBJC_SELECTOR_REFERENCES_285
+OBJC_METH_VAR_NAME_286
+OBJC_SELECTOR_REFERENCES_287
+.str288
+_unnamed_cfstring_289
+.str290
+_unnamed_cfstring_291
+OBJC_SELECTOR_REFERENCES_293
+OBJC_METH_VAR_NAME_294
+OBJC_SELECTOR_REFERENCES_295
+OBJC_METH_VAR_NAME_296
+OBJC_SELECTOR_REFERENCES_297
+OBJC_SELECTOR_REFERENCES_299
+OBJC_METH_VAR_NAME_300
+OBJC_SELECTOR_REFERENCES_301
+OBJC_SELECTOR_REFERENCES_303
+OBJC_METH_VAR_NAME_304
+OBJC_SELECTOR_REFERENCES_305
+OBJC_SELECTOR_REFERENCES_307
+OBJC_IVAR_$_PracticeViewController.avmovieplayer
+OBJC_IVAR_$_PracticeViewController.imagesarr
+OBJC_IVAR_$_PracticeViewController.requestThumbnail
+OBJC_METH_VAR_NAME_308
+OBJC_METH_VAR_TYPE_309
+OBJC_METH_VAR_TYPE_312
+OBJC_METH_VAR_TYPE_313
+OBJC_METH_VAR_NAME_314
+OBJC_METH_VAR_TYPE_315
+OBJC_CLASS_NAME_318
+OBJC_METH_VAR_TYPE_320
+OBJC_METH_VAR_TYPE_321
+OBJC_METH_VAR_TYPE_323
+OBJC_METH_VAR_TYPE_329
+OBJC_METH_VAR_TYPE_331
+OBJC_METH_VAR_TYPE_332
+OBJC_METH_VAR_NAME_333
+OBJC_METH_VAR_NAME_336
+OBJC_METH_VAR_NAME_338
+OBJC_METH_VAR_NAME_339
+OBJC_METH_VAR_TYPE_340
+OBJC_METH_VAR_NAME_341
+OBJC_METH_VAR_NAME_342
+OBJC_METH_VAR_TYPE_343
+OBJC_METH_VAR_NAME_344
+OBJC_METH_VAR_TYPE_345
+OBJC_METH_VAR_NAME_346
+OBJC_METH_VAR_NAME_347
+OBJC_METH_VAR_TYPE_348
+OBJC_METH_VAR_NAME_349
+OBJC_CLASS_NAME_350
+OBJC_PROP_NAME_ATTR_355
+OBJC_PROP_NAME_ATTR_356
+l_OBJC_CLASS_PROTOCOLS_$_PracticeViewController
+l_OBJC_METACLASS_RO_$_PracticeViewController
+OBJC_METACLASS_$_PracticeViewController
+OBJC_CLASS_NAME_357
+OBJC_METH_VAR_TYPE_359
+OBJC_METH_VAR_NAME_360
+OBJC_METH_VAR_NAME_361
+OBJC_METH_VAR_TYPE_362
+OBJC_METH_VAR_TYPE_363
+OBJC_METH_VAR_TYPE_364
+OBJC_METH_VAR_TYPE_365
+OBJC_METH_VAR_NAME_366
+OBJC_METH_VAR_NAME_367
+OBJC_METH_VAR_TYPE_368
+OBJC_METH_VAR_NAME_369
+OBJC_METH_VAR_TYPE_370
+OBJC_METH_VAR_NAME_371
+OBJC_METH_VAR_TYPE_372
+OBJC_METH_VAR_TYPE_373
+OBJC_METH_VAR_NAME_374
+OBJC_METH_VAR_NAME_375
+OBJC_METH_VAR_TYPE_376
+OBJC_METH_VAR_NAME_377
+OBJC_METH_VAR_NAME_378
+OBJC_METH_VAR_NAME_379
+l_OBJC_$_INSTANCE_METHODS_PracticeViewController
+OBJC_METH_VAR_NAME_380
+OBJC_METH_VAR_TYPE_381
+OBJC_METH_VAR_NAME_382
+OBJC_METH_VAR_NAME_383
+OBJC_METH_VAR_TYPE_384
+OBJC_METH_VAR_NAME_385
+OBJC_METH_VAR_TYPE_386
+OBJC_METH_VAR_TYPE_387
+l_OBJC_$_INSTANCE_VARIABLES_PracticeViewController
+OBJC_PROP_NAME_ATTR_388
+OBJC_PROP_NAME_ATTR_389
+OBJC_PROP_NAME_ATTR_390
+OBJC_PROP_NAME_ATTR_391
+l_OBJC_$_PROP_LIST_PracticeViewController
+l_OBJC_CLASS_RO_$_PracticeViewController
+OBJC_CLASSLIST_REFERENCES_$_392
+OBJC_METH_VAR_NAME_393
+OBJC_SELECTOR_REFERENCES_394
+OBJC_METH_VAR_NAME_395
+OBJC_SELECTOR_REFERENCES_396
+OBJC_SELECTOR_REFERENCES_397
+-[PracticeViewController .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/PracticeViewController.m
+-[PracticeViewController setAvmovieplayer:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/PracticeViewController.h
+-[PracticeViewController avmovieplayer]
+-[PracticeViewController setYogam:]
+-[PracticeViewController yogam]
+-[PracticeViewController tableView:didSelectRowAtIndexPath:]
+-[PracticeViewController tableView:willDisplayCell:forRowAtIndexPath:]
+-[PracticeViewController tableView:cellForRowAtIndexPath:]
+-[PracticeViewController InfobuttonPressed:]
+-[PracticeViewController viewWillLayoutSubviews]
+-[PracticeViewController myMovieFinishedCallback:]
+-[PracticeViewController PlaybuttonPressed:]
+-[PracticeViewController RepeatbuttonPressed:]
+-[PracticeViewController playmovie:practice:]
+-[PracticeViewController buyappmessage:]
+-[PracticeViewController tableView:numberOfRowsInSection:]
+-[PracticeViewController numberOfSectionsInTableView:]
+-[PracticeViewController shouldAutorotateToInterfaceOrientation:]
+-[PracticeViewController viewDidDisappear:]
+-[PracticeViewController viewWillDisappear:]
+-[PracticeViewController goMusic:]
+-[PracticeViewController ChangeSpeakImage]
+-[PracticeViewController goHome:]
+-[PracticeViewController viewDidAppear:]
+-[PracticeViewController viewWillAppear:]
+-[PracticeViewController viewDidUnload]
+-[PracticeViewController viewDidLoad]
+-[PracticeViewController didReceiveMemoryWarning]
+-[PracticeViewController initWithStyle:]
+-[PracticeViewController tableView:heightForRowAtIndexPath:]
+-[PracticeViewController initWithSet:yogam:]
+-[PracticeViewController initWithMenu:yogam:]
+-[PracticeDetailedViewController initWithNibName:bundle:practice:yogam:]
+-[PracticeDetailedViewController initWithNibName:bundle:yogaset:yogam:]
+-[PracticeDetailedViewController viewDidLoad]
+-[PracticeDetailedViewController didRotateFromInterfaceOrientation:]
+-[PracticeDetailedViewController viewDidAppear:]
+-[PracticeDetailedViewController viewDidUnload]
+-[PracticeDetailedViewController refreshTextLayout]
+-[PracticeDetailedViewController label:didSelectedHotWord:]
+-[PracticeDetailedViewController picture]
+-[PracticeDetailedViewController setPicture:]
+-[PracticeDetailedViewController scroller]
+-[PracticeDetailedViewController setScroller:]
+-[PracticeDetailedViewController yogap]
+-[PracticeDetailedViewController setYogap:]
+-[PracticeDetailedViewController yogas]
+-[PracticeDetailedViewController setYogas:]
+-[PracticeDetailedViewController ym]
+-[PracticeDetailedViewController setYm:]
+-[PracticeDetailedViewController text]
+-[PracticeDetailedViewController setText:]
+-[PracticeDetailedViewController label]
+-[PracticeDetailedViewController setLabel:]
+-[PracticeDetailedViewController .cxx_destruct]
+OBJC_IVAR_$_PracticeDetailedViewController.yogap
+.str17
+_unnamed_cfstring_18
+OBJC_IVAR_$_PracticeDetailedViewController.yogas
+OBJC_CLASSLIST_REFERENCES_$_33
+OBJC_CLASSLIST_REFERENCES_$_48
+OBJC_METH_VAR_NAME_51
+OBJC_SELECTOR_REFERENCES_52
+OBJC_METH_VAR_NAME_65
+OBJC_SELECTOR_REFERENCES_66
+OBJC_CLASSLIST_REFERENCES_$_67
+OBJC_IVAR_$_PracticeDetailedViewController.ym
+OBJC_IVAR_$_PracticeDetailedViewController.picture
+OBJC_IVAR_$_PracticeDetailedViewController.scroller
+OBJC_IVAR_$_PracticeDetailedViewController._text
+OBJC_IVAR_$_PracticeDetailedViewController._label
+OBJC_METH_VAR_TYPE_75
+OBJC_CLASS_NAME_76
+OBJC_METH_VAR_NAME_77
+OBJC_METH_VAR_TYPE_78
+OBJC_METH_VAR_TYPE_80
+OBJC_METH_VAR_TYPE_82
+OBJC_METH_VAR_TYPE_84
+OBJC_METH_VAR_TYPE_86
+OBJC_METH_VAR_TYPE_88
+OBJC_METH_VAR_TYPE_90
+OBJC_METH_VAR_TYPE_92
+OBJC_METH_VAR_TYPE_95
+OBJC_METH_VAR_TYPE_97
+OBJC_METH_VAR_TYPE_100
+OBJC_METH_VAR_TYPE_103
+OBJC_METH_VAR_TYPE_105
+OBJC_METH_VAR_TYPE_109
+OBJC_CLASS_NAME_111
+OBJC_PROP_NAME_ATTR_112
+OBJC_PROP_NAME_ATTR_113
+OBJC_PROP_NAME_ATTR_114
+OBJC_PROP_NAME_ATTR_115
+OBJC_PROP_NAME_ATTR_116
+OBJC_PROP_NAME_ATTR_117
+l_OBJC_$_PROTOCOL_REFS_GLTapLabelDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_GLTapLabelDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_GLTapLabelDelegate
+l_OBJC_PROTOCOL_$_GLTapLabelDelegate
+l_OBJC_LABEL_PROTOCOL_$_GLTapLabelDelegate
+l_OBJC_CLASS_PROTOCOLS_$_PracticeDetailedViewController
+l_OBJC_METACLASS_RO_$_PracticeDetailedViewController
+OBJC_METACLASS_$_PracticeDetailedViewController
+OBJC_CLASS_NAME_118
+OBJC_METH_VAR_TYPE_120
+OBJC_METH_VAR_TYPE_124
+OBJC_METH_VAR_NAME_127
+OBJC_METH_VAR_TYPE_128
+l_OBJC_$_INSTANCE_METHODS_PracticeDetailedViewController
+OBJC_METH_VAR_TYPE_137
+OBJC_METH_VAR_TYPE_140
+l_OBJC_$_INSTANCE_VARIABLES_PracticeDetailedViewController
+OBJC_CLASS_NAME_143
+OBJC_PROP_NAME_ATTR_144
+OBJC_PROP_NAME_ATTR_145
+OBJC_PROP_NAME_ATTR_146
+OBJC_PROP_NAME_ATTR_147
+OBJC_PROP_NAME_ATTR_148
+OBJC_PROP_NAME_ATTR_149
+OBJC_PROP_NAME_ATTR_150
+OBJC_PROP_NAME_ATTR_151
+OBJC_PROP_NAME_ATTR_152
+OBJC_PROP_NAME_ATTR_153
+OBJC_PROP_NAME_ATTR_154
+OBJC_PROP_NAME_ATTR_155
+OBJC_PROP_NAME_ATTR_156
+OBJC_PROP_NAME_ATTR_157
+l_OBJC_$_PROP_LIST_PracticeDetailedViewController
+l_OBJC_CLASS_RO_$_PracticeDetailedViewController
+OBJC_SELECTOR_REFERENCES_160
+-[PracticeDetailedViewController .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/PracticeDetailedViewController.m
+-[PracticeDetailedViewController setLabel:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/PracticeDetailedViewController.h
+-[PracticeDetailedViewController label]
+-[PracticeDetailedViewController setText:]
+-[PracticeDetailedViewController text]
+-[PracticeDetailedViewController setYm:]
+-[PracticeDetailedViewController ym]
+-[PracticeDetailedViewController setYogas:]
+-[PracticeDetailedViewController yogas]
+-[PracticeDetailedViewController setYogap:]
+-[PracticeDetailedViewController yogap]
+-[PracticeDetailedViewController setScroller:]
+-[PracticeDetailedViewController scroller]
+-[PracticeDetailedViewController setPicture:]
+-[PracticeDetailedViewController picture]
+-[PracticeDetailedViewController label:didSelectedHotWord:]
+-[PracticeDetailedViewController refreshTextLayout]
+-[PracticeDetailedViewController viewDidUnload]
+-[PracticeDetailedViewController viewDidAppear:]
+-[PracticeDetailedViewController didRotateFromInterfaceOrientation:]
+-[PracticeDetailedViewController viewDidLoad]
+-[PracticeDetailedViewController initWithNibName:bundle:yogaset:yogam:]
+-[PracticeDetailedViewController initWithNibName:bundle:practice:yogam:]
+-[PracticeCell initWithStyle:reuseIdentifier:]
+-[PracticeCell setSelected:animated:]
+-[PracticeCell title]
+-[PracticeCell setTitle:]
+-[PracticeCell length]
+-[PracticeCell setLength:]
+-[PracticeCell picture]
+-[PracticeCell setPicture:]
+-[PracticeCell recommenedtime]
+-[PracticeCell setRecommenedtime:]
+-[PracticeCell description]
+-[PracticeCell setDescription:]
+-[PracticeCell infobut]
+-[PracticeCell setInfobut:]
+-[PracticeCell playbut]
+-[PracticeCell setPlaybut:]
+-[PracticeCell repeatbut]
+-[PracticeCell setRepeatbut:]
+-[PracticeCell .cxx_destruct]
+OBJC_CLASS_$_PracticeCell
+OBJC_IVAR_$_PracticeCell.title
+OBJC_IVAR_$_PracticeCell.length
+OBJC_IVAR_$_PracticeCell.picture
+OBJC_IVAR_$_PracticeCell.recommenedtime
+OBJC_IVAR_$_PracticeCell.description
+OBJC_IVAR_$_PracticeCell._infobut
+OBJC_IVAR_$_PracticeCell._playbut
+OBJC_IVAR_$_PracticeCell._repeatbut
+l_OBJC_METACLASS_RO_$_PracticeCell
+OBJC_METACLASS_$_PracticeCell
+OBJC_METH_VAR_TYPE_3
+l_OBJC_$_INSTANCE_METHODS_PracticeCell
+OBJC_METH_VAR_TYPE_24
+OBJC_METH_VAR_TYPE_28
+l_OBJC_$_INSTANCE_VARIABLES_PracticeCell
+OBJC_CLASS_NAME_31
+OBJC_PROP_NAME_ATTR_38
+OBJC_PROP_NAME_ATTR_39
+OBJC_PROP_NAME_ATTR_40
+OBJC_PROP_NAME_ATTR_41
+OBJC_PROP_NAME_ATTR_42
+OBJC_PROP_NAME_ATTR_43
+OBJC_PROP_NAME_ATTR_44
+OBJC_PROP_NAME_ATTR_45
+OBJC_PROP_NAME_ATTR_46
+l_OBJC_$_PROP_LIST_PracticeCell
+l_OBJC_CLASS_RO_$_PracticeCell
+-[PracticeCell .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/PracticeCell.m
+-[PracticeCell setRepeatbut:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/PracticeCell.h
+-[PracticeCell repeatbut]
+-[PracticeCell setPlaybut:]
+-[PracticeCell playbut]
+-[PracticeCell setInfobut:]
+-[PracticeCell infobut]
+-[PracticeCell setDescription:]
+-[PracticeCell description]
+-[PracticeCell setRecommenedtime:]
+-[PracticeCell recommenedtime]
+-[PracticeCell setPicture:]
+-[PracticeCell picture]
+-[PracticeCell setLength:]
+-[PracticeCell length]
+-[PracticeCell setTitle:]
+-[PracticeCell title]
+-[PracticeCell setSelected:animated:]
+-[PracticeCell initWithStyle:reuseIdentifier:]
+-[SetCell initWithStyle:reuseIdentifier:]
+-[SetCell setSelected:animated:]
+-[SetCell info:]
+-[SetCell title]
+-[SetCell setTitle:]
+-[SetCell picture]
+-[SetCell setPicture:]
+-[SetCell infobut]
+-[SetCell setInfobut:]
+-[SetCell .cxx_destruct]
+OBJC_CLASS_$_SetCell
+OBJC_IVAR_$_SetCell.title
+OBJC_IVAR_$_SetCell.picture
+OBJC_IVAR_$_SetCell._infobut
+l_OBJC_METACLASS_RO_$_SetCell
+OBJC_METACLASS_$_SetCell
+l_OBJC_$_INSTANCE_METHODS_SetCell
+OBJC_METH_VAR_TYPE_16
+l_OBJC_$_INSTANCE_VARIABLES_SetCell
+OBJC_CLASS_NAME_19
+OBJC_PROP_NAME_ATTR_21
+l_OBJC_$_PROP_LIST_SetCell
+l_OBJC_CLASS_RO_$_SetCell
+-[SetCell .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/SetCell.m
+-[SetCell setInfobut:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/SetCell.h
+-[SetCell infobut]
+-[SetCell setPicture:]
+-[SetCell picture]
+-[SetCell setTitle:]
+-[SetCell title]
+-[SetCell info:]
+-[SetCell setSelected:animated:]
+-[SetCell initWithStyle:reuseIdentifier:]
+-[Keyword Key]
+-[Keyword setKey:]
+-[Keyword Link]
+-[Keyword setLink:]
+-[Keyword .cxx_destruct]
+OBJC_IVAR_$_Keyword.Key
+OBJC_IVAR_$_Keyword.Link
+l_OBJC_METACLASS_RO_$_Keyword
+OBJC_METACLASS_$_Keyword
+OBJC_CLASS_NAME_1
+l_OBJC_$_INSTANCE_METHODS_Keyword
+OBJC_METH_VAR_TYPE_8
+l_OBJC_$_INSTANCE_VARIABLES_Keyword
+OBJC_PROP_NAME_ATTR_9
+OBJC_PROP_NAME_ATTR_10
+OBJC_PROP_NAME_ATTR_11
+l_OBJC_$_PROP_LIST_Keyword
+l_OBJC_CLASS_RO_$_Keyword
+-[Keyword .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/Keyword.m
+-[Keyword setLink:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/Keyword.h
+-[Keyword Link]
+-[Keyword setKey:]
+-[Keyword Key]
+-[AboutViewController initWithNibName:bundle:]
+-[AboutViewController viewDidLoad]
+-[AboutViewController viewDidUnload]
+-[AboutViewController loadScrollViewWithPage:]
+-[AboutViewController scrollViewDidScroll:]
+-[AboutViewController scrollViewWillBeginDragging:]
+-[AboutViewController scrollViewDidEndDecelerating:]
+-[AboutViewController changePage:]
+-[AboutViewController shouldAutorotateToInterfaceOrientation:]
+-[AboutViewController shouldAutorotate]
+-[AboutViewController supportedInterfaceOrientations]
+-[AboutViewController Goback:]
+-[AboutViewController GotoDybro:]
+-[AboutViewController GotoSnakeApps:]
+-[AboutViewController scrollView]
+-[AboutViewController setScrollView:]
+-[AboutViewController pageControl]
+-[AboutViewController setPageControl:]
+-[AboutViewController viewControllers]
+-[AboutViewController setViewControllers:]
+-[AboutViewController portrait]
+-[AboutViewController setPortrait:]
+-[AboutViewController landscape]
+-[AboutViewController setLandscape:]
+-[AboutViewController coontentView]
+-[AboutViewController setCoontentView:]
+-[AboutViewController callDybroUrl]
+-[AboutViewController setCallDybroUrl:]
+-[AboutViewController butSnakeApps]
+-[AboutViewController setButSnakeApps:]
+-[AboutViewController .cxx_destruct]
+OBJC_CLASSLIST_REFERENCES_$_11
+OBJC_SELECTOR_REFERENCES_15
+OBJC_SELECTOR_REFERENCES_17
+OBJC_IVAR_$_AboutViewController.scrollView
+OBJC_SELECTOR_REFERENCES_19
+OBJC_IVAR_$_AboutViewController.pageControl
+OBJC_CLASSLIST_REFERENCES_$_38
+OBJC_METH_VAR_NAME_39
+OBJC_SELECTOR_REFERENCES_40
+OBJC_SELECTOR_REFERENCES_46
+OBJC_IVAR_$_AboutViewController.viewControllers
+OBJC_CLASS_$_MyPageViewController
+OBJC_IVAR_$_AboutViewController.pageControlUsed
+OBJC_CLASSLIST_REFERENCES_$_78
+OBJC_CLASSLIST_REFERENCES_$_81
+.str86
+_unnamed_cfstring_87
+OBJC_IVAR_$_AboutViewController.portrait
+OBJC_IVAR_$_AboutViewController.landscape
+OBJC_IVAR_$_AboutViewController._coontentView
+OBJC_IVAR_$_AboutViewController._callDybroUrl
+OBJC_IVAR_$_AboutViewController._butSnakeApps
+OBJC_METH_VAR_TYPE_89
+OBJC_METH_VAR_TYPE_93
+OBJC_METH_VAR_TYPE_94
+OBJC_METH_VAR_TYPE_96
+OBJC_METH_VAR_NAME_100
+OBJC_METH_VAR_TYPE_102
+OBJC_METH_VAR_TYPE_106
+OBJC_METH_VAR_TYPE_108
+OBJC_METH_VAR_TYPE_112
+OBJC_CLASS_NAME_114
+OBJC_METH_VAR_TYPE_119
+OBJC_METH_VAR_TYPE_121
+OBJC_METH_VAR_TYPE_123
+OBJC_METH_VAR_TYPE_125
+OBJC_METH_VAR_TYPE_129
+OBJC_METH_VAR_TYPE_132
+OBJC_METH_VAR_NAME_138
+OBJC_METH_VAR_TYPE_146
+OBJC_CLASS_NAME_148
+l_OBJC_$_PROTOCOL_REFS_UIScrollViewDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIScrollViewDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_UIScrollViewDelegate
+l_OBJC_PROTOCOL_$_UIScrollViewDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIScrollViewDelegate
+l_OBJC_CLASS_PROTOCOLS_$_AboutViewController
+l_OBJC_METACLASS_RO_$_AboutViewController
+OBJC_METACLASS_$_AboutViewController
+OBJC_CLASS_NAME_155
+OBJC_METH_VAR_TYPE_158
+OBJC_METH_VAR_TYPE_161
+l_OBJC_$_INSTANCE_METHODS_AboutViewController
+OBJC_METH_VAR_TYPE_178
+l_OBJC_$_INSTANCE_VARIABLES_AboutViewController
+OBJC_CLASS_NAME_188
+OBJC_PROP_NAME_ATTR_204
+l_OBJC_$_PROP_LIST_AboutViewController
+l_OBJC_CLASS_RO_$_AboutViewController
+CGSizeMake
+-[AboutViewController .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/AboutViewController.m
+-[AboutViewController setButSnakeApps:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/AboutViewController.h
+-[AboutViewController butSnakeApps]
+-[AboutViewController setCallDybroUrl:]
+-[AboutViewController callDybroUrl]
+-[AboutViewController setCoontentView:]
+-[AboutViewController coontentView]
+-[AboutViewController setLandscape:]
+-[AboutViewController landscape]
+-[AboutViewController setPortrait:]
+-[AboutViewController portrait]
+-[AboutViewController setViewControllers:]
+-[AboutViewController viewControllers]
+-[AboutViewController setPageControl:]
+-[AboutViewController pageControl]
+-[AboutViewController setScrollView:]
+-[AboutViewController scrollView]
+-[AboutViewController GotoSnakeApps:]
+-[AboutViewController GotoDybro:]
+-[AboutViewController Goback:]
+-[AboutViewController supportedInterfaceOrientations]
+-[AboutViewController shouldAutorotate]
+-[AboutViewController shouldAutorotateToInterfaceOrientation:]
+-[AboutViewController changePage:]
+-[AboutViewController scrollViewDidEndDecelerating:]
+-[AboutViewController scrollViewWillBeginDragging:]
+-[AboutViewController scrollViewDidScroll:]
+-[AboutViewController loadScrollViewWithPage:]
+-[AboutViewController viewDidUnload]
+-[AboutViewController viewDidLoad]
+-[AboutViewController initWithNibName:bundle:]
+-[PracticeCellFirstRow initWithStyle:reuseIdentifier:]
+-[PracticeCellFirstRow setSelected:animated:]
+OBJC_CLASS_$_PracticeCellFirstRow
+l_OBJC_METACLASS_RO_$_PracticeCellFirstRow
+OBJC_METACLASS_$_PracticeCellFirstRow
+l_OBJC_$_INSTANCE_METHODS_PracticeCellFirstRow
+l_OBJC_CLASS_RO_$_PracticeCellFirstRow
+-[PracticeCellFirstRow setSelected:animated:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/PracticeCellFirstRow.m
+-[PracticeCellFirstRow initWithStyle:reuseIdentifier:]
++[MyMusicPlayerManager sharedManager]
+__37+[MyMusicPlayerManager sharedManager]_block_invoke
+-[MyMusicPlayerManager init]
+__28-[MyMusicPlayerManager init]_block_invoke
+__copy_helper_block_47
+__destroy_helper_block_48
+-[MyMusicPlayerManager Play]
+-[MyMusicPlayerManager IsMusicPlaying]
+-[MyMusicPlayerManager ChkPaused]
+-[MyMusicPlayerManager ChkSuspended]
+-[MyMusicPlayerManager audioPlayerDidFinishPlaying:successfully:]
+__65-[MyMusicPlayerManager audioPlayerDidFinishPlaying:successfully:]_block_invoke
+__copy_helper_block_54
+__destroy_helper_block_55
+-[MyMusicPlayerManager dealloc]
+-[MyMusicPlayerManager someProperty]
+-[MyMusicPlayerManager setSomeProperty:]
+-[MyMusicPlayerManager audioPlayer]
+-[MyMusicPlayerManager setAudioPlayer:]
+-[MyMusicPlayerManager .cxx_destruct]
+sharedManager.sharedMyManager
+sharedManager.onceToken
+.str3
+.str4
+_unnamed_cfstring_5
+.str6
+_unnamed_cfstring_7
+.str8
+_unnamed_cfstring_9
+.str10
+_unnamed_cfstring_11
+OBJC_IVAR_$_MyMusicPlayerManager.songlist
+.str21
+_unnamed_cfstring_22
+OBJC_IVAR_$_MyMusicPlayerManager.indexsong
+OBJC_IVAR_$_MyMusicPlayerManager.state
+.str23
+OBJC_IVAR_$_MyMusicPlayerManager.serielqueue
+.str29
+_unnamed_cfstring_30
+OBJC_CLASSLIST_REFERENCES_$_36
+__block_descriptor_tmp49
+__block_descriptor_tmp56
+OBJC_IVAR_$_MyMusicPlayerManager.someProperty
+OBJC_IVAR_$_MyMusicPlayerManager.audioPlayer
+OBJC_CLASS_NAME_59
+l_OBJC_$_CLASS_METHODS_MyMusicPlayerManager
+OBJC_METH_VAR_TYPE_62
+OBJC_METH_VAR_TYPE_63
+OBJC_METH_VAR_TYPE_65
+OBJC_METH_VAR_TYPE_66
+OBJC_METH_VAR_TYPE_68
+OBJC_METH_VAR_TYPE_69
+OBJC_METH_VAR_TYPE_71
+OBJC_METH_VAR_TYPE_72
+OBJC_CLASS_NAME_75
+OBJC_METH_VAR_TYPE_77
+OBJC_METH_VAR_TYPE_79
+OBJC_METH_VAR_TYPE_98
+OBJC_METH_VAR_TYPE_101
+OBJC_CLASS_NAME_109
+OBJC_PROP_NAME_ATTR_110
+OBJC_PROP_NAME_ATTR_111
+l_OBJC_$_PROTOCOL_REFS_AVAudioPlayerDelegate
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_AVAudioPlayerDelegate
+l_OBJC_$_PROTOCOL_METHOD_TYPES_AVAudioPlayerDelegate
+l_OBJC_PROTOCOL_$_AVAudioPlayerDelegate
+l_OBJC_LABEL_PROTOCOL_$_AVAudioPlayerDelegate
+l_OBJC_CLASS_PROTOCOLS_$_MyMusicPlayerManager
+l_OBJC_METACLASS_RO_$_MyMusicPlayerManager
+OBJC_METACLASS_$_MyMusicPlayerManager
+OBJC_CLASS_NAME_116
+l_OBJC_$_INSTANCE_METHODS_MyMusicPlayerManager
+OBJC_IVAR_$_MyMusicPlayerManager.dispatchrunning
+OBJC_IVAR_$_MyMusicPlayerManager.playerrunning
+OBJC_METH_VAR_TYPE_130
+l_OBJC_$_INSTANCE_VARIABLES_MyMusicPlayerManager
+OBJC_PROP_NAME_ATTR_137
+OBJC_PROP_NAME_ATTR_138
+OBJC_PROP_NAME_ATTR_139
+OBJC_PROP_NAME_ATTR_140
+l_OBJC_$_PROP_LIST_MyMusicPlayerManager
+l_OBJC_CLASS_RO_$_MyMusicPlayerManager
+_dispatch_once
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/usr/include/dispatch/once.h
+-[MyMusicPlayerManager .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/MyPlayerManager.m
+-[MyMusicPlayerManager setAudioPlayer:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/MyPlayerManager.h
+-[MyMusicPlayerManager audioPlayer]
+-[MyMusicPlayerManager setSomeProperty:]
+-[MyMusicPlayerManager someProperty]
+-[MyMusicPlayerManager dealloc]
+-[MyMusicPlayerManager audioPlayerDidFinishPlaying:successfully:]
+-[MyMusicPlayerManager ChkSuspended]
+-[MyMusicPlayerManager ChkPaused]
+-[MyMusicPlayerManager IsMusicPlaying]
+-[MyMusicPlayerManager Play]
+-[MyMusicPlayerManager init]
++[MyMusicPlayerManager sharedManager]
+-[MyPageViewController initWithPageNumber:]
+-[MyPageViewController dealloc]
++[MyPageViewController alignLabelWithTop:]
+-[MyPageViewController viewDidLoad]
+-[MyPageViewController viewDidUnload]
+-[MyPageViewController GotoFacebook:]
+-[MyPageViewController GotoAppstore:]
+-[MyPageViewController pageNumberLabel]
+-[MyPageViewController setPageNumberLabel:]
+-[MyPageViewController ButFacebook]
+-[MyPageViewController setButFacebook:]
+-[MyPageViewController ButAppStore]
+-[MyPageViewController setButAppStore:]
+-[MyPageViewController Abouttxt]
+-[MyPageViewController setAbouttxt:]
+-[MyPageViewController Aboutheading]
+-[MyPageViewController setAboutheading:]
+-[MyPageViewController .cxx_destruct]
+OBJC_IVAR_$_MyPageViewController.pageNumber
+.str5
+_unnamed_cfstring_6
+.str7
+_unnamed_cfstring_8
+.str9
+_unnamed_cfstring_10
+.str11
+_unnamed_cfstring_12
+.str13
+_unnamed_cfstring_14
+.str15
+_unnamed_cfstring_16
+OBJC_CLASSLIST_REFERENCES_$_37
+.str40
+_unnamed_cfstring_41
+.str52
+_unnamed_cfstring_53
+.str56
+_unnamed_cfstring_57
+.str58
+_unnamed_cfstring_59
+.str60
+_unnamed_cfstring_61
+.str62
+_unnamed_cfstring_63
+.str66
+_unnamed_cfstring_67
+.str68
+_unnamed_cfstring_69
+.str70
+_unnamed_cfstring_71
+.str78
+_unnamed_cfstring_79
+.str80
+_unnamed_cfstring_81
+.str82
+_unnamed_cfstring_83
+.str84
+_unnamed_cfstring_85
+.str88
+_unnamed_cfstring_89
+.str90
+_unnamed_cfstring_91
+.str92
+_unnamed_cfstring_93
+OBJC_CLASSLIST_REFERENCES_$_94
+OBJC_METH_VAR_NAME_111
+OBJC_SELECTOR_REFERENCES_112
+OBJC_CLASSLIST_REFERENCES_$_122
+.str123
+_unnamed_cfstring_124
+OBJC_SELECTOR_REFERENCES_126
+OBJC_SELECTOR_REFERENCES_128
+.str129
+_unnamed_cfstring_130
+OBJC_IVAR_$_MyPageViewController.pageNumberLabel
+OBJC_IVAR_$_MyPageViewController._ButFacebook
+OBJC_IVAR_$_MyPageViewController._ButAppStore
+OBJC_IVAR_$_MyPageViewController._Abouttxt
+OBJC_IVAR_$_MyPageViewController._Aboutheading
+l_OBJC_$_CLASS_METHODS_MyPageViewController
+l_OBJC_METACLASS_RO_$_MyPageViewController
+OBJC_METACLASS_$_MyPageViewController
+l_OBJC_$_INSTANCE_METHODS_MyPageViewController
+l_OBJC_$_INSTANCE_VARIABLES_MyPageViewController
+OBJC_CLASS_NAME_152
+OBJC_PROP_NAME_ATTR_158
+OBJC_PROP_NAME_ATTR_159
+OBJC_PROP_NAME_ATTR_160
+OBJC_PROP_NAME_ATTR_161
+l_OBJC_$_PROP_LIST_MyPageViewController
+l_OBJC_CLASS_RO_$_MyPageViewController
+-[MyPageViewController .cxx_destruct]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/MyPageViewController.m
+-[MyPageViewController setAboutheading:]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/MyPageViewController.h
+-[MyPageViewController Aboutheading]
+-[MyPageViewController setAbouttxt:]
+-[MyPageViewController Abouttxt]
+-[MyPageViewController setButAppStore:]
+-[MyPageViewController ButAppStore]
+-[MyPageViewController setButFacebook:]
+-[MyPageViewController ButFacebook]
+-[MyPageViewController setPageNumberLabel:]
+-[MyPageViewController pageNumberLabel]
+-[MyPageViewController GotoAppstore:]
+-[MyPageViewController GotoFacebook:]
+-[MyPageViewController viewDidUnload]
+-[MyPageViewController viewDidLoad]
++[MyPageViewController alignLabelWithTop:]
+-[MyPageViewController dealloc]
+-[MyPageViewController initWithPageNumber:]
+-[OrientationNavigationController initWithNibName:bundle:]
+-[OrientationNavigationController viewDidLoad]
+-[OrientationNavigationController supportedInterfaceOrientations]
+-[OrientationNavigationController shouldAutorotate]
+-[OrientationNavigationController didReceiveMemoryWarning]
+l_OBJC_METACLASS_RO_$_OrientationNavigationController
+OBJC_METACLASS_$_OrientationNavigationController
+OBJC_METH_VAR_TYPE_12
+l_OBJC_$_INSTANCE_METHODS_OrientationNavigationController
+l_OBJC_CLASS_RO_$_OrientationNavigationController
+-[OrientationNavigationController didReceiveMemoryWarning]
+/Users/christianandersen/Desktop/latest yoga version/Yoga App release 1.2 master advertising/release 1.5 lite/kundalini/kundalini/OrientationNavigationController.m
+-[OrientationNavigationController shouldAutorotate]
+-[OrientationNavigationController supportedInterfaceOrientations]
+-[OrientationNavigationController viewDidLoad]
+-[OrientationNavigationController initWithNibName:bundle:]

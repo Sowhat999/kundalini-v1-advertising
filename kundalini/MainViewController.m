@@ -135,8 +135,6 @@
     
     self.view.backgroundColor = myColor2;
 
-    self.interstitialPresentationPolicy = ADInterstitialPresentationPolicyAutomatic;
-        
 }
 
 
@@ -199,7 +197,7 @@
 }
 
 - (IBAction)BuyFull:(id)sender {
-    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"itms-apps://itunes.apple.com/us/app/kundalini-yoga-pro/id1099448019?l=da&ls=1&mt=8"]];    //
+        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"itms-apps://itunes.apple.com/us/app/kundalini-yoga/id598238037?l=da&ls=1&mt=8"]];
 }
 
 - (IBAction)Showabout:(id)sender {

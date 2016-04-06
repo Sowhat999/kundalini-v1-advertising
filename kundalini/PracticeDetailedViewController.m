@@ -67,7 +67,6 @@
     self.view.backgroundColor = myColor2;
     self.text.backgroundColor = myColor2; //(indexPath.row%2)? myColor:myColor2;
     
-    self.interstitialPresentationPolicy = ADInterstitialPresentationPolicyAutomatic;
     // Do any additional setup after loading the view from its nib.
 }
 

@@ -88,10 +88,6 @@
     self.navigationItem.rightBarButtonItem = BarButtonItem;
     //music on / off
     
-    ADBannerView *adBanner = [[ADBannerView alloc]initWithAdType:ADAdTypeBanner];
-    adBanner.delegate = self;
-    self.tableView.tableFooterView = adBanner;
-
 }
 
 - (void)viewDidUnload
@@ -114,28 +110,6 @@
 
 -(void)viewWillLayoutSubviews{
     [super viewWillLayoutSubviews];
-    [self positionAdBanner];
-}
-
--(void)bannerViewDidLoadAd:(ADBannerView *)banner
-{
-    banner.hidden = NO;
-    [self positionAdBanner];
-}
--(void)bannerView:(ADBannerView *)banner didFailToReceiveAdWithError:(NSError *)error
-{
-    banner.hidden = YES;
-}
-
--(void)positionAdBanner {
-    ADBannerView *adBanner = (ADBannerView *) self.tableView.tableFooterView;
-    if (adBanner) {
-        CGRect iAdFrame = adBanner.frame;
-        CGFloat newOriginY = self.tableView.contentOffset.y + self.tableView.frame.size.height - iAdFrame.size.height;
-        CGRect newIAdFrame = CGRectMake(iAdFrame.origin.x, newOriginY, iAdFrame.size.width, iAdFrame.size.height);
-        adBanner.frame = newIAdFrame;
-        [self.tableView bringSubviewToFront:adBanner];
-    }
 }
 
 
@@ -238,14 +212,6 @@
     
     if (p.Info.length>0)
     {
-//        UIButton *infoButton = [UIButton buttonWithType:UIButtonTypeInfoLight];
-//        infoButton.frame = CGRectMake(280, 60, 16, 16);
-//        infoButton.backgroundColor = [UIColor clearColor];
-//        [infoButton setTag:indexPath.row];
-//        [infoButton addTarget:self action:@selector(buttonPressed:)
-//             forControlEvents:UIControlEventTouchUpInside];
-//        [cell addSubview:infoButton];
-
         [cell.infobut setTitle:NSLocalizedString(@"READMORELABEL", nil) forState: UIControlStateNormal];
         [cell.infobut setTitle:NSLocalizedString(@"READMORELABEL", nil) forState: UIControlStateSelected];
         [cell.infobut setTitle:NSLocalizedString(@"READMORELABEL", nil) forState: UIControlStateHighlighted];
@@ -278,6 +244,10 @@
 
 
 
+
+
+
+
 -(void) tableView:(UITableView *)tableView accessoryButtonTappedForRowWithIndexPath:(NSIndexPath *)indexPath
 {
       
@@ -304,45 +274,6 @@
     [sharedManager Play];
     [self ChangeSpeakImage];
 }
-
-/*
-// Override to support conditional editing of the table view.
-- (BOOL)tableView:(UITableView *)tableView canEditRowAtIndexPath:(NSIndexPath *)indexPath
-{
-    // Return NO if you do not want the specified item to be editable.
-    return YES;
-}
-*/
-
-/*
-// Override to support editing the table view.
-- (void)tableView:(UITableView *)tableView commitEditingStyle:(UITableViewCellEditingStyle)editingStyle forRowAtIndexPath:(NSIndexPath *)indexPath
-{
-    if (editingStyle == UITableViewCellEditingStyleDelete) {
-        // Delete the row from the data source
-        [tableView deleteRowsAtIndexPaths:[NSArray arrayWithObject:indexPath] withRowAnimation:UITableViewRowAnimationFade];
-    }   
-    else if (editingStyle == UITableViewCellEditingStyleInsert) {
-        // Create a new instance of the appropriate class, insert it into the array, and add a new row to the table view
-    }   
-}
-*/
-
-/*
-// Override to support rearranging the table view.
-- (void)tableView:(UITableView *)tableView moveRowAtIndexPath:(NSIndexPath *)fromIndexPath toIndexPath:(NSIndexPath *)toIndexPath
-{
-}
-*/
-
-/*
-// Override to support conditional rearranging of the table view.
-- (BOOL)tableView:(UITableView *)tableView canMoveRowAtIndexPath:(NSIndexPath *)indexPath
-{
-    // Return NO if you do not want the item to be re-orderable.
-    return YES;
-}
-*/
 
 #pragma mark - Table view delegate
 

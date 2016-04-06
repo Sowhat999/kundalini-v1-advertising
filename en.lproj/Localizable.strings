@@ -5,11 +5,12 @@
  Created by Christian Toft Andersen on 02/11/12.
  
  */
-"BUYFULL" = "Add free";
+"BUYFULL" = "BUY FULL VERSION";
+"BUYFULLMESSAGE" = "You can only use warm up yoga set in Lite version";
 "ABOUTLABEL" = "About";
 "TUNEINLABEL" = "Get started";
 "READMORELABEL" = "Read more";
-"ABOUT0TITLE" = "About the App - version 1.5";
+"ABOUT0TITLE" = "About the App - version 1.7";
 "ABOUT1TITLE" = "About Dyb:ro yoga";
 "ABOUT2TITLE" = "About Pernille";
 "ABOUT3TITLE" = "About Kundalini yoga";

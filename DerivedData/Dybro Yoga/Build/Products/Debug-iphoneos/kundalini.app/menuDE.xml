@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by cta (KMD A/S) -->
+<menu>
+	<menuitem>
+		<id/>
+		<title>Yoga</title>
+		<Set>
+			<id/>
+			<title>Varm op</title>
+			<info>”The age of a person is not measured in years – but in how flexible your spine is”  - Yogi Bhajan \n \nVælg en,to eller alle opvarmnings øvelser for at give din krop en blid opvarmning. \n \nGod fornøjelse!</info>
+			<thumbnailimage>20121205-Final_Opvarmning.jpg</thumbnailimage>
+			<practice>
+                <id></id>
+				<title>Varm op består af 6 øvelser, Se alle øvelser her</title>
+                <info/>
+				<thumbnailimage>20121205-Final_Opvarmning.jpg</thumbnailimage>
+				<url>Final_Opvarmning</url>
+				<moviestart/>
+				<moviestop/>
+				<sound/>
+				<snapshot/>
+			</practice>
+            <practice>
+                <id></id>
+                <title>Sufikredse (Sufi Grind)</title>
+                <info>Sid i skrædderstilling.  \nHold hænderne på knæene og bevæg rygsøjlen i store kredse.  \n\nÅnd ind når din overkrop kommer fremad, løft dit hjerte og pres skulderbladene sammen.  \nÅnd ud og krum ryggen, og pres dine skuldreblade fra hinanden. \nStart i urets retning og skift retning. \nTid: 1 - 3 minutter. \n\n* Virkning: Øvelsen opvarmer nederste del af ryggen og stimulerer fordøjelsen.
+                </info>
+                <thumbnailimage>20121205-Final_Opvarmning.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>1</moviestart>
+                <moviestop>34</moviestop>
+                <sound/>
+                <recommendedtime>1-3 min. øvelse</recommendedtime>
+            </practice>
+            <practice>
+                <id/>
+                <title>Rygflex</title>
+                <info>Sid i skrædderstilling og tag fat om dine skinneben med begge hænder. Ånd ind og løft hjertet op og svej i nederste del af ryggen. Ånd ud, rund ryggen og træk skulderbladene fra hinanden. \nHold hovedet rankt og træk samtidig vejret kraftfuldt  gennem næsen under hele øvelsen.\n\nTid: 1 - 3 minutter\n\n* Rygflex løsner spændinger i den nedre og mellemste del af ryggen.</info>
+                <thumbnailimage>20121205-Final_Opvarmning-2.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>38</moviestart>
+                <moviestop>58</moviestop>
+                <sound/>
+                <recommendedtime>1-3 min. øvelse</recommendedtime>
+            </practice>
+            <practice>
+                <id/>
+                <title>Rygflex med hænder på knæene</title>
+                <info>Sid i skrædderstilling og tag fat om skinnebenene. Ånd ind og pres nedre del af ryggen og brystet frem. Ånd ud og rund ryggen tilbage. Hold hovedet lige under hele øvelsen.\n\nTid: 1 - 3 minutter. Træk vejret kraftfuldt gennem næsen i takt med bevægelsen \n\n* Øvelsen gør ryggen mere fleksibel. Den arbejder med nederste del af rygsøjlen og påvirker bevægeligheden.</info>
+                <thumbnailimage>20121205-Final_Opvarmning-3.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>61</moviestart>
+                <moviestop>83</moviestop>
+                <sound/>
+                <recommendedtime>1-3 min. øvelse</recommendedtime>
+            </practice>
+            <practice>
+                <id/>
+                <title>Fremdadstræk og hofteåbner</title>
+                <info>Sid med benene udstrakte og flex ud gennem dine hæle. Armene er paralelle med jorden. Ånd ind og læn dig tilbage, således du mærker, at du bruger mavemusklerne. Ånd ud og løft dig ud af hoften og fold fremover.\n\nTid: 1-3 minutter. \n\n* Øvelsen strækker bagsiden af benene, ischiasnerven, eller livsnerven, som den kaldes i Kundalini Yoga og øger fleksibiliteten i rygsøjlen.</info>
+                <thumbnailimage>20121205-Final_Opvarmning-4.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>86</moviestart>
+                <moviestop>109</moviestop>
+                <recommendedtime>1 - 3 min. øvelse</recommendedtime>
+                <sound/>
+            </practice>
+            <practice>
+                <id/>
+                <title>Fremadstræk med benene udstrakte</title>
+                <info>Stræk dine ben ud til hver sin side. \n\nKom ind til midten og tag en dyb indånding og stræk armene op og hiv dig ud af hofterne. Bøj dig over venstre ben og ånd ud. Kom tilbage til midten og ånd ind. Bøj dig over højre men og ånd ud. \n\nHjertet fører an, dvs. at du bøjer dig ud af hoften og lader hjertet være åbent igennem hele øvelsen.
+                    \n\nTid: 1-3 minutter  \nVirkning: Øvelsen strækker bagsiden af benene, indersiden af låret og ryggen.</info>
+                <thumbnailimage>20121205-Final_Opvarmning-5.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>113</moviestart>
+                <moviestop>135</moviestop>
+                <sound/>
+                <recommendedtime>1 - 3 min. øvelse</recommendedtime>
+            </practice>
+            <practice>
+                <id/>
+                <title>Ryg-twist</title>
+                <info>Sid i skrædderstilling og læg hænderne på skuldrene med fingrene pegende fremad og tommelfingeren bagud. Dine overarme er parallelle med jorden.  \nÅnd ind og twist din overkrop mod venstre, ånd ud og twist mod højre. \nLad dit hoved følge bevælgelsen.  \n\nTid: 1-3 minutter \n\nVirkning: Øvelsen strækker sidemuskulaturen og varmer rygsøjlen op. \nDen øger desuden cirkulationen i brystet og maven.
+                </info>
+                <thumbnailimage>20121205-Final_Opvarmning-6.jpg</thumbnailimage>
+                <url>Final_Opvarmning</url>
+                <moviestart>137</moviestart>
+                <moviestop>160</moviestop>
+                <sound/>
+                <recommendedtime>1 - 3 min. øvelse</recommendedtime>
+            </practice>
+		</Set>
+		<Set>
+			<id/>
+			<title>Solens Yogapas</title>
+			<info>Dette yogapas, kaldes ”Surya Kriya” ; Solens Yogapas. \n\nSolen forbindes med kraft, energi og varme og det siges at, hvis man laver dette yogapas bliver man energisk, kraftfuld og enthusiastisk. \nYogapasset stimulerer fordøjelsen, holder vægten nede og styrker dit immunforsvar. \nDet gør sindet klart, \nanalyserende og fokuseret.
+            </info>
+			<thumbnailimage>20121205-Final_surya_kriya.jpg</thumbnailimage>
+			<practice>
+				<id/>
+				<title>Solens yogapas består af 7 øvelser, Se alle øvelser her</title>
+				<info/>
+				<thumbnailimage>20121205-Final_surya_kriya.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart/>
+				<moviestop/>
+				<sound/>
+				<snapshot/>
+			</practice>
+			<practice>
+				<id/>
+				<title>1. Dybe vejrtrækninger - Energi Kick</title>
+				<info>Sid i let skrædderstilling. Dæk venstre næsebor til med tommelfingren på venstre hånd. De andre fingre peger opad.\nLad højre hånd hvile på højre knæ og pres tommelfingeren mod pegefinger (gyan mudra).\nÅndedræt: **Lange dybe vejrtrækninger gennem højre næsebor.\nTid: 3 – 5 minutter\nÅndedrætsøvelsen giver dig et klart og fokuseret sind. Den virker  opkvikkende og kan hjælpe med at øge koncentrationsevnen.\n\nTip: Døjer du  med at gå ”sukkerkold” om eftermiddagen, så er denne øvelse lige noget. Find et roligt sted og tag 26 lange dybe vejrtrækninger gennem højre næsebor.\n\n**Den lange dybe vejrtrækning er sammensat af 3 elementer – mave-, bryst- og kravebensånding. \n\n1). Første element: \nLæg hånden på maven. \nTræk vejret dybt ned i ”maven”, således hånden skubbes udad. Mellemgulvet sænkes. \n\n2). Andet element: \nFortsæt med at fylde op i bryskkassen. \nHelt ud i ribbene som skubbes udad. \n\n3). Hånden på brystet. Sidste element af indåndingen udføres i allerøverste del af brystkassen, hvor kravebenene løftes en lille smule. \n\nEffekter af lange dybe vejrtrækninger er mange. Her er nogle få nævnt: \n-	Modvirker stress og spænding \n-	Giver energi og øger koncentrationen \n-	Hjælper dig til at kontrollere følelser og tanker \n-	Skaber udholdenhed og tålmodighed
+                </info>
+				<thumbnailimage>20121205-Final_surya_kriya.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>1</moviestart>
+				<moviestop>27.2</moviestop>
+				<sound/>
+				<recommendedtime>3-5 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>2. Sat Kriya</title>
+				<info>Sid i klippestilling på knæene. Fold fingrene sammen, stræk pegefingeren op og pres håndfladerne mod hinanden.\nStræk armene op over hovedet, så de er helt lige og næsten omslutter ørene.\n\nBrug mantraet Sat Nam: Sig Sat og træk maven/navlen ind, sig Nam og slap af.Du kan finde en film under meditation med lyden og mantraet.\n\nTid: 1 - 3 minutter.\nEfter afslutning ånd ind, hold vejret inde og spænd bækkenbunden op. Forestil dig, at du hiver energi gennem rygsøjlen op til toppen af hovedet.\n\nHvil en kort tid (ca. 1 minut )efterfølgende.\n\nØvelsen kan laves alene og er en af de mest kraftfulde øvelser i Kundaliniyoga. Den stimulerer kundalinienergien og øger energiflowet i kroppen. Sat Kriya giver dig stærke mavemuskler, stimulerer fordøjelsen, masserer de indre orgaer og styrker hjerte og nervesystemet.\n\n
+                </info>
+				<thumbnailimage>20121205-Final_surya_kriya-2.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>28.24</moviestart>
+				<moviestop>50</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>3. Rygflex </title>
+				<info>Sid i skrædderstilling og læg hænderne på skinnebenene. Ånd ind og pres nedre den af ryggen og brystet frem. Ånd ud og rund ryggen tilbage. Hold hovedet lige under hele øvelsen.\n\nÅndedræt og tid : 1-3 minutter. Kraftfulde vejrtrækninger gennem næsen i takt med bevægelsen.\n\nØvelsen gør ryggen mere fleksibel. Den arbejder med nedre del af rygsøjlen og påvirker bevægeligheden.
+                </info>
+				<thumbnailimage>20121205-Final_surya_kriya-3.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>50.5</moviestart>
+				<moviestop>75</moviestop>
+				<sound/>
+				<recommendedtime>Gentag 108 gange.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>4. Frøen</title>
+				<info>Sæt dig på hug og pres hælene mod hinanden. Placer hænderne med fingerspidserne i gulvet.\n\nÅnd ind, løft hjertet og stræk din ryg. Hold hovedet lige.\n\nÅnd ud og stræk benene og kig ind mod navlen.\n\nÅnd ind og kom tilbage til udgangsposition.\nTid: 26 gange.\n\nDenne øvelse sætter gang i kredsløbet, styrker lårmusklerne og løsner spændinger i bryst.
+                </info>
+				<thumbnailimage>20121205-Final_surya_kriya-4.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>76</moviestart>
+				<moviestop>100.15</moviestop>
+				<sound/>
+				<recommendedtime>Gentag 26 gange</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>5. Hoveddrejning</title>
+				<info>Sid i let meditationsstillinger eller sid på din hæle og læg hænderne på lårene.\n\nÅnd ind og drej hovedet til venstre\nÅnd ud og drej hovedet til højre\n\nBrug mantraet Sat Nam, som betyder Sandhed er min identitet.: Sig Sat når du ånder ind og Nam når du ånder ud.\n\nTid: 2 - 3 minutter.\n\nDenne øvelse øger energiflowet til halschakraet. Øger blodcirkulationen til hovedet og stimulerer skjoldbruskkirtlen.
+                </info>
+				<thumbnailimage>20121205-Final_surya_kriya-5.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>104</moviestart>
+				<moviestop>126</moviestop>
+				<sound/>
+				<moviestop>110</moviestop>
+				<sound/>
+				<recommendedtime>2 - 3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>6. Rygbøjning til siden</title>
+				<info>Sid i let meditationsstilling/skrædderstilling. Læg hænderne på skuldrene med fingere foran og tommelfingrene tilbage. Overarmene er paralelle med gulvet. \nÅnd ind og bøj kroppen til venstre side \nÅnd ud og bøj kroppen til højre side \nÅnd ind – stræk armene over hovedet og slap af</info>
+				<thumbnailimage>20121205-Final_surya_kriya-6.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>128</moviestart>
+				<moviestop>151</moviestop>
+				<sound/>
+				<recommendedtime>3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>7. Meditation</title>
+				<info>Lang dyb afslapning\n10 minutter
+                </info>
+				<thumbnailimage>20121205-Final_surya_kriya-7.jpg</thumbnailimage>
+				<url>Final_surya_kriya</url>
+				<moviestart>152</moviestart>
+				<moviestop>173.24</moviestop>
+				<sound/>
+				<recommendedtime>10 min. afslapning</recommendedtime>
+			</practice>
+		</Set>
+		<Set>
+			<id/>
+			<title>Anti-Stress</title>
+			<info>Dette korte yogapas egner sig fantastisk til at reducere stress. \nØvelserne arbejder med nogle af de områder i kroppen, som har tendens til anspænding - f.eks. skulder- og nakkemuskulaturen samt bækken og ryg. \n\nEfter en dyb afspænding anbefaler jeg, at du slutter af med 8 – 10 minutter meditation.</info>
+			<thumbnailimage>20121205-Final_Antistress.jpg</thumbnailimage>
+			<practice>
+				<id/>
+				<title>Anti-stress består af 4 øvelser, se alle øvelser her</title>
+				<info/>
+				<keywords>
+					<key/>
+					<link/>
+					<key/>
+					<link/>
+				</keywords>
+				<thumbnailimage>20121205-Final_Antistress.jpg</thumbnailimage>
+				<url>Final_Antistress</url>
+				<moviestart>0</moviestart>
+				<moviestop>148</moviestop>
+				<sound/>
+			</practice>
+			<practice>
+				<id/>
+				<title>1. Hjerteåbneren</title>
+				<info>Sid i let meditationstilling/skrædderstilling. \nRyggen er lang og lige og øjnene lukkede. \nStræk armene op i en 60 graders vinkel med håndfladerne vendt opad og parallele med gulvet. \nStræk armene helt ud. \nÅndedræt: **Lange dybe vejrtrækninger. \nEn fantastisk øvelse til at styrke arme og åbne op i brystkassen. \nEfter nogen tid vil din vejrtrækning automatisk blive dybere og længere.\n\n**Den lange dybe vejrtrækning er sammensat af 3 elementer – mave-, bryst- og kravebensånding. \n\n1). Første element: \nLæg hånden på maven. \nTræk vejret dybt ned i ”maven”, således hånden skubbes udad. Mellemgulvet sænkes. \n\n2). Andet element: \nFortsæt med at fylde op i bryskkassen. \nHelt ud i ribbene som skubbes udad. \n\n3). Hånden på brystet. Sidste element af indåndingen udføres i allerøverste del af brystkassen, hvor kravebenene løftes en lille smule. \n\nEffekter af lange dybe vejrtrækninger er mange. Her er nogle få nævnt: \n-	Modvirker stress og spænding \n-	Giver energi og øger koncentrationen \n-	Hjælper dig til at kontrollere følelser og tanker \n-	Skaber udholdenhed og tålmodighed</info>
+				<thumbnailimage>20121205-Final_Antistress.jpg</thumbnailimage>
+				<url>Final_Antistress</url>
+				<moviestart>1</moviestart>
+				<moviestop>38</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>2. Hofteløft</title>
+				<info>Lig på ryggen og bring fødderne så tæt på bagdelen som muligt. \n\nTag fat om dine anklerne eller placér hænderne i gulvet. \n\n a). Løft nu hofterne så højt op mod himlen som muligt, mens du ånder ind. \n \n b). Ånd ud og bring enden tilbage til gulvet. \n \nFortsæt 12 – 26 gange. \n \nTIP: Spænd op i bækkenbund og balder når du ånder ind! \n \nDenne øvelse er fantastisk til at løsne op i skuldrene.  \n \nStyrker mave og lænd, løsner spændinger omkring æggestokkene og strammer balderne.</info>
+				<thumbnailimage>20121205-Final_Antistress-2.jpg</thumbnailimage>
+				<url>Final_Antistress</url>
+				<moviestart>41.54</moviestart>
+				<moviestop>65</moviestop>
+				<sound/>
+				<recommendedtime>12 – 26 gange</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>3. Den nedadvendte hund</title>
+				<info>Begynd på alle fire med en skulderbreddes afstand mellem hænderne, fingrene spredte og langfingrenen pegende fremad. \n\nFødderne placeres i hoftebreddes afstand. \n\nLøft hoften og enden op mod himlen og træk skulderbladene tilbage mod taljen. \n\nFordel din vægt ligeligt mellem hænder og fødder og pres fast ned gennem hænderne. Forestil dig at du skubber noget tungt væk fra dig. \n\nSlap af i nakken og skuldrene.\n \nÅndedræt: **Lange dybe vejrtrækninger. \n \nDenne øvelser er energigivende og forfriskende og giver stor styrke og bevægelsesfrihed i overkroppen.\n \nØvelsen styrker nervesystemet, arbejder med skulderpartien, hvor mange spændinger kan opstå.\n\nDe udstrakte ben giver en fantastisk stræk af ischias-nerven og aktiverer energiflowet i benene.\n\n**Den lange dybe vejrtrækning er sammensat af 3 elementer – mave-, bryst- og kravebensånding. \n\n1). Første element: \nLæg hånden på maven. \nTræk vejret dybt ned i ”maven”, således hånden skubbes udad. Mellemgulvet sænkes. \n\n2). Andet element: \nFortsæt med at fylde op i bryskkassen. \nHelt ud i ribbene som skubbes udad. \n\n3). Hånden på brystet. Sidste element af indåndingen udføres i allerøverste del af brystkassen, hvor kravebenene løftes en lille smule. \n\nEffekter af lange dybe vejrtrækninger er mange. Her er nogle få nævnt: \n-	Modvirker stress og spænding \n-	Giver energi og øger koncentrationen \n-	Hjælper dig til at kontrollere følelser og tanker \n-	Skaber udholdenhed og tålmodighed</info>
+				<thumbnailimage>20121205-Final_Antistress-3.jpg</thumbnailimage>
+				<url>Final_Antistress</url>
+				<moviestart>74.48</moviestart>
+				<moviestop>95.39</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>4. Nakkerulninger</title>
+				<info>Sid i skrædderstilling med rank ryg. \n \nHænderne ligger på knæene, arme og skuldre er afslappede. \n \nBegynd helt bevidst og så langsomt som muligt at rulle hovedet ned over brystet.\n \nStart med at lægge højre øre mod højre skulder.\n \nÅndedræt og tid: **Lange dybe vejrtrækninger. 12 gange i hver retning.\n \nDenne øvelse løsner spændinger i nakkemuskulaturen.\n\n**Den lange dybe vejrtrækning er sammensat af 3 elementer – mave-, bryst- og kravebensånding. \n\n1). Første element: \nLæg hånden på maven. \nTræk vejret dybt ned i ”maven”, således hånden skubbes udad. Mellemgulvet sænkes. \n\n2). Andet element: \nFortsæt med at fylde op i bryskkassen. \nHelt ud i ribbene som skubbes udad. \n\n3). Hånden på brystet. Sidste element af indåndingen udføres i allerøverste del af brystkassen, hvor kravebenene løftes en lille smule. \n\nEffekter af lange dybe vejrtrækninger er mange. Her er nogle få nævnt: \n-	Modvirker stress og spænding \n-	Giver energi og øger koncentrationen \n-	Hjælper dig til at kontrollere følelser og tanker \n-	Skaber udholdenhed og tålmodighed</info>
+				<thumbnailimage>20121205-Final_Antistress-4.jpg</thumbnailimage>
+				<url>Final_Antistress</url>
+				<moviestart>109.30</moviestart>
+				<moviestop>148.36</moviestop>
+				<sound/>
+				<recommendedtime>12 gange i hver retning</recommendedtime>
+			</practice>
+		</Set>
+		<Set>
+			<id/>
+			<title>Kriya for opløftende energi </title>
+			<info>Dette yogasæt arbejder systematisk gennem hele rygsøjlen og øger energiflowet i hele kroppen. Sættet virker opløftende og giver dig energi.</info>
+			<thumbnailimage>20121205-Final_Elevation.jpg</thumbnailimage>
+			<practice>
+				<id/>
+				<title>Kriya består af 10 øvelser, se alle øvelser her</title>
+				<info/>
+				<thumbnailimage>20121205-Final_Elevation.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart/>
+				<moviestop/>
+				<sound/>
+			</practice>
+			<practice>
+				<id/>
+				<title>1. Egobekæmperen</title>
+				<info>Sæt dig i skrædderstilling eller på en stol. Stræk armene op over hovedet i en 60 graders vinkel med håndfladerne vendt fremad. Bøj fingerspidserne mod de bløde dele under fingrene og stræk tommelfingrene op mod himlen. Din tommelfinger repræsenterer dit Ego. \nStræk armene helt igennem. \n**Ildånding 1 – 3 minutter. \n* Egobekæmperen øger energiflowet gennem armene og brystet. Styrker hjertet og øger din udstråling. \n\n**ILD-ÅNDING giver et energipust og et rent og klar sind. \nDenne åndedrætsøvelse beskrives som en kraftig ”blæsebælgs” lignende åndedrætsøvelse, hvor maven og mellemgulvet bruges.  \nØvelsen er unik for Kundalini Yoga. \nSåvel indånding som udånding er aktive og lige kraftige.  \nMunden er lukket og vejrtrækningen ind og ud igennem næsen. \nFor at lære ildånding anbefaler jeg, at du deltager på et Kundalini Yoga hold. \n\nOBS: Husk at trække hagen en smule ind ved denne øvelse, således der ikke opstår et tryk i hovedet. \n\nØvelsen bør ikke udføres ved menstruation eller graviditet. \n\nEffekter af ildånding \n-	virker udrensende \n-	øger lungekapaciteten \n-	styrker nervesystemet \n-	øger cirkulationen og dit energiflow \n-	giver klarhed og fokus
+                </info>
+				<thumbnailimage>20121205-Final_Elevation.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>1</moviestart>
+				<moviestop>17</moviestop>
+				<sound/>
+				<recommendedtime>Ildånding 1 – 3 minutter.</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>2. Rygflex</title>
+				<info>Sid i skrædderstilling og tag fat om dine skinneben med begge hænder. Ånd ind og løft hjertet op og svej i nedre del af ryggen. Ånd ud og rund ryggen og træk skulderbladene fra hinanden. \nHovedet holdes rankt under hele øvelsen. Kraftfuld vejrtrækning gennem næsen under hele øvelsen i kombination med øvelsen. \n* Rygflex løsner spændinger i nedre og mellemste del af ryggen.</info>
+				<thumbnailimage>20121205-Final_Elevation-2.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>19</moviestart>
+				<moviestop>39</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>3. Rygdrejning</title>
+				<info>Sid i skrædderstilling og læg hænderne på skuldrene med fingrene pegende fremad og tommelfingrene bagud. \nOverarmene er parallelle til gulvet. \nÅnd ind og drej overkroppen mod venstre, ånd ud og drej mod højre. Hovedet følger bevægelsen. \n* Rygdrejning varmer rygge op og åbner op for cirkulationen i navleområdet og brystet.</info>
+				<thumbnailimage>20121205-Final_Elevation-3.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>43</moviestart>
+				<moviestop>56</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>4. Fremdadstræk</title>
+				<info>Sid med benene udstrakte. Bøj dig frem over og tag fat om dine storetæer, hvis du kan (ellers tager du fat om dine ankler, skinneben eller under knæene). Vigtigt er, at din rygsøjle er rank og lige og du ikke lukker for din brystkasse. \nÅnd ind, løft dit hjerte og stræk ryggen. \nÅnd ud og bøj hjertet og ryggen ned om dine udstrakte ben. \n* Fremadstrækket strækker bagsiden af benene, ischiasnerven, eller livsnerven, som den kaldes i Kundalini Yoga og øger fleksibiliteten i rygsøjlen.</info>
+				<thumbnailimage>20121205-Final_Elevation-4.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>58</moviestart>
+				<moviestop>73</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>5. Fremadstræk med et ben af gangen</title>
+				<info>Sæt dig på højre hæl og stræk venstre ben frem foran dig. Har du svært ved at sidde på hælen, kan du lægge den højre fodsål mod indersiden af venstre lår. \nBøj dig frem, og tag fat om venstre tå og tryk tommelfingrene mod storetå-neglen (eller så langt som du kan med strakte ben). Sid i denne stilling og lav **ildånding i 1 – 2 minutter. \nÅnd ind, stræk rygsøjlen rank, ånd ud og bøj dig fremover benet. Ånd ind og kom tilbage og sid. \nSkift side og fortsæt ildånding 1-2 minutter med højre ben udstrakt. \n*  Øvelser strækker bagsiden af benene og rygsøjlen.\n\n**ILD-ÅNDING giver et energipust og et rent og klar sind. \nDenne åndedrætsøvelse beskrives som en kraftig ”blæsebælgs” lignende åndedrætsøvelse, hvor maven og mellemgulvet bruges.  \nØvelsen er unik for Kundalini Yoga. \nSåvel indånding som udånding er aktive og lige kraftige.  \nMunden er lukket og vejrtrækningen ind og ud igennem næsen. \nFor at lære ildånding anbefaler jeg, at du deltager på et Kundalini Yoga hold. \n\nOBS: Husk at trække hagen en smule ind ved denne øvelse, således der ikke opstår et tryk i hovedet. \n\nØvelsen bør ikke udføres ved menstruation eller graviditet. \n\nEffekter af ildånding \n-	virker udrensende \n-	øger lungekapaciteten \n-	styrker nervesystemet \n-	øger cirkulationen og dit energiflow \n-	giver klarhed og fokus.</info>
+				<thumbnailimage>20121205-Final_Elevation-5.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>75</moviestart>
+				<moviestop>93</moviestop>
+				<sound/>
+				<recommendedtime>2 - 4 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>6. Fremadstræk med benene udstrakte</title>
+				<info>Stræk benene ud til hver sin side. Bøj dig fremad og tag fat om storetåen og tryk tommelfingeren mod storetå-neglen (eller kom så langt frem DU kan med strakte ben). \nÅnd ind og stræk ryggen lang, ånd ud og bøj dig fremover venstre ben. Ånd ind og stræk ryggen lang igen i midten, ånd ud og bøj dig fremover højre ben. \nFortsæt med kraftfulde åndedrag i 1 – 3 minutter. \nÅnd ind og stræk rygsøjen rank, ånd ud og bøj dig frem mellem benene. Ånd ind og tilbage tilbage til midten og giv slip. \nRyst benene bagefter. \n* Øvelsen strækker bagsiden af benene, indersiden af lårene og rygsøjlen.</info>
+				<thumbnailimage>20121205-Final_Elevation-6.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>100</moviestart>
+				<moviestop>114</moviestop>
+				<sound/>
+				<recommendedtime>1 - 3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>7. Kobraen</title>
+				<info>Kom liggende på maven. Placer dine håndflader ved siden af skuldrene. \nSpænd op i din bækkenbund og rul skuldrene tilbage. Løft dernæst overkroppen fra gulvet, således armene strækkes. Hoftebenet skal hvile mod gulvet.  Armene tæt ind til kroppen og skuldrene nede. \nBliv i denne stilling og lav **ildånding eller ***lange dybe vejrtrækninger. \nÅnd ind, ånd ud og spænd op i bækkenbunden. Ånd ind og ud igen og kom langsomt ned på maven. Hvil på maven med den ene kind mod gulvet og armene langs kroppens sider. \n* Kobraen øger fleksibiliteten i rygsøjlen, masserer de indre organer, styrker ryggen og lindrer menstruationssmerter.\n\n**ILD-ÅNDING giver et energipust og et rent og klar sind. \nDenne åndedrætsøvelse beskrives som en kraftig ”blæsebælgs” lignende åndedrætsøvelse, hvor maven og mellemgulvet bruges.  \nØvelsen er unik for Kundalini Yoga. \nSåvel indånding som udånding er aktive og lige kraftige.  \nMunden er lukket og vejrtrækningen ind og ud igennem næsen. \nFor at lære ildånding anbefaler jeg, at du deltager på et Kundalini Yoga hold. \n\nOBS: Husk at trække hagen en smule ind ved denne øvelse, således der ikke opstår et tryk i hovedet. \n\nØvelsen bør ikke udføres ved menstruation eller graviditet. \n\nEffekter af ildånding \n-	virker udrensende \n-	øger lungekapaciteten \n-	styrker nervesystemet \n-	øger cirkulationen og dit energiflow \n-	giver klarhed og fokus\n\n***Den lange dybe vejrtrækning er sammensat af 3 elementer – mave-, bryst- og kravebensånding. \n\n1). Første element: \nLæg hånden på maven. \nTræk vejret dybt ned i ”maven”, således hånden skubbes udad. Mellemgulvet sænkes. \n\n2). Andet element: \nFortsæt med at fylde op i bryskkassen. \nHelt ud i ribbene som skubbes udad. \n\n3). Hånden på brystet. Sidste element af indåndingen udføres i allerøverste del af brystkassen, hvor kravebenene løftes en lille smule. \n\nEffekter af lange dybe vejrtrækninger er mange. Her er nogle få nævnt: \n-	Modvirker stress og spænding \n-	Giver energi og øger koncentrationen \n-	Hjælper dig til at kontrollere følelser og tanker \n-	Skaber udholdenhed og tålmodighed</info>
+				<thumbnailimage>20121205-Final_Elevation-7.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>116</moviestart>
+				<moviestop>130</moviestop>
+				<sound/>
+				<recommendedtime>2 - 6 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>8. Skulderløft</title>
+				<info>Sid i skrædderstilling eller på en stol. Læg hænderne på knæene. Ånd ind og løft skuldrene mod ørene, ånd ud og slap af i skuldrene. \nFortsæt i 1 – 2 minutter. \n*Skulderløft løsner op i musklerne i skuldrene.</info>
+				<thumbnailimage>20121205-Final_Elevation-8.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>133</moviestart>
+				<moviestop>151</moviestop>
+				<sound/>
+				<recommendedtime>1 - 2 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>9. Nakkerulninger</title>
+				<info>Sid i skrædderstilling eller på en stol. Rul hovedet i store cirkler for at strække musklerne i nakken. Lav øvelsen langsomt og forsigtigt. Begynd med at lave øvelsen i urets retning   1 – 2 minutter. \nSkift retning og fortsæt 1-2 minutter. \nÅnd ind og kom tilbage til midten og stræk nakken rank. Ånd ud og slap af et øjeblik. \n* Nakkerulninger strækker nakkemusklerne, øger blodcirkulationen til hovedet og virker afslappende. Giver ”luft” til hovedet.</info>
+				<thumbnailimage>20121205-Final_Elevation-9.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>154</moviestart>
+				<moviestop>178</moviestop>
+				<sound/>
+				<recommendedtime>2 - 4 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>10. Sat kriya</title>
+				<info>Sid i klippestilling – på hælene. Placer evt. En pude eller et tæppe mellem balder og hæle. Stræk armene op over hovedet. Flet fingrene sammen undtagen pegefingeren, som peger opad. Håndfladerne er presset sammen. \nAnvend mantraet ”SAT NAM”. \nSig ordet ”SAT” og træk maven ind. Sig ”NAM” og slap af i maven. Forestil dig at du kan hive maven ind og op ved ”SAT” og give slip ved ”NAM”. \nFortsæt i 3 – 7 minutter. \nÅnd ind, hold vejret og brug rodlås. Forestil dig at du kan trække energien helt nede fra halebenet op gennem rygsøjlen til hovedet. Ånd ud, hold vejret ude og spænd alle muskler i kroppen. \nSlap af.</info>
+				<thumbnailimage>20121205-Final_Elevation-10.jpg</thumbnailimage>
+				<url>Final_Elevation</url>
+				<moviestart>181</moviestart>
+				<moviestop>208</moviestop>
+				<sound/>
+				<recommendedtime>3 - 7 min. øvelse</recommendedtime>
+			</practice>
+		</Set>
+		<Set>
+			<id/>
+			<title>Destress og Detox</title>
+			<info>Dette yogasæt er designet til at udrense og styrker nyrer og binyrer; kroppens første forsvarslinie mod stress-relaterede sygdomme.</info>
+			<thumbnailimage>20121205-Final_Destress detox.jpg</thumbnailimage>
+			<practice>
+				<id/>
+				<title>Destress og Detox består af 12 øvelser, se alle øvelser her</title>
+				<info/>
+				<thumbnailimage>20121205-Final_Destress detox.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart/>
+				<moviestop/>
+				<sound/>
+			</practice>
+			<practice>
+				<id/>
+				<title>1. Lotus Mudra</title>
+				<info>Sid i skrædderstilling og pres håndryggene, lillefingrene og tommelfingrene sammen. Ånd ind og stræk armene ud til siderne, parallelle mod jorden med håndfladerne vendt udad. \nÅnd ud og bring hænderne sammen, således at lillefingrene, tommelfingrene og håndryggene mødes. \nFingrene er strakte i Lotus Mudra.</info>
+				<thumbnailimage>20121205-Final_Destress detox.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>1</moviestart>
+				<moviestop>29</moviestop>
+				<sound/>
+				<recommendedtime>1-3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>2. Flet lillefingrene sammen</title>
+				<info>Flet lillefingrene sammen foran dit hjerte. De andre fingre hviler på de bløde kupler under hver finger. Tommelfingrene er udstrakte. \nHænderne er foran dit solar plexus. Hiv stærkt i dine lille fingre og lav **ildånding. Mærk et stræk hen over ryggen. \n* Denne øvelse genererer varme og arbejder på den ene side af binyrene. Øvelsen genopbygger styrke og virker foryngrende\n\n**ILD-ÅNDING giver et energipust og et rent og klar sind. \nDenne åndedrætsøvelse beskrives som en kraftig ”blæsebælgs” lignende åndedrætsøvelse, hvor maven og mellemgulvet bruges.  \nØvelsen er unik for Kundalini Yoga. \nSåvel indånding som udånding er aktive og lige kraftige.  \nMunden er lukket og vejrtrækningen ind og ud igennem næsen. \nFor at lære ildånding anbefaler jeg, at du deltager på et Kundalini Yoga hold. \n\nOBS: Husk at trække hagen en smule ind ved denne øvelse, således der ikke opstår et tryk i hovedet. \n\nØvelsen bør ikke udføres ved menstruation eller graviditet. \n\nEffekter af ildånding \n-	virker udrensende \n-	øger lungekapaciteten \n-	styrker nervesystemet \n-	øger cirkulationen og dit energiflow \n-	giver klarhed og fokus</info>
+				<thumbnailimage>20121205-Final_Destress detox-2.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>32</moviestart>
+				<moviestop>63</moviestop>
+				<sound/>
+				<recommendedtime>1-3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>3. Kanon Åndedrættet</title>
+				<info>Sid i skrædderstilling med rank rygsøjle. Rund læberne til et O. Begynd at trække vejret gennem munden højlydt, hold din indånding og udånding lige lange. Begynd kanon-åndedrættet (**ildånding gennem rundede læber). \n(Navnet Cannon Breath kommer fra lyden som dit åndedræt bør lyde som). \n* Øvelsen arbejder på den anden side af binyrene.\n\n**ILD-ÅNDING giver et energipust og et rent og klar sind. \nDenne åndedrætsøvelse beskrives som en kraftig ”blæsebælgs” lignende åndedrætsøvelse, hvor maven og mellemgulvet bruges.  \nØvelsen er unik for Kundalini Yoga. \nSåvel indånding som udånding er aktive og lige kraftige.  \nMunden er lukket og vejrtrækningen ind og ud igennem næsen. \nFor at lære ildånding anbefaler jeg, at du deltager på et Kundalini Yoga hold. \n\nOBS: Husk at trække hagen en smule ind ved denne øvelse, således der ikke opstår et tryk i hovedet. \n\nØvelsen bør ikke udføres ved menstruation eller graviditet. \n\nEffekter af ildånding \n-	virker udrensende \n-	øger lungekapaciteten \n-	styrker nervesystemet \n-	øger cirkulationen og dit energiflow \n-	giver klarhed og fokus</info>
+				<thumbnailimage>20121205-Final_Destress detox-3.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>66</moviestart>
+				<moviestop>89</moviestop>
+				<sound/>
+				<recommendedtime>1-3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>4. Venstre hånd på ryggen</title>
+				<info>Placer din venstre hånd på ryggen (ved de nederste ribben) med håndfladen vendt udad. \nDen højre arm er udstrakt med håndfladen pegende fremad og i en 60 grader vinkel. Hold rygsøjlen rank og stræk ud fra skulderen. \nChant kraftfuldt fra navlen med øjnene åbne Har, Har, Har, som betyder kreativ uendelighed. \n* Øvelsen sætter pres på nyrerne og hjælper med at udrense.</info>
+				<thumbnailimage>20121205-Final_Destress detox.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>91</moviestart>
+				<moviestop>116</moviestop>
+				<sound>YES</sound>
+				<recommendedtime>1-3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>5. Body drops</title>
+				<info>Sid i skrædderstilling. Placer hænderne på gulvet ved siden af din krop. Lav Body Drops. \nÅnd ind og pres hænderne i gulvet, således du løfter dit sæde fra gulvet. Ånd ud og kom ned.</info>
+				<thumbnailimage>20121205-Final_Destress detox-5.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>118</moviestart>
+				<moviestop>134</moviestop>
+				<sound/>
+				<recommendedtime>1-3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>6. Hænder foran solar plexus</title>
+				<info>Placer hænderne foran solar plexus. Den venstre hånd vender ind mod din krop. Højre hånd presser mod det venstre håndled. Dit blik er nedadvendt og din vejrtrækning langt og dybt. \n* Dybden af dit åndedræt hjælper med at fremme udrensningen.</info>
+				<thumbnailimage>20121205-Final_Destress detox-6.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>137</moviestart>
+				<moviestop>160</moviestop>
+				<sound/>
+				<recommendedtime>1-3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>7. Fremadstræk med rank ryg</title>
+				<info>Sid med benene strækt ud foran dig. Armene parallelle med jorden. \nÅnd ind og læn dig tilbage. Ånd ud og læn dig ind i strækket. \nKraftfuldt åndedræt. Hold armene parallelle til jorden.</info>
+				<thumbnailimage>20121205-Final_Destress detox-7.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>161</moviestart>
+				<moviestop>187</moviestop>
+				<sound/>
+				<recommendedtime>1-3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>8. Hofteløft</title>
+				<info>Læg på ryggen. Sæt fødderne i gulvet og træk dem så tæt på bagen, som muligt. Hvis du kan nå, kan du holde om anklerne, ellers kan du blot lægge hænderne på gulvet. Løft bag og ryg så højt op, du kan, mens du trækker vejret langsomt og dybt ind. Pust langsomt ud i den øverste position, inden du sænker ryg og bag mod gulvet i en kontrolleret bevægelse. \nØvelsen toner ryggen. \nStyrker seksualorganerne og nyrene og har en afstressende og positive indvirkning på PMS.</info>
+				<thumbnailimage>20121205-Final_Destress detox-8.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>190</moviestart>
+				<moviestop>219</moviestop>
+				<sound/>
+				<recommendedtime>1-3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>9. Modificeret kat-ko</title>
+				<info>Modificeret Kat-ko. \nKom på “alle fire”, således at hænder og knæ er adskilte i samme afstand. Knæene under hofterne. Håndled og albuer lige under skuldrene. \nÅnd ud og bring det venstre knæ mod din pande. Ånd ind og stræk dit ben tilbage. \nVirkning - En glimrende øvelse ved lændesmerter. Øvelsen er samtidig så tilpas let, at alle kan udføre den, også selv om man ikke er vant til at arbejde med fysiske øvelser. \nØvelsen arbejder med vores kernemuskulatur.</info>
+				<thumbnailimage>20121205-Final_Destress detox-9.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>221</moviestart>
+				<moviestop>258</moviestop>
+				<sound/>
+				<recommendedtime>1-3 min. øvelse</recommendedtime>
+			</practice>
+			<practice>
+				<id/>
+				<title>10. Kom siddende på dine hæle</title>
+				<info>Læg eventuelt et tæppe eller pude, mellem din bag og dine hæle. Placer underarmene på gulvet foran dig og pres håndfladerne sammen. \nTommelfingrene peger opad. \nÅnd ind medens du strækker kroppen hen over håndfladerne. Ånd ud og sæt dig tilbage på hælene.</info>
+				<thumbnailimage>20121205-Final_Destress detox-10.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>259</moviestart>
+				<moviestop>288</moviestop>
+				<sound/>
+				<recommendedtime/>
+			</practice>
+			<practice>
+				<id/>
+				<title>11. Rygrulning</title>
+				<info>Læg dig på ryggen og bring knæene til brystet. Næsen mellem knæene. Rul frem og tilbage på din rygsøjle.</info>
+				<thumbnailimage>20121205-Final_Destress detox-11.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>291</moviestart>
+				<moviestop>311</moviestop>
+				<sound/>
+			</practice>
+			<practice>
+				<id/>
+				<title>12. Afslapning</title>
+				<info>Giv dig selv lov til at slappe helt af i 10 – 15 minutter.</info>
+				<thumbnailimage>20121205-Final_Destress detox-12.jpg</thumbnailimage>
+				<url>Final_Destress detox</url>
+				<moviestart>312</moviestart>
+				<moviestop>336</moviestop>
+				<sound/>
+				<recommendedtime>11-15 min. afslapning</recommendedtime>
+			</practice>
+		</Set>
+	</menuitem>
+	<menuitem>
+		<id/>
+		<title>Meditation</title>
+		<practice>
+			<id/>
+			<title>Sat Kriya - Yoga og meditation i én.</title>
+			<info>Sat Kriya kan også betegnes som en helt yogatime i sig selv. \nDet er en kraftfuld teknik, som bør praktiseres med respekt. \n\nBegynd derfor med 3 minutter om dagen og forøg tiden op til 11 minutter. Hvis du praktiserer Kundalini Yoga regelmæssigt, kan du øge tiden op til 31 minutter. \n\nSat Kriya er en af de mest kraftfulde øvelser i Kundalini Yoga. Den stimulerer kundalinienergien og øger energiflowet i kroppen. \nSat Kriya giver stærke mavemuskler, stimulerer fordøjelsen, masserer de indre organer og styrker hjertet og nervesystemet. På det psykiske plan anses Sat Kriya for at kunne modvirke usikkerhed og forbedrer dit selvværd. \n1. \nSid i klippestilling (sid på knæ med hælene mod enden). Flet hænderne sammen, undtagen pegefingeren, som peger lige op. \nKryds tommelfingrene. Kvinder krydser venstre over højre og mænd højre over venstre. \nStræk nu armene op over hovedet, og roter overarmene indad således de næsten rør dine ører. \nBrug mantraet SAT NAM. \nSig ordet SAT, hiv din mave og navle ind og op, sig NAM og slap af i maven. \nSat Nam betyder ”sandhed er min identitet”. \nTjek om du sidder stille medens du mediterer. Det er kun din mave, som skal bevæge sig. \nAfslutning: \nTag en dyb indånding, hold vejret og anvend rodlåsen. \nForestil dig at du trækker energien op gennem rygsøjlen og til toppen af hovedet. Ånd ud, hold vejret helt ude og anvend rodlås og klem energi op. \nKom langsomt ud af stillingen og hvil mindst lige så længe, som du har levet øvelsen.</info>
+			<thumbnailimage>20121205-Final_Meditation_Satkriya.jpg</thumbnailimage>
+			<url>Final_Meditation_Satkriya</url>
+			<moviestart/>
+			<moviestop/>
+			<sound>TRUE</sound>
+		</practice>
+		<practice>
+			<id/>
+			<title>Meditation for Mental Klarhed - Kirtan Kriya</title>
+			<info>Sid i skrædderstilling eller på en stol med rank ryg. \nØjnene fokuserer på punktet midt mellem øjenbrynene.  \nMantra: \nSAA: Uendelighed \nTAA: Liv  \nNAA: Død \nMAA: Genfødsel \nTid: 11 minutter: \nFørste del med normal stemme i 2 min. \nAnden del hvisker du. 2 min.
+                \nI tredje del vibrerer du mentalt lyden i 3 min. \nKom tilbage til at hviske i 2 min. \nTil sidst til normal stemme. 2 min. \nKommentar: \nDin underbevidsthed vil måske begynde at komme med gamle tanker følelser/minder. \nHer er det vigtigt at forblive fokuseret på mantraet. \nDenne kraftfulde meditation/mantra vil tilintetgøre din gamle ”programmering” – så du kan nå dit højeste potentiale og virkelig være DIG. \nForklaring om Mudra og fingrenes betydning: \n1st finger: Gyan Mudra – visdom – planeten Jupiter. \n2nd finger: Shuni Mudra  - tålmodighed – planeten Saturn. \n3rd finger: Surya Mudra - vitality, livets energi – Solen. \n\n4th finger: Buddhi Mudra – Kommunikation – planeten Merkur.</info>
+			<thumbnailimage>20121205-Final_Meditation_Kirtan_Kriya.jpg</thumbnailimage>
+			<url>Final_Meditation_Kirtan_Kriya</url>
+			<moviestart/>
+			<moviestop/>
+			<sound>TRUE</sound>
+		</practice>
+		<practice>
+			<id/>
+			<title>Cappucino Meditationen for kraftfuld energi</title>
+			<info>Sid i skrædderstilling med rygsøjlen rank og hagen trukket ind. \nFlet fingrene sammen, hold ringfingrene strakte, pegende opad. Den højre tommelfinger er øverst. Hold hænderne ud fra navlen og fingrene peger op i en 60 grader vinkel. \nØjnene er lukkede. \nÅnd dybt ind og chant kraftfuld lyden ONG (udtalt Ooonnnnnnnng). Lyden er monoton og kommer helt fra halsen. \nGentag 5 eller flere gange. \nOm denne meditation: \nEffekten af denne chant, når udført korrekt, skal opleves. Det kræver kun 5 gentagelser for at opløfte din bevidsthed. \nHvis du har en hård dag foran dig, vil denne meditation give dig kraftfuld energi og balancere din mest effektive computer – nemlig din hjerne. \nLav denne meditation når du er sikker på at have lidt tid til at slappe af.</info>
+			<thumbnailimage>20121205-Final_Meditation_Powerful_Energi.jpg</thumbnailimage>
+			<url>Final_Meditation_Powerful_Energi</url>
+			<moviestart/>
+			<moviestop/>
+			<sound>TRUE</sound>
+		</practice>
+		<practice>
+			<id/>
+			<title>Indre Ro og overskud - for et roligt hjerte</title>
+			<info>Sid i skrædderstilling eller på en stol med rank rygsøjle. \nLuk dine øjne. Læg venstre hånd på midten af brystet, så fingrene er parallelle med gulvet og tommelfingeren peger opad. Bøj den højre arm, som om du skulle aflægge en ed, højre håndflade peger fremad. \nLæg højre tommelfinger over højre pegefingernegl (også kaldet aktiv gyan mudra) eller benyt gyan mudra – højre tommelfinger og højre pegefinger rør hinanden. \nDe andre fingre peger op mod himlen. Tag **lange dybe vejrtrækninger. Ånd dybt ind, helt ned i maven, ud i ribbenene og op til kravebenet, hold så vejret så længe du kan, ånd fuldstændigt ud. \nFortsæt 3 -11 minutter. \nKommentar: \Det rolige hjertets meditation skaber følelsesmæssig balance og indre ro. Den hjælper dig til at få en klar og tydelig opfattelse af din relation til dig selv og til andre mennesker. \nHvis du er ked af det på arbejdet eller i et personligt forhold, så sid i denne meditation i 3 til 15 minutter, før du beslutter, hvordan du skal handle. Handl derefter med dit fulde hjerte. \nFysisk styrker denne meditation lungerne og hjertet. \n\n**Den lange dybe vejrtrækning er sammensat af 3 elementer – mave-, bryst- og kravebensånding. \n\n1). Første element: \nLæg hånden på maven. \nTræk vejret dybt ned i ”maven”, således hånden skubbes udad. Mellemgulvet sænkes. \n\n2). Andet element: \nFortsæt med at fylde op i bryskkassen. \nHelt ud i ribbene som skubbes udad. \n\n3). Hånden på brystet. Sidste element af indåndingen udføres i allerøverste del af brystkassen, hvor kravebenene løftes en lille smule. \n\nEffekter af lange dybe vejrtrækninger er mange. Her er nogle få nævnt: \n-	Modvirker stress og spænding \n-	Giver energi og øger koncentrationen \n-	Hjælper dig til at kontrollere følelser og tanker \n-	Skaber udholdenhed og tålmodighed</info>
+			<thumbnailimage>20121205-Final_Meditation_Calm_Heart.jpg</thumbnailimage>
+			<url>Final_Meditation_Calm_Heart</url>
+			<moviestart/>
+			<moviestop/>
+			<sound/>
+		</practice>
+	</menuitem>
+	<menuitem>
+		<id/>
+		<title>Kom i gang</title>
+        <practice>
+            <id>ShowTxtFirstRow</id>
+			<title>Kom i gang</title>
+			<info>Denne app er udviklet så den både passer til dig, der er nybegynder og dig, der allerede er en erfaren yogi.\n\nDu får 39 øvelser fordelt på 5 yogasessions, at vælge mellem. F.eks. Anti-stress, Solens Yogapas og Detox derudover får du 4 meditationer at vælge mellem.\n\nØvelserne udføres nemt og bekvemt. Når og hvor det passer dig. F.eks. på en stol, på din arbejdsplads – eller på gulvet hjemme i stuen.\n\nAlle yogasættene og meditationerne er specielt udvalgte til at afstresse og vitalisere din krop, og balancere dit nervesystem. Vælg det du har brug for i dag\n\nStart med at tune ind. (Findes under "kom i gang")\n\nVarm op: Vælg de opvarmningsøvelser, som du har brug for i dag. Øvelserne er blide og vækker din krop.  (Findes under " Yoga")\n\nYoga: Vælg det sæt af øvelser, som du har lyst til idag.  (Findes under " Yoga")\n\nAfslut dagens yoga. (Findes under "kom i gang")</info>
+            <thumbnailimage>20121205-Final_TuneIn.jpg</thumbnailimage>
+            <url>Final_TuneIn</url>
+            <moviestart/>
+            <moviestop/>
+            <sound>NO</sound>
+            <snapshot/>
+        </practice>
+        <practice>
+            <id/>
+            <title>Tune ind og start op</title>
+            <info>Hvorfor tuner du ind? \n\nHver gang du praktisere Kundalini Yoga starter du med at tune ind med Adi-mantraet: \nONG NAMO GURU DEV NAMO. \nDenne vibration beroliger dit sind og åbner op. \nLigesom vi er i stand til at vælge en kanal på fjernsynet eller i radioen, indstiller vi i Kundalini Yoga sindet til i en bestemt frekvens, ved hjælp mantra som vores fjernbetjening. \n\nAlt i universet er lavet af energi, vibrerende på forskellige frekvenser. \nUanset om vi er klar over det eller ej, vælger vi konstant »programmet« af vores sind efter hvad vi vibrere, via de tanker vi tænker og de ord, vi taler. \n\nChanting mantraer er ikke sang eller tale, det er vibration. Mantraer er kombinationer af stavelser, der giver os mulighed for at oprette forbindelse med specifikke niveauer af intelligens eller bevidsthed, hvilket påvirker mønstre i sindet og kemi i hjernen. \n\nVi starter hver Kundalini Yoga session ved at tune ind på den bølge-længde af læreren, og åbne en beskyttende forbindelse til afstamning af lærere, der er kommet før. \n\nMantraet vi bruger, er ONG namo GURU DEV namo. Den sikrer den reneste indre vejledning for din praksis. \n\nHvordan tuner du ind? \n\nSid i skrædderstilling eller på en stol. \nTræk vejret stille og roligt ind og ud igennem næsen. Dine øjne er lukkede og lyt nogle øjeblikke til din vejrtrækning. \nGnid håndfladerne mod hinanden, pres håndfladerne sammen i bønposition foran hjertet og tag en dyb indånding. \nChant mantraet ”ONG NAMO GURU DEV NAMO” på en vejrtrækning og gentag i mindst tre gange eller så mange gange du vil, indtil du føler dig ”connected”. \n\nOng Namo Guru Dev Namo betyder ”Jeg bøjer mig for min indre lærer og vejen fra mørke til lys – til at leve et liv i mere bevidsthed.</info>
+            <thumbnailimage>20121205-Final_TuneIn.jpg</thumbnailimage>
+            <url>Final_TuneIn</url>
+            <moviestart/>
+            <moviestop/>
+            <sound>YES</sound>
+            <snapshot/>
+        </practice>
+        <practice>
+            <id/>
+            <title>Afslut dagens yoga</title>
+            <info>Hver Kundalini Yoga time slutter med at chante SAT NAM tre gange. \n\nOrder SAT chantes syv gange længere end NAM. \nSAT betyder ”sandhed” og NAM betyder ”identitet – vi afslutter med bevidstheden om af være vores sande identitet.</info>
+            <thumbnailimage>20121205-Final_TuneOut.jpg</thumbnailimage>
+            <url>Final_TuneOut</url>
+            <moviestart/>
+            <moviestop/>
+            <sound>YES</sound>
+            <snapshot/>
+        </practice>
+	</menuitem>
+</menu>

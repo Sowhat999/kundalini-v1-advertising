@@ -5,11 +5,12 @@
  Created by Christian Andersen on 02/11/12.
  
  */
-"BUYFULL" = "Ingen reklamer";
+"BUYFULL" = "KØB FULDE VERSION";
+"BUYFULLMESSAGE" = "Du kan kun bruge warm op yoga set i Lite version";
 "ABOUTLABEL" = "Om";
 "TUNEINLABEL" = "Kom i gang";
 "READMORELABEL" = "Læs mere";
-"ABOUT0TITLE" = "Om App'en - version 1.5";
+"ABOUT0TITLE" = "Om App'en - version 1.7";
 "ABOUT1TITLE" = "Om Dyb:ro yoga";
 "ABOUT2TITLE" = "Om Pernille Dybro";
 "ABOUT3TITLE" = "Om Kundalini yoga";

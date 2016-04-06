@@ -52,21 +52,6 @@
 }
 
 
-//- (id) GetitemFromId:(NSString *) id
-//{
-////    for (Keyword *key in self.hotKeys) {
-////        if ([key.Key isEqualToString:word]) {
-////            hot = YES;
-////        }
-////    }
-//    
-//    
-//}
-
-
-
-
-
 -(void) BuildYogaMenu:(XMLElement *) start MenuObj:(id) menuObj
 {
   //  NSLog(@"%@", start.name );
